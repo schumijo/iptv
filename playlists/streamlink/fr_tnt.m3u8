@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-name="TF1" tvg-language="French" tvg-country="FR",TF1
+pipe:///usr/local/bin/streamlink --stdout --default-stream 720p --url https://www.tf1.fr/tf1/direct
+#EXTINF:-1 tvg-name="France 2" tvg-language="French" tvg-country="FR",France 2
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/france-2/direct.html
+#EXTINF:-1 tvg-name="France 3" tvg-language="French" tvg-country="FR",France 3
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/france-3/direct.html
+#EXTINF:-1 tvg-name="France 5" tvg-language="French" tvg-country="FR",France 5
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/france-5/direct.html
+#EXTINF:-1 tvg-name="Arte" tvg-language="French" tvg-country="FR",Arte
+pipe:///usr/local/bin/streamlink --stdout --default-stream 720p --url https://www.arte.tv/fr/direct/
+#EXTINF:-1 tvg-name="C8" tvg-language="French" tvg-country="FR",C8
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x5gv5rr
+#EXTINF:-1 tvg-name="TMC" tvg-language="French" tvg-country="FR",TMC
+pipe:///usr/local/bin/streamlink --stdout --default-stream 720p --url https://www.tf1.fr/tmc/direct
+#EXTINF:-1 tvg-name="TFX" tvg-language="French" tvg-country="FR",TFX
+pipe:///usr/local/bin/streamlink --stdout --default-stream 720p --url https://www.tf1.fr/tfx/direct
+#EXTINF:-1 tvg-name="France 4" tvg-language="French" tvg-country="FR",France 4
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/france-4/direct.html
+#EXTINF:-1 tvg-name="BFM TV" tvg-language="French" tvg-country="FR",BFM TV
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/en-direct/
+#EXTINF:-1 tvg-name="CNews" tvg-language="French" tvg-country="FR",CNews
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1 tvg-name="CStar" tvg-language="French" tvg-country="FR",CStar
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x5gv5v0
+#EXTINF:-1 tvg-name="Gulli" tvg-language="French" tvg-country="FR",Gulli
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://replay.gulli.fr/Direct
+#EXTINF:-1 tvg-name="TF1 Series Films" tvg-language="French" tvg-country="FR",TF1 Series Films
+pipe:///usr/local/bin/streamlink --stdout --default-stream 720p --url https://www.tf1.fr/tf1-series-films/direct
+#EXTINF:-1 tvg-name="L'Equipe" tvg-language="French" tvg-country="FR",L'Equipe
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x2lefik
+#EXTINF:-1 tvg-name="LCI" tvg-language="French" tvg-country="FR",LCI
+pipe:///usr/local/bin/streamlink --stdout --default-stream 720p --url https://www.tf1.fr/lci/direct
+#EXTINF:-1 tvg-name="Franceinfo" tvg-language="French" tvg-country="FR",Franceinfo
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/franceinfo/direct.html

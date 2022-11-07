@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Rakuten TV Action" tvg-language="French" tvg-country="FR",Rakuten TV Action
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Action" tvg-language="French" tvg-country="FR",Rakuten TV Action
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Comedies" tvg-language="French" tvg-country="FR",Rakuten TV Comedies
+https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Comedies" tvg-language="French" tvg-country="FR",Rakuten TV Comedies
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Spotlight" tvg-language="French" tvg-country="FR",Rakuten TV Spotlight
+https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Spotlight" tvg-language="French" tvg-country="FR",Rakuten TV Spotlight
+https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Anime Digital Network" tvg-language="French" tvg-country="FR",Rakuten TV Anime Digital Network
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV BBC Doctor Who" tvg-language="French" tvg-country="FR",Rakuten TV BBC Doctor Who
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV BBC Drama" tvg-language="French" tvg-country="FR",Rakuten TV BBC Drama
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Documentaires" tvg-language="French" tvg-country="FR",Rakuten TV Documentaires
+https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Documentaires" tvg-language="French" tvg-country="FR",Rakuten TV Documentaires
+https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Drames" tvg-language="French" tvg-country="FR",Rakuten TV Drames
+https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Drames" tvg-language="French" tvg-country="FR",Rakuten TV Drames
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Films Français" tvg-language="French" tvg-country="FR",Rakuten TV Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Thriller" tvg-language="French" tvg-country="FR",Rakuten TV Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Gusto.tv" tvg-language="French" tvg-country="FR",Rakuten TV Gusto.tv
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV L'Atelier des Chefs" tvg-language="French" tvg-country="FR",Rakuten TV L'Atelier des Chefs
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Romance" tvg-language="French" tvg-country="FR",Rakuten TV Romance
+https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Romance" tvg-language="French" tvg-country="FR",Rakuten TV Romance
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Top Films" tvg-language="French" tvg-country="FR",Rakuten TV Top Films
+https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Rakuten TV Top Films" tvg-language="French" tvg-country="FR",Rakuten TV Top Films
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8

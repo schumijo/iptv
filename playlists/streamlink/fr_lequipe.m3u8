@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="L'Equipe" tvg-language="French" tvg-country="FR",L'Equipe
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k5s40USR9HxnG5aCf1y
+#EXTINF:-1 tvg-name="L'Equipe Live 2" tvg-language="French" tvg-country="FR",L'Equipe Live 2
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k1ZUdcthDLhoYjgMfdf
+#EXTINF:-1 tvg-name="L'Equipe Live 3" tvg-language="French" tvg-country="FR",L'Equipe Live 3
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k1kypsRZF9plQhqwBRS
+#EXTINF:-1 tvg-name="L'Equipe Live 4" tvg-language="French" tvg-country="FR",L'Equipe Live 4
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k5TgcOKBUTM2KnqwBWC
+#EXTINF:-1 tvg-name="L'Equipe Live 5" tvg-language="French" tvg-country="FR",L'Equipe Live 5
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/kXRfcKHV9HhcZuqwBYP
+#EXTINF:-1 tvg-name="L'Equipe Live 6" tvg-language="French" tvg-country="FR",L'Equipe Live 6
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k6oih7JyuEmhrnqwBZT
+#EXTINF:-1 tvg-name="L'Equipe Live 7" tvg-language="French" tvg-country="FR",L'Equipe Live 7
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k3HiS3JB0BsORKqwC49
+#EXTINF:-1 tvg-name="L'Equipe Live 8" tvg-language="French" tvg-country="FR",L'Equipe Live 8
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k6P3xLH5tTtGSgqwC4P
+#EXTINF:-1 tvg-name="L'Equipe Live 9" tvg-language="French" tvg-country="FR",L'Equipe Live 9
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k1y3Q3GC7w8flQry8S3
+#EXTINF:-1 tvg-name="L'Equipe Live 10" tvg-language="French" tvg-country="FR",L'Equipe Live 10
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k5VKYQn5hAE4vfry927
+#EXTINF:-1 tvg-name="L'Equipe Live 12" tvg-language="French" tvg-country="FR",L'Equipe Live 12
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k2Z9T8IhyLWvyPtITYJ
+#EXTINF:-1 tvg-name="L'Equipe Live 13" tvg-language="French" tvg-country="FR",L'Equipe Live 13
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k53cYSxIs49Vf0wkv86
+#EXTINF:-1 tvg-name="L'Equipe Live 14" tvg-language="French" tvg-country="FR",L'Equipe Live 14
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k7rZDp22dyZ25EwkvsF
+#EXTINF:-1 tvg-name="L'Equipe Live 15" tvg-language="French" tvg-country="FR",L'Equipe Live 15
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k6c3A07yUljlAzwkvtL
+

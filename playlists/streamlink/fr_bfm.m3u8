@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BFM Business" tvg-language="French" tvg-country="FR",BFM Business
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/economie/en-direct/
+#EXTINF:-1 tvg-name="BFM Paris" tvg-language="French" tvg-country="FR",BFM Paris
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/paris/en-direct/
+#EXTINF:-1 tvg-name="BFM Lyon" tvg-language="French" tvg-country="FR",BFM Lyon
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/lyon/en-direct/
+#EXTINF:-1 tvg-name="BFM Marseille" tvg-language="French" tvg-country="FR",BFM Marseille Provence
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/marseille/en-direct/
+#EXTINF:-1 tvg-name="BFM Grand Lille" tvg-language="French" tvg-country="FR",BFM Grand Lille
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/grand-lille/en-direct/
+#EXTINF:-1 tvg-name="BFM Grand Littoral" tvg-language="French" tvg-country="FR",BFM Grand Littoral
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/grand-littoral/en-direct/
+#EXTINF:-1 tvg-name="BFM Côte d'Azur" tvg-language="French" tvg-country="FR",BFM Nice Côte d'Azur
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/cote-d-azur/en-direct/
+#EXTINF:-1 tvg-name="BFM Var" tvg-language="French" tvg-country="FR",BFM Toulon Var
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/var/en-direct/
+#EXTINF:-1 tvg-name="BFM DICI Alpes du Sud" tvg-language="French" tvg-country="FR",BFM DICI Alpes du Sud
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/bfm-dici/alpes-du-sud/en-direct/
+#EXTINF:-1 tvg-name="BFM DICI Haute Provence" tvg-language="French" tvg-country="FR",BFM DICI Haute Provence
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/bfm-dici/haute-provence/en-direct/
+#EXTINF:-1 tvg-name="BFM Alsace" tvg-language="French" tvg-country="FR",BFM Alsace
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/alsace/en-direct/
+#EXTINF:-1 tvg-name="BFM Alsace" tvg-language="French" tvg-country="FR",BFM Normandie
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/normandie/en-direct/

@@ -19,6 +19,8 @@ https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversCine.fr" tvg-chno="11" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec277457-df83-4f9a-9025-472349a10673-universcine-1631782223.jpeg",Univers Cine
 https://universcine-samsungfre.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineNanar.fr" tvg-chno="12" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7da2ec2c-3f30-4f43-9645-cdae9e643dc4-cine-nanar-1639670333.jpeg",Cine Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-chno="14" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9632cedb-5638-4010-9528-3ebf0071d631-screamin-1639988850.jpeg",ScreamIN
 https://zylo-screamin-rakuten.amagi.tv/playlist.m3u8
 
@@ -37,17 +39,21 @@ https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LatelierDesChefs.fr" tvtvg-chno="73" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/97f56a51-8d98-4525-b17a-9596a3c271d8-ateliers-des-chefs-1626341165.jpeg",L'Atelier des Chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ofive" tvg-chno="81" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1ca07719-2d41-4cb4-bb4a-a27be61b088f-ofive-1640080498.jpeg",Ofive
+#EXTINF:-1 tvg-id="Ofive.fr" tvg-chno="81" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1ca07719-2d41-4cb4-bb4a-a27be61b088f-ofive-1640080498.jpeg",Ofive
 https://ofive-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ClubbingTV" tvg-chno="82" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2fc47cc8-4fe6-4d42-ba45-cd5fb047b57f-clubbing-tv-1607942564.jpeg",Clubbing TV
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-chno="82" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2fc47cc8-4fe6-4d42-ba45-cd5fb047b57f-clubbing-tv-1607942564.jpeg",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVJazzAndBeyond.fr" tvg-chno="83" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/00401081-8e69-44b0-9e56-849ad93598ba-qwest-tv-jazz-and-beyond-1616656443.png",Qwest TV Jazz & Beyond
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVMix.fr" tvg-chno="84" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4fda5641-e93b-4b0f-9e22-0c7b87df7cc1-qwest-tv-mix-1616656456.png",Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 tvg-id="QwestTVClassical.fr" tvg-chno="89" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d90f0b2b-9af0-4fe1-b431-6074c511dcf7-qwest-tv-classical-1616656417.png",Qwest TV Classical
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamille.fr" tvg-chno="91" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/15214696-22b8-4d65-a161-2f81da938c05-famille-rakuten-tv-1621956470.jpeg",Rakuten TV Famille
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="" tvg-logo="",Rakuten TV Documentaires
 #https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
-
 
 

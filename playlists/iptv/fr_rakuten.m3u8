@@ -1,43 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rakuten TV Action" tvg-language="French" tvg-country="FR",Rakuten TV Action
-https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Action" tvg-language="French" tvg-country="FR",Rakuten TV Action
-https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Comedies" tvg-language="French" tvg-country="FR",Rakuten TV Comedies
-https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Comedies" tvg-language="French" tvg-country="FR",Rakuten TV Comedies
-https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Spotlight" tvg-language="French" tvg-country="FR",Rakuten TV Spotlight
-https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Spotlight" tvg-language="French" tvg-country="FR",Rakuten TV Spotlight
-https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Anime Digital Network" tvg-language="French" tvg-country="FR",Rakuten TV Anime Digital Network
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV BBC Doctor Who" tvg-language="French" tvg-country="FR",Rakuten TV BBC Doctor Who
-https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV BBC Drama" tvg-language="French" tvg-country="FR",Rakuten TV BBC Drama
-https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Documentaires" tvg-language="French" tvg-country="FR",Rakuten TV Documentaires
-https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Documentaires" tvg-language="French" tvg-country="FR",Rakuten TV Documentaires
-https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Drames" tvg-language="French" tvg-country="FR",Rakuten TV Drames
-https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Drames" tvg-language="French" tvg-country="FR",Rakuten TV Drames
-https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Films Français" tvg-language="French" tvg-country="FR",Rakuten TV Films Français
-https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Thriller" tvg-language="French" tvg-country="FR",Rakuten TV Thriller
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Gusto.tv" tvg-language="French" tvg-country="FR",Rakuten TV Gusto.tv
-https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV L'Atelier des Chefs" tvg-language="French" tvg-country="FR",Rakuten TV L'Atelier des Chefs
-https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Romance" tvg-language="French" tvg-country="FR",Rakuten TV Romance
-https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Romance" tvg-language="French" tvg-country="FR",Rakuten TV Romance
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Top Films" tvg-language="French" tvg-country="FR",Rakuten TV Top Films
-https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Top Films" tvg-language="French" tvg-country="FR",Rakuten TV Top Films
+#EXTINF:-1 tvg-id="RakutenTVTopFilms.fr" tvg-chno="1" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/8ec740dc-2799-4cb4-9987-3f187742bfbb-top-films-rakuten-tv-1621956555.png",Rakuten TV Top Films
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVAction.fr" tvg-chno="2" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e87ece78-2a31-4a08-a673-6d08bb8f8a06-films-d-action-rakuten-tv-1621956489.png",Rakuten TV Action
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedies.fr" tvg-chno="3" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/83ab0208-8f29-4fe7-ac35-3a7082354b86-comedies-rakuten-tv-1621956497.png",Rakuten TV Comédies
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDrames.fr" tvg-chno="4" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3048e7b4-f088-4f7f-a693-3bf229c1a920-drames-rakuten-tv-1621956482.jpeg",Rakuten TV Drames
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDocumentaires.fr" tvg-chno="5" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2eabdd85-bcda-4000-b56d-5cc945fb6079.jpeg",Rakuten TV Documentaires
+https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFilmsFrancais.fr" tvg-chno="6" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7f7f5ed5-7e2c-4108-b197-0330c11f0bc3.jpeg",Rakuten TV Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVThriller.fr" tvg-chno="7" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/6dd17394-15ca-4a98-88fb-a55b07ec5000-thrillers-rakuten-tv-1635839722.jpeg",Rakuten TV Films Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVRomance.fr" tvg-chno="8" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/393e06e8-5cd9-4c4b-9137-bbf06a4fb8bc-films-romantiques-rakuten-tv-1641196725.jpeg",Rakuten TV Romance
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.fr" tvg-chno="9" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/26dc9dee-5557-4ac5-8629-46d182464b92-mytime-movie-network-1623421933.jpeg",MyTime Movie Network
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversCine.fr" tvg-chno="11" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec277457-df83-4f9a-9025-472349a10673-universcine-1631782223.jpeg",Univers Cine
+https://universcine-samsungfre.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ScreamIN.fr" tvg-chno="14" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9632cedb-5638-4010-9528-3ebf0071d631-screamin-1639988850.jpeg",ScreamIN
+https://zylo-screamin-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCDoctorWho.fr" tvg-chno="24" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/777183e0-30e1-4be3-9aac-2ce5603d6138-doctor-who-1639673907.jpeg",BBC Doctor Who
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCDrama.fr" tvg-chno="25" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/656e6878-7a30-4f97-92df-062cc9d01ebd-bbc-drama-1639673949.jpeg",BBC Drama
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeDigitalNetwork.fr" tvg-chno="27" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/8e222c30-3caa-462e-af2f-7ba343eca3aa-adn-1630324333.jpeg",Anime Digital Network
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-chno="62" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1da83827-3469-466b-903b-2fd16f033c66-luxe-tv.jpeg",Luxe TV
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.fr" tvg-chno="71" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",Gusto.tv
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LatelierDesChefs.fr" tvtvg-chno="73" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/97f56a51-8d98-4525-b17a-9596a3c271d8-ateliers-des-chefs-1626341165.jpeg",L'Atelier des Chefs
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ofive" tvg-chno="81" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1ca07719-2d41-4cb4-bb4a-a27be61b088f-ofive-1640080498.jpeg",Ofive
+https://ofive-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ClubbingTV" tvg-chno="82" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/2fc47cc8-4fe6-4d42-ba45-cd5fb047b57f-clubbing-tv-1607942564.jpeg",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+##EXTINF:-1 tvg-id="" tvg-logo="",Rakuten TV Documentaires
+#https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TF1 Polar Fiction" tvg-language="French" tvg-country="FR",TF1 Polar Fiction
+#EXTINF:-1 tvg-id="TF1PolarFiction.fr" tvg-chno="1" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-polar-fiction-v3-a63802-12b3bf-0@1x.png",TF1 Polar Fiction
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/police-fiction-47775809
 #EXTINF:-1 tvg-name="TF1 Thriller Fiction" tvg-language="French" tvg-country="FR",TF1 Thriller Fiction
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/thriller-fiction-89242722

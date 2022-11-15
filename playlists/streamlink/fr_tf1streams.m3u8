@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TF1 Polar Fiction" tvg-language="French" tvg-country="FR",TF1 Polar Fiction
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/police-fiction-47775809
+#EXTINF:-1 tvg-name="TF1 Thriller Fiction" tvg-language="French" tvg-country="FR",TF1 Thriller Fiction
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/thriller-fiction-89242722

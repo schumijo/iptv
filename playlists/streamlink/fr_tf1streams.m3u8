@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1PolarFiction.fr" tvg-chno="1" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-polar-fiction-v3-a63802-12b3bf-0@1x.png",TF1 Polar Fiction
+#EXTINF:-1 tvg-id="TF1RISPoliceScientifique.fr" tvg-chno="1" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-ris-police-scientifique-efe8c3-d1b06c-0@1x.png",TF1 RIS Police Scientifique
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/ris-police-scientifique-42165804
+#EXTINF:-1 tvg-id="TF1Chante.fr" tvg-chno="2" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-2087ed-a8176a-0@1x.png",TF1 Chante
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/chante-69061019
+#EXTINF:-1 tvg-id="TF1PolarFiction.fr" tvg-chno="3" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-polar-fiction-v3-a63802-12b3bf-0@1x.png",TF1 Polar Fiction
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/police-fiction-47775809
-#EXTINF:-1 tvg-name="TF1 Thriller Fiction" tvg-language="French" tvg-country="FR",TF1 Thriller Fiction
+#EXTINF:-1 tvg-id="TF1ThrillerFiction.fr" tvg-chno="4" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-thriller-fiction-28cbbb-69c265-0@1x.png",TF1 Thriller Fiction
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/thriller-fiction-89242722
+#EXTINF:-1 tvg-id="TF1ClassiqueFiction.fr" tvg-chno="5" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream_classique-fiction-71174a-c03309-0@1x.png",TF1 Classique Fiction
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/classique-fiction-83644275
+#EXTINF:-1 tvg-id="TF1ComedieFiction.fr" tvg-chno="6" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-comedie-fiction-3396c9-e68af4-0@1x.png",TF1 Comédie Fiction
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/comedie-fiction-25247701
+#EXTINF:-1 tvg-id="TF1SagaFiction.fr" tvg-chno="7" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-7ed23f-b08929-0@1x.png",TF1 Saga Fiction
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/saga-de-lete-75354693

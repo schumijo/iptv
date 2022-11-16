@@ -1,25 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BFM Business" tvg-language="French" tvg-country="FR",BFM Business
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-chno="15" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmtv100.png",BFM TV
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/en-direct/
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-chno="33" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmbusiness100.png",BFM Business
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/economie/en-direct/
-#EXTINF:-1 tvg-name="BFM Paris" tvg-language="French" tvg-country="FR",BFM Paris
+#EXTINF:-1 tvg-id="TechAndCo.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100RMCBFMPLAY.png",Tech&Co
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/tech/en-direct/
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-chno="30" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMPARISIDF100x100whitebfm.png",BFM Paris
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/paris/en-direct/
-#EXTINF:-1 tvg-name="BFM Lyon" tvg-language="French" tvg-country="FR",BFM Lyon
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmlyon100.png",BFM Lyon
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/lyon/en-direct/
-#EXTINF:-1 tvg-name="BFM Marseille" tvg-language="French" tvg-country="FR",BFM Marseille Provence
+#EXTINF:-1 tvg-id="BFMMarseilleProvence.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMMARSEILLEPROV2100x100white.png",BFM Marseille Provence
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/marseille/en-direct/
-#EXTINF:-1 tvg-name="BFM Grand Lille" tvg-language="French" tvg-country="FR",BFM Grand Lille
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmlille100.png",BFM Grand Lille
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/grand-lille/en-direct/
-#EXTINF:-1 tvg-name="BFM Grand Littoral" tvg-language="French" tvg-country="FR",BFM Grand Littoral
+#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmlittoral100.png",BFM Grand Littoral
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/grand-littoral/en-direct/
-#EXTINF:-1 tvg-name="BFM Côte d'Azur" tvg-language="French" tvg-country="FR",BFM Nice Côte d'Azur
+#EXTINF:-1 tvg-id="BFMNiceCotedAzur.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR2100x100white.png",BFM Nice Côte d'Azur
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/cote-d-azur/en-direct/
-#EXTINF:-1 tvg-name="BFM Var" tvg-language="French" tvg-country="FR",BFM Toulon Var
+#EXTINF:-1 tvg-id="BFMToulonVar.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMTOULONVAR2100x100white.png",BFM Toulon Var
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/var/en-direct/
-#EXTINF:-1 tvg-name="BFM DICI Alpes du Sud" tvg-language="French" tvg-country="FR",BFM DICI Alpes du Sud
+#EXTINF:-1 tvg-id="BFMDICIAlpesduSud.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmalpes100.png",BFM DICI Alpes du Sud
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/bfm-dici/alpes-du-sud/en-direct/
-#EXTINF:-1 tvg-name="BFM DICI Haute Provence" tvg-language="French" tvg-country="FR",BFM DICI Haute Provence
+#EXTINF:-1 tvg-id="BFMDICIHauteProvence.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/logopdsbfmprovence100.png",BFM DICI Haute Provence
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/bfm-dici/haute-provence/en-direct/
-#EXTINF:-1 tvg-name="BFM Alsace" tvg-language="French" tvg-country="FR",BFM Alsace
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMAlsace100x100white.png",BFM Alsace
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/alsace/en-direct/
-#EXTINF:-1 tvg-name="BFM Alsace" tvg-language="French" tvg-country="FR",BFM Normandie
+#EXTINF:-1 tvg-id="BFMNormandie.fr" tvg-chno="0" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMNORMANDIE100x100BLANC.png",BFM Normandie
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.bfmtv.com/normandie/en-direct/

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teva.fr" tvg-chno="0" tvg-logo="",Teva
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8 -c copy -f mpegts pipe:1

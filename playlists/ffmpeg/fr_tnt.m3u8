@@ -3,3 +3,5 @@
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-chno="0" tvg-logo="",Paris Premiere
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="RTLTVI.fr" tvg-chno="0" tvg-logo="",RTL TVI
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL-TVI/master.m3u8

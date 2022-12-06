@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLTVI.fr" tvg-chno="0" tvg-logo="",RTL TVI
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL-TVI/master.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="BelRTL.fr" tvg-chno="0" tvg-logo="",Bel RTL
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/Bel_RTL/master.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="ClubRTL.fr" tvg-chno="0" tvg-logo="",Club RTL
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/Club_RTL/master.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="PlugRTL.fr" tvg-chno="0" tvg-logo="",Plug RTL
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/Plug_RTL/master.m3u8 -c copy -f mpegts pipe:1

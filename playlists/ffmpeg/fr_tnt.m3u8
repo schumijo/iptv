@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="M6.fr" tvg-chno="6" tvg-logo="",M6
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/m6.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="W9.fr" tvg-chno="9" tvg-logo="",W9
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/w9.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-chno="18" tvg-logo="",Gulli
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/gulli.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="6ter.fr" tvg-chno="22" tvg-logo="",6Ter
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/6ter.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="Teva.fr" tvg-chno="0" tvg-logo="",Teva
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/teva.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-chno="0" tvg-logo="",Paris Premiere

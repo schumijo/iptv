@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Teva.fr" tvg-chno="0" tvg-logo="",Teva
-pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8 -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/teva.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-chno="0" tvg-logo="",Paris Premiere
-pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/PP/master.m3u8 -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/pp.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-chno="0" tvg-logo="",Canal J
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/Canal_J/master.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-chno="0" tvg-logo="",TiJi

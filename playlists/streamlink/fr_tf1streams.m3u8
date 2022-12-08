@@ -33,7 +33,7 @@ pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://ww
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/la-vie-a-tout-prix-47999719
 #EXTINF:-1 tvg-id="TF1IdentitesSecretes.fr" tvg-chno="17" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-b4efe0-74e319-0@1x.png",Identités Secrètes
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/identites-secretes-88575046
-#EXTINF:-1 tvg-id="TF1Hartleycoeuravif.fr" tvg-chno="18" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-efccfb-02e6f5-0@1x.png",Hartley, coeur à vif
+#EXTINF:-1 tvg-id="TF1Hartleycoeuravif.fr" tvg-chno="18" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-efccfb-02e6f5-0@1x.png",Hartley coeur à vif
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/hartley-coeur-a-vif-01934938
 #EXTINF:-1 tvg-id="TF1Hollyoaks.fr" tvg-chno="19" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-hollyoaks-81a646-d84e1c-0@1x.png",Hollyoaks
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/hollyoaks-94702924
@@ -49,41 +49,45 @@ pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://ww
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/le-destin-de-lisa-90714215
 #EXTINF:-1 tvg-id="TF1Telenovelas.fr" tvg-chno="25" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-telenovelas-1-759f8e-5a2a4d-0@1x.png",Télénovelas
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/telenovelas-06216874
-#EXTINF:-1 tvg-id="TF1Halloween.fr" tvg-chno="26" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-ed2043-5413bd-0@1x.png",Halloween
+#EXTINF:-1 tvg-id="TF1RomantiqueFilms.fr" tvg-chno="26" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-comedie-romantique-e735cf-b23741-0@1x.png",Romantique Films
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/romantique-films-00338742
+#EXTINF:-1 tvg-id="TF1Halloween.fr" tvg-chno="27" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-ed2043-5413bd-0@1x.png",Halloween
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/halloween-28456394
-#EXTINF:-1 tvg-id="TF1LesTelefilmsdeNoel.fr" tvg-chno="27" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-noel-movies-770ea5-31e7f5-0@1x.png",Les Téléfilms de Noël
+#EXTINF:-1 tvg-id="TF1LesTelefilmsdeNoel.fr" tvg-chno="28" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-noel-movies-770ea5-31e7f5-0@1x.png",Les Téléfilms de Noël
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/christmas-movie-79418638
-#EXTINF:-1 tvg-id="TF1RomanceMovie.fr" tvg-chno="28" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-romance-movie-42203e-04f541-0@1x.png",Romance Movie
+#EXTINF:-1 tvg-id="TF1RomanceMovie.fr" tvg-chno="29" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-romance-movie-42203e-04f541-0@1x.png",Romance Movie
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/romance-movie-65172991
-#EXTINF:-1 tvg-id="TF1FrissonMovie.fr" tvg-chno="29" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-frisson-movie-1-a0c35c-81af31-0@1x.png",Frisson Movie
+#EXTINF:-1 tvg-id="TF1FrissonMovie.fr" tvg-chno="30" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-frisson-movie-1-a0c35c-81af31-0@1x.png",Frisson Movie
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/frisson-movie-25680344
-#EXTINF:-1 tvg-id="TF1AnimesJaponais.fr" tvg-chno="30" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-dd5b8b-10d5f2-0@1x.png",Animés Japonais
+#EXTINF:-1 tvg-id="TF1DetectiveConan.fr" tvg-chno="31" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream-detective-conan-a9f205-2eb1a0-0@1x.png",Detective Conan
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/detective-conan-62262415
+#EXTINF:-1 tvg-id="TF1AnimesJaponais.fr" tvg-chno="32" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-dd5b8b-10d5f2-0@1x.png",Animés Japonais
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/animation-22903542
-#EXTINF:-1 tvg-id="TF1HunterXHunter.fr" tvg-chno="31" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-ba3c88-6decae-0@1x.png",Hunter X Hunter
+#EXTINF:-1 tvg-id="TF1HunterXHunter.fr" tvg-chno="33" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-ba3c88-6decae-0@1x.png",Hunter X Hunter
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/hunter-x-hunter-11645326
-#EXTINF:-1 tvg-id="TF1NarutoShippuden.fr" tvg-chno="32" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-5de7a0-bb987f-0@1x.png",Naruto Shippuden
+#EXTINF:-1 tvg-id="TF1NarutoShippuden.fr" tvg-chno="34" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-5de7a0-bb987f-0@1x.png",Naruto Shippuden
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/naruto-shippuden-51401594
-#EXTINF:-1 tvg-id="TF1CaptainTsubasa.fr" tvg-chno="33" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-captain-tsubasa-d77dd5-974dc8-0@1x.png",Captain Tsubasa
+#EXTINF:-1 tvg-id="TF1CaptainTsubasa.fr" tvg-chno="35" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-captain-tsubasa-d77dd5-974dc8-0@1x.png",Captain Tsubasa
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/captain-tsubasa-86555494
-#EXTINF:-1 tvg-id="TF1Naruto.fr" tvg-chno="34" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream-naruto-869bdc-275f99-0@1x.png",Naruto
+#EXTINF:-1 tvg-id="TF1Naruto.fr" tvg-chno="36" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream-naruto-869bdc-275f99-0@1x.png",Naruto
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/naruto-21657557
-#EXTINF:-1 tvg-id="TF1NickyLarson.fr" tvg-chno="35" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream-nicky-larson-22ef45-3ea6bd-0@1x.png",Nicky Larson
+#EXTINF:-1 tvg-id="TF1NickyLarson.fr" tvg-chno="37" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream-nicky-larson-22ef45-3ea6bd-0@1x.png",Nicky Larson
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/nicky-larson-40411699
-#EXTINF:-1 tvg-id="TF1StarAcademy.fr" tvg-chno="36" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-b86e2c-ebbc3f-0@1x.png",Star Academy
+#EXTINF:-1 tvg-id="TF1StarAcademy.fr" tvg-chno="38" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-b86e2c-ebbc3f-0@1x.png",Star Academy
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/star-academy-70671668
-#EXTINF:-1 tvg-id="TF1FrancoisDamiens.fr" tvg-chno="37" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-les-cameras-cachees-de-francois-damiens-8e4561-1a528f-0@1x.png",François Damiens
+#EXTINF:-1 tvg-id="TF1FrancoisDamiens.fr" tvg-chno="39" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-les-cameras-cachees-de-francois-damiens-8e4561-1a528f-0@1x.png",François Damiens
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/francois-lembrouille-22825596
-#EXTINF:-1 tvg-id="TF1Lolywood.fr" tvg-chno="38" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-8366a7-b29c48-0@1x.png",Lolywood
+#EXTINF:-1 tvg-id="TF1Lolywood.fr" tvg-chno="40" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-8366a7-b29c48-0@1x.png",Lolywood
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/lolywood-16739451
-#EXTINF:-1 tvg-id="TF1Danseaveclesstars.fr" tvg-chno="39" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream_dals-ef83ee-426898-0@1x.png",Danse avec les stars
+#EXTINF:-1 tvg-id="TF1Danseaveclesstars.fr" tvg-chno="41" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-stream_dals-ef83ee-426898-0@1x.png",Danse avec les stars
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/danse-avec-les-stars-00457635
-#EXTINF:-1 tvg-id="TF1LaVilladesCoeursBrises.fr" tvg-chno="40" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-la-villa-f106cc-e43a51-0@1x.png",La Villa des Cœurs Brisés
+#EXTINF:-1 tvg-id="TF1LaVilladesCoeursBrises.fr" tvg-chno="42" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-la-villa-f106cc-e43a51-0@1x.png",La Villa des Cœurs Brisés
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/la-villa-des-coeurs-brises-42286117
-#EXTINF:-1 tvg-id="TF150insideLemag.fr" tvg-chno="41" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-50mn-127187-871013-0@1x.png",50' inside Le mag
+#EXTINF:-1 tvg-id="TF150insideLemag.fr" tvg-chno="43" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-50mn-127187-871013-0@1x.png",50' inside, Le mag
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/50-inside-le-mag-68873410
-#EXTINF:-1 tvg-id="TF1UshuaiaforChange.fr" tvg-chno="42" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-a8b239-223656-0@1x.png",Ushuaia for Change
+#EXTINF:-1 tvg-id="TF1UshuaiaforChange.fr" tvg-chno="44" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-a8b239-223656-0@1x.png",Ushuaia for Change
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/ushuaia-for-change-97071706
-#EXTINF:-1 tvg-id="TF1BeautyMatch.fr" tvg-chno="43" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-beauty-match-f66050-87bfd5-0@1x.png",Beauty Match
+#EXTINF:-1 tvg-id="TF1BeautyMatch.fr" tvg-chno="45" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-beauty-match-f66050-87bfd5-0@1x.png",Beauty Match
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/beauty-match-04986512
-#EXTINF:-1 tvg-id="TF1SuperWings.fr" tvg-chno="44" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-super-wings-b90354-090f7b-0@1x.png",Super Wings
+#EXTINF:-1 tvg-id="TF1SuperWings.fr" tvg-chno="46" tvg-logo="https://photos.tf1.fr/200/100/vignette-logo-chaine-super-wings-b90354-090f7b-0@1x.png",Super Wings
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.tf1.fr/stream/super-wings-02603392

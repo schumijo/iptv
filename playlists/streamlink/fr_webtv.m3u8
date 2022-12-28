@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MyComedy.fr" tvg-chno="15" tvg-logo="",MyComedy
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x7zw8t0

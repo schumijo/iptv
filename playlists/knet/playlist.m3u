@@ -1,0 +1,641 @@
+#EXTM3U
+#EXTINF:0,1. TF1
+http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:0,2. France 2
+http://livetv.ktv.zone/4/play.m3u8
+#EXTINF:0,3. France 3
+http://livetv.ktv.zone/5/play.m3u8
+#EXTINF:0,4. Canal+
+http://livetv.ktv.zone/6/play.m3u8
+#EXTINF:0,5. France 5
+http://livetv.ktv.zone/7/play.m3u8
+#EXTINF:0,6. M6
+http://livetv.ktv.zone/8/play.m3u8
+#EXTINF:0,7. Arte
+http://livetv.ktv.zone/9/play.m3u8
+#EXTINF:0,8. C8
+http://livetv.ktv.zone/10/play.m3u8
+#EXTINF:0,9. W9
+http://livetv.ktv.zone/11/play.m3u8
+#EXTINF:0,10. TMC
+http://livetv.ktv.zone/12/play.m3u8
+#EXTINF:0,11. TFX
+http://livetv.ktv.zone/13/play.m3u8
+#EXTINF:0,12. NRJ 12
+http://livetv.ktv.zone/14/play.m3u8
+#EXTINF:0,13. LCP
+http://livetv.ktv.zone/15/play.m3u8
+#EXTINF:0,14. France 4
+http://livetv.ktv.zone/16/play.m3u8
+#EXTINF:0,15. BFM TV
+http://livetv.ktv.zone/17/play.m3u8
+#EXTINF:0,16. CNews
+http://livetv.ktv.zone/18/play.m3u8
+#EXTINF:0,17. CStar
+http://livetv.ktv.zone/19/play.m3u8
+#EXTINF:0,18. Gulli
+http://livetv.ktv.zone/20/play.m3u8
+#EXTINF:0,19. France O
+http://livetv.ktv.zone/21/play.m3u8
+#EXTINF:0,20. TF1 Séries Films
+http://livetv.ktv.zone/22/play.m3u8
+#EXTINF:0,21. L'Equipe 21
+http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:0,22. 6ter
+http://livetv.ktv.zone/24/play.m3u8
+#EXTINF:0,23. RMC Story
+http://livetv.ktv.zone/25/play.m3u8
+#EXTINF:0,24. RMC Découverte
+http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:0,25. Chérie 25
+http://livetv.ktv.zone/27/play.m3u8
+#EXTINF:0,26. LCI
+http://livetv.ktv.zone/28/play.m3u8
+#EXTINF:0,27. Franceinfo
+http://livetv.ktv.zone/29/play.m3u8
+#EXTINF:0,28. Melody TV
+http://livetv.ktv.zone/30/play.m3u8
+#EXTINF:0,30. France 3 Alpes
+http://livetv.ktv.zone/32/play.m3u8
+#EXTINF:0,31. 8 Mont Blanc
+http://livetv.ktv.zone/33/play.m3u8
+#EXTINF:0,32. Mont Blanc Live
+http://livetv.ktv.zone/169/play.m3u8
+#EXTINF:0,50. CGTN Français
+http://livetv.ktv.zone/52/play.m3u8
+#EXTINF:0,51. Arirang World
+http://livetv.ktv.zone/53/play.m3u8
+#EXTINF:0,54. France 24
+http://livetv.ktv.zone/56/play.m3u8
+#EXTINF:0,55. France 24 (EN)
+http://livetv.ktv.zone/57/play.m3u8
+#EXTINF:0,56. RT
+http://livetv.ktv.zone/58/play.m3u8
+#EXTINF:0,57. CNN HD
+http://livetv.ktv.zone/59/play.m3u8
+#EXTINF:0,58. BBC World
+http://livetv.ktv.zone/60/play.m3u8
+#EXTINF:0,59. TV5 Monde Europe
+http://livetv.ktv.zone/61/play.m3u8
+#EXTINF:0,60. CNBC Europe
+http://livetv.ktv.zone/62/play.m3u8
+#EXTINF:0,61. Bloomberg
+http://livetv.ktv.zone/63/play.m3u8
+#EXTINF:0,62. Euronews FR
+http://livetv.ktv.zone/73/play.m3u8
+#EXTINF:0,63. Eurosport (GER)
+http://livetv.ktv.zone/65/play.m3u8
+#EXTINF:0,64. M6 Boutique & Co
+http://livetv.ktv.zone/66/play.m3u8
+#EXTINF:0,65. RTL II (AU)
+http://livetv.ktv.zone/67/play.m3u8
+#EXTINF:0,66. KIKA
+http://livetv.ktv.zone/68/play.m3u8
+#EXTINF:0,67. 3 SAT
+http://livetv.ktv.zone/69/play.m3u8
+#EXTINF:0,78. Telesur
+http://livetv.ktv.zone/80/play.m3u8
+#EXTINF:0,79. Galicia TV Europa
+http://livetv.ktv.zone/81/play.m3u8
+#EXTINF:0,80. AD Sport1
+http://livetv.ktv.zone/82/play.m3u8
+#EXTINF:0,81. Al Sharqiya
+http://livetv.ktv.zone/83/play.m3u8
+#EXTINF:0,82. Al Arabiya
+http://livetv.ktv.zone/84/play.m3u8
+#EXTINF:0,84. Sky News Arabia
+http://livetv.ktv.zone/86/play.m3u8
+#EXTINF:0,85. Dubai TV
+http://livetv.ktv.zone/87/play.m3u8
+#EXTINF:0,86. Dubai Sports
+http://livetv.ktv.zone/88/play.m3u8
+#EXTINF:0,87. Sama Dubai
+http://livetv.ktv.zone/89/play.m3u8
+#EXTINF:0,89. VOX (GER)
+http://livetv.ktv.zone/91/play.m3u8
+#EXTINF:0,90. Record Inter
+http://livetv.ktv.zone/92/play.m3u8
+#EXTINF:0,91. KTO
+http://livetv.ktv.zone/93/play.m3u8
+#EXTINF:0,97. ZDF
+http://livetv.ktv.zone/99/play.m3u8
+#EXTINF:0,101. TF1 avec sous-titres
+http://livetv.ktv.zone/103/play.m3u8
+#EXTINF:0,102. France 2 avec sous-titres
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:0,103. France 3 avec sous-titres
+http://livetv.ktv.zone/105/play.m3u8
+#EXTINF:0,105. France 5 avec sous-titres
+http://livetv.ktv.zone/107/play.m3u8
+#EXTINF:0,106. M6 avec sous-titres
+http://livetv.ktv.zone/108/play.m3u8
+#EXTINF:0,107. Arte avec sous-titres
+http://livetv.ktv.zone/109/play.m3u8
+#EXTINF:0,108. C8 avec sous-titres
+http://livetv.ktv.zone/110/play.m3u8
+#EXTINF:0,109. W9 avec sous-titres
+http://livetv.ktv.zone/111/play.m3u8
+#EXTINF:0,110. TMC avec sous-titres
+http://livetv.ktv.zone/112/play.m3u8
+#EXTINF:0,111. TFX avec sous-titres
+http://livetv.ktv.zone/113/play.m3u8
+#EXTINF:0,112. NRJ 12 avec sous-titres
+http://livetv.ktv.zone/114/play.m3u8
+#EXTINF:0,113. LCP avec sous-titres
+http://livetv.ktv.zone/115/play.m3u8
+#EXTINF:0,114. France 4 avec sous-titres
+http://livetv.ktv.zone/116/play.m3u8
+#EXTINF:0,115. BFM TV avec sous-titres
+http://livetv.ktv.zone/117/play.m3u8
+#EXTINF:0,116. CNews avec sous-titres
+http://livetv.ktv.zone/118/play.m3u8
+#EXTINF:0,117. CStar avec sous-titres
+http://livetv.ktv.zone/119/play.m3u8
+#EXTINF:0,118. Gulli avec sous-titres
+http://livetv.ktv.zone/120/play.m3u8
+#EXTINF:0,119. France O avec sous-titres
+http://livetv.ktv.zone/121/play.m3u8
+#EXTINF:0,120. TF1 Séries Films avec sous-titres
+http://livetv.ktv.zone/122/play.m3u8
+#EXTINF:0,121. RTS Un avec sous-titres
+http://livetv.ktv.zone/101/play.m3u8
+#EXTINF:0,122. RTS Deux avec sous-titres
+http://livetv.ktv.zone/102/play.m3u8
+#EXTINF:0,124. RTS Un
+http://livetv.ktv.zone/1/play.m3u8
+#EXTINF:0,125. RTS Deux
+http://livetv.ktv.zone/2/play.m3u8
+#EXTINF:0,126. SRF 1
+http://livetv.ktv.zone/128/play.m3u8
+#EXTINF:0,127. RSI La 1
+http://livetv.ktv.zone/129/play.m3u8
+#EXTINF:0,128. Rai 1
+http://livetv.ktv.zone/130/play.m3u8
+#EXTINF:0,129. Rai 2
+http://livetv.ktv.zone/131/play.m3u8
+#EXTINF:0,130. Rai 3
+http://livetv.ktv.zone/132/play.m3u8
+#EXTINF:0,131. Rai News
+http://livetv.ktv.zone/133/play.m3u8
+#EXTINF:0,191. Dorcel TV
+http://livetv.ktv.zone/191/play.m3u8
+#EXTINF:0,210. France 3
+http://livetv.ktv.zone/209/play.m3u8
+#EXTINF:0,211. France 3 Alpes
+http://livetv.ktv.zone/210/play.m3u8
+#EXTINF:0,212. France 3 Alsace
+http://livetv.ktv.zone/211/play.m3u8
+#EXTINF:0,213. France 3 Aquitaine
+http://livetv.ktv.zone/212/play.m3u8
+#EXTINF:0,214. France 3 Auvergne
+http://livetv.ktv.zone/213/play.m3u8
+#EXTINF:0,215. France 3 Basse-Normandie
+http://livetv.ktv.zone/214/play.m3u8
+#EXTINF:0,216. France 3 Bourgogne
+http://livetv.ktv.zone/215/play.m3u8
+#EXTINF:0,217. France 3 Bretagne
+http://livetv.ktv.zone/216/play.m3u8
+#EXTINF:0,218. France 3 Centre
+http://livetv.ktv.zone/217/play.m3u8
+#EXTINF:0,219. France 3 Champagne-Ardenne
+http://livetv.ktv.zone/218/play.m3u8
+#EXTINF:0,221. France 3 Côte d'Azur
+http://livetv.ktv.zone/220/play.m3u8
+#EXTINF:0,222. France 3 Franche-Comté
+http://livetv.ktv.zone/221/play.m3u8
+#EXTINF:0,223. France 3 Haute-Normandie
+http://livetv.ktv.zone/222/play.m3u8
+#EXTINF:0,224. France 3 Languedoc
+http://livetv.ktv.zone/223/play.m3u8
+#EXTINF:0,225. France 3 Limousin
+http://livetv.ktv.zone/224/play.m3u8
+#EXTINF:0,226. France 3 Lorraine
+http://livetv.ktv.zone/225/play.m3u8
+#EXTINF:0,227. France 3 Midi-Pyrénées
+http://livetv.ktv.zone/226/play.m3u8
+#EXTINF:0,228. France 3 Nord Pas-de-Calais
+http://livetv.ktv.zone/227/play.m3u8
+#EXTINF:0,229. France 3 Paris Ile-de-France
+http://livetv.ktv.zone/228/play.m3u8
+#EXTINF:0,230. France 3 Pays de la Loire
+http://livetv.ktv.zone/229/play.m3u8
+#EXTINF:0,231. France 3 Picardie
+http://livetv.ktv.zone/230/play.m3u8
+#EXTINF:0,232. France 3 Poitou-Charentes
+http://livetv.ktv.zone/231/play.m3u8
+#EXTINF:0,233. France 3 Provence-Alpes
+http://livetv.ktv.zone/232/play.m3u8
+#EXTINF:0,234. France 3 Rhône-Alpes
+http://livetv.ktv.zone/233/play.m3u8
+#EXTINF:0,1. FB Nord
+http://direct.francebleu.fr/live/fbnord-midfi.mp3
+#EXTINF:0,2. FB Basse-Normandie
+http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3
+#EXTINF:0,3. FB Besançon
+http://direct.francebleu.fr/live/fbbesancon-midfi.mp3
+#EXTINF:0,4. FB 107.1
+http://direct.francebleu.fr/live/fb1071-midfi.mp3
+#EXTINF:0,5. FB Sud Lorraine
+http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3
+#EXTINF:0,6. FB Haute-Normandie
+http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3
+#EXTINF:0,7. FB Picardie
+http://direct.francebleu.fr/live/fbpicardie-midfi.mp3
+#EXTINF:0,8. France Culture
+http://direct.franceculture.fr/live/franceculture-midfi.mp3
+#EXTINF:0,9. France Info
+http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
+#EXTINF:0,10. France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+#EXTINF:0,11. France Musique
+http://direct.francemusique.fr/live/francemusique-midfi.mp3
+#EXTINF:0,12. Le Mouv'
+http://direct.mouv.fr/live/mouv-midfi.mp3
+#EXTINF:0,13. Evasion FM
+http://stream1.evasionfm.com/Paris
+#EXTINF:0,14. Fun Radio
+http://ais.rtl.fr:80/fun-1-44-128
+#EXTINF:0,15. Jazz Radio
+http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:0,16. Montagne FM
+http://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3
+#EXTINF:0,18. Radio Evasion
+http://radioevasion.fr:8020/;stream.nsv
+#EXTINF:0,19. Radio Campus Lille
+http://radiocampuslille.bcast.infomaniak.ch:8000/radiocampuslille-128.mp3
+#EXTINF:0,20. Radio Campus Paris
+http://www.radiocampusparis.org:8000/stream_rcp
+#EXTINF:0,21. RFM
+http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3
+#EXTINF:0,22. RTL
+http://ais.rtl.fr:80/rtl-1-44-128
+#EXTINF:0,23. RTL2
+http://ais.rtl.fr:80/rtl2-1-44-128
+#EXTINF:0,24. Nostalgie
+http://185.52.127.132/fr/30601/aac_64.mp3?origine=playernostalgie
+#EXTINF:0,25. NRJ
+http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,26. Ouï FM
+http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+#EXTINF:0,27. Radio Classique
+http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3?ua=wwwradioclassique
+#EXTINF:0,29. Europe 1
+http://mp3lg3.scdn.arkena.com/10489/europe1.mp3
+#EXTINF:0,30. Rire et Chanson
+http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,31. RMC
+http://chai5she.cdn.dvmr.fr/rmcinfo
+#EXTINF:0,32. BFM
+http://bfmbusiness.cdn.dvmr.fr/bfmbusiness
+#EXTINF:0,33. Chérie FM
+http://185.52.127.132/fr/30201/aac_64.mp3?origine=playercherie
+#EXTINF:0,34. Skyrock
+http://icecast.skyrock.net/s/natio_mp3_128k
+#EXTINF:0,35. Voltage
+http://start-voltage.ice.infomaniak.ch/start-voltage-high.aac
+#EXTINF:0,36. Virgin Radio
+http://mp3lg3.scdn.arkena.com/10490/virginradio.mp3
+#EXTINF:0,37. Vibration
+http://vibration.ice.infomaniak.ch:80/vibration-high.aac
+#EXTINF:0,38. Ado
+http://broadcast.infomaniak.ch/start-adofm-high.mp3
+#EXTINF:0,39. Fip
+http://direct.fipradio.fr/live/fip-midfi.mp3
+#EXTINF:0,40. Grosse Radio Reggae
+http://hd.lagrosseradio.info:8300/;stream.nsv
+#EXTINF:0,41. Latina
+http://broadcast.infomaniak.net/start-latina-high.mp3
+#EXTINF:0,42. mKm Caraïbes
+http://mkmradio.com:8000/;file.mp3
+#EXTINF:0,43. Grosse Radio Metal
+http://hd.lagrosseradio.info:8200/;stream.nsv
+#EXTINF:0,44. Grosse Radio Rock
+http://hd.lagrosseradio.info:8500/;stream.nsv
+#EXTINF:0,45. Radio Metal
+http://stream.radiometal.com:8010
+#EXTINF:0,46. Ouï FM Alternative Rock
+http://ouifm2.ice.infomaniak.ch/ouifm2.mp3
+#EXTINF:0,47. Ouï FM Classique Rock
+http://ouifm3.ice.infomaniak.ch/ouifm3.mp3
+#EXTINF:0,48. Ouï FM Rock Indé
+http://ouifm5.ice.infomaniak.ch/ouifm5.mp3
+#EXTINF:0,53. Nostalgie Tous les tubes
+http://cdn.nrjaudio.fm/adwz1/fr/30699/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,55. Nostalgie 100 Légendes
+http://cdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,56. Nostalgie Starts 80
+http://cdn.nrjaudio.fm/adwz1/fr/30683/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,57. Nostalgie Tous les plus grands tubes Français
+http://cdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,59. Nostalgie Blues
+http://cdn.nrjaudio.fm/adwz1/fr/30639/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,60. Nostalgie Les essentiels
+http://cdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,61. Nostalgie Disco fever
+http://cdn.nrjaudio.fm/adwz1/fr/30617/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,62. Nostalgie Chansons Françaises
+http://cdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,63. Nostalgie Funk
+http://185.52.127.131/fr/30607/aac_64.mp3?origine=playerweb
+#EXTINF:0,64. Nostalgie Poetes
+http://cdn.nrjaudio.fm/adwz1/fr/30619/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,65. Nostalgie Italia
+http://cdn.nrjaudio.fm/adwz1/fr/30663/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,67. Nostalgie Best of 80's
+http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,68. Nostalgie Best of 70's
+http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,69. Nostalgie Best of 60's
+http://cdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,71. Nostalgie Rock
+http://cdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,72. Nostalgie Slow de légendes
+http://cdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,75. Nostalgie Johnny Hallyday
+http://cdn.nrjaudio.fm/audio1/fr/55374/mp3_128.mp3?origine=fluxradios
+#EXTINF:0,76. 100% hard rock
+http://streaming.radionomy.com/100-HARD-ROCK?ad=radionoweb
+#EXTINF:0,77. Radiomeuh
+http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
+#EXTINF:0,78. Jazz24
+http://icy1.abacast.com:80/kplu-jazz24aac-64
+#EXTINF:0,82. Radio Paradise
+http://stream-dc1.radioparadise.com:80/mp3-128
+#EXTINF:0,83. Radio21
+http://streaming.radionomy.com/FestivalPhotoMontier
+#EXTINF:0,101. RTS La 1ere
+http://stream.srg-ssr.ch/m/la-1ere/mp3_128
+#EXTINF:0,102. One FM
+http://broadcast.infomaniak.ch/onefm-high.mp3
+#EXTINF:0,103. Rhone FM
+http://rhonefm.ice.infomaniak.ch:80/rhonefm-high.mp3
+#EXTINF:0,104. Rouge FM
+http://broadcast.infomaniak.net/rougefm-high.mp3
+#EXTINF:0,105. Yes FM
+http://yesfm.ice.infomaniak.ch:80/yesfm-high
+#EXTINF:0,106. RTS Couleur 3
+http://stream.srg-ssr.ch/m/couleur3/mp3_128
+#EXTINF:0,107. RTS Option Musique
+http://stream.srg-ssr.ch/m/option-musique/mp3_128
+#EXTINF:0,108. LFM
+http://lausannefm.ice.infomaniak.ch:80/lausannefm-high
+#EXTINF:0,109. Radio Cite Geneve
+http://radiocite.ice.infomaniak.ch:80/radiocite-highest.aac
+#EXTINF:0,110. SRF 1
+http://stream.srg-ssr.ch/m/drs1/mp3_128
+#EXTINF:0,111. SRF 2
+http://stream.srg-ssr.ch/m/drs2/mp3_128
+#EXTINF:0,112. SRF 3
+http://stream.srg-ssr.ch/m/drs3/mp3_128
+#EXTINF:0,113. SRF Virus
+http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:0,114. SRF Musikwelle
+http://stream.srg-ssr.ch/m/drsmw/mp3_128
+#EXTINF:0,115. Radio 1
+http://radio.nello.tv:80/128k
+#EXTINF:0,117. Radio 32
+http://radio32-stream.customer.solnet.ch:8000/radio32
+#EXTINF:0,118. Radio Argovia
+http://icecastgreen.argovia.ch:80/argovia128
+#EXTINF:0,119. Energy Basel
+https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
+#EXTINF:0,121. Radio BEO
+http://87.237.169.123:8000/radiobeo.mp3
+#EXTINF:0,122. Radio Bern1
+http://www.radiobern1.ch/webstream.mp3
+#EXTINF:0,124. Radio Chablais
+http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
+#EXTINF:0,125. Energy Bern
+http://energybern.ice.infomaniak.ch:80/energybern-high
+#EXTINF:0,126. Energy Zurich
+http://energyzuerich.ice.infomaniak.ch:80/energyzuerich-high
+#EXTINF:0,128. Radio Fribourg
+http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
+#EXTINF:0,129. Radio Grischa
+http://streaming.swisstxt.ch/m/grischa/mp3_128
+#EXTINF:0,130. Radio Kaiseregg
+http://kaiseregg.ice.infomaniak.ch:80/stream128k
+#EXTINF:0,131. Kanal K
+http://stream.kanalk.ch:8050/kanalk.mp3
+#EXTINF:0,132. Radio Munot
+http://87.245.121.106/rm
+#EXTINF:0,133. neo1
+http://stream-02.zic-network.ch:8000/neo1
+#EXTINF:0,134. Radio Pilatus
+http://radiopilatus.ice.infomaniak.ch/radiopilatus-128-gm.mp3
+#EXTINF:0,135. Radio 3i
+http://radio3i.ice.infomaniak.ch/radio3i-128.mp3
+#EXTINF:0,136. Radio Rabe
+http://stream.rabe.ch:8000/livestream/rabe-mid.mp3
+#EXTINF:0,140. Radio Sunshine
+http://sunshinelive.hoerradar.de/sunshinelive-mp3-128
+#EXTINF:0,141. Radio Top
+http://str30.creacast.com/top_fm
+#EXTINF:0,142. Radio Top Two
+http://77.109.144.109:8000/twosrp128
+#EXTINF:0,143. Radio Toxic FM
+http://toxicfm.ice.infomaniak.ch/toxicfm-128
+#EXTINF:0,144. Radio Zurisee
+http://radio.nello.tv:80/radiozuerisee128k
+#EXTINF:0,145. RTR
+http://stream.srg-ssr.ch/m/rr/mp3_128
+#EXTINF:0,146. RTS Espace 2
+http://stream.srg-ssr.ch/m/espace-2/mp3_128
+#EXTINF:0,147. RSI Rete Uno
+http://stream.srg-ssr.ch/m/reteuno/mp3_128
+#EXTINF:0,148. Oratorio Magi Radio
+http://164.132.236.238:8000/om
+#EXTINF:0,149. Paris One Dj Radio
+http://streaming.radionomy.com/parisoneclub?lang=fr%2cfr-FR%3bq%3d0.8%2cen-US%3bq%3d0.5%2cen%3bq%3d0.3
+#EXTINF:0,150. Hotmix Radio
+http://streamingads.hotmixradio.fm/hotmixradio-80-64.aac
+#EXTINF:0,151. Generation Disco Funk
+http://stream.generationdiscofunk.com:8000/;strea
+#EXTINF:0,152. Radio Nova
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:0,153. Radio Campus Amiens
+http://live.radio-campus.org:8000/amiens
+#EXTINF:0,154. M Radio
+http://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:0,155. RFM Summer
+http://rfm-live.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,156. RFM 100% Français
+http://rfm-wr11.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,157. RFM Hommage à Johnny
+http://rfm-wr14.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,158. RFM Night Fever
+http://rfm-wr2.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,159. RFM 100% Femmes
+http://rfm-wr3.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,160. RFM Cinéma
+http://rfm-wr15.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,161. RFM Collector
+http://rfm-wr1.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,162. RFM Lounge
+http://rfm-wr6.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,163. RFM Party 90
+http://rfm-wr5.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,164. RFM Slow
+http://rfm-wr13.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,165. RFM 100% New Wave
+http://rfm-wr12.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,166. RFM 80's
+http://rfm-wr4.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,167. RFM Pop Rock
+http://rfm-wr10.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,168. RFM Run & Fit
+http://rfm-wr9.akamaized.net/rfm.isml/rfm-audio=128000.m3u8
+#EXTINF:0,169. Virgin Radio Hits
+http://vr-wr4-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0,170. Virgin Radio New
+http://vr-wr1-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0,171. Virgin Radio Electroshock
+http://vr-wr3-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0,172. Virgin Tonic Radio
+http://vr-wr6-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0,173. Cauet/ sur Virgin Radio
+http://vr-wr7-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0,174. Virgin Radio Rock
+http://vr-wr5-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0,175. Virgin Radio Classics
+http://vr-wr2-mp3-128.scdn.arkena.com/virginradio.mp3
+#EXTINF:0,176. Chérie Zen
+http://cdn.nrjaudio.fm/adwz1/fr/30203/aac_64.mp3
+#EXTINF:0,177. Chérie Pop Love
+http://cdn.nrjaudio.fm/adwz1/fr/56237/aac_64.mp3
+#EXTINF:0,178. Chérie Love Songs
+http://cdn.nrjaudio.fm/adwz1/fr/30207/aac_64.mp3
+#EXTINF:0,179. Chérie Frenchy
+http://cdn.nrjaudio.fm/adwz1/fr/30213/aac_64.mp3
+#EXTINF:0,180. Chérie Nouveautés
+http://cdn.nrjaudio.fm/adwz1/fr/30255/aac_64.mp3
+#EXTINF:0,181. Chérie Pop Love Le Best Of
+http://cdn.nrjaudio.fm/adwz1/fr/56371/aac_64.mp3
+#EXTINF:0,182. Chérie Les Plus Belles Voix
+http://cdn.nrjaudio.fm/adwz1/fr/30317/aac_64.mp3
+#EXTINF:0,183. Chérie Pop Love 40
+http://cdn.nrjaudio.fm/adwz1/fr/56311/aac_64.mp3
+#EXTINF:0,184. Chérie Coeur Brisé
+http://cdn.nrjaudio.fm/adwz1/fr/56303/aac_64.mp3
+#EXTINF:0,185. Chérie Ballads
+http://cdn.nrjaudio.fm/adwz1/fr/30297/aac_64.mp3
+#EXTINF:0,186. Chérie Italie
+http://cdn.nrjaudio.fm/adwz1/fr/30219/aac_64.mp3
+#EXTINF:0,187. Chérie No Repeat
+http://cdn.nrjaudio.fm/adwz1/fr/30295/aac_64.mp3
+#EXTINF:0,188. Chérie Acoustic
+http://cdn.nrjaudio.fm/adwz1/fr/30269/aac_64.mp3
+#EXTINF:0,189. Chérie At Work
+http://cdn.nrjaudio.fm/adwz1/fr/30215/aac_64.mp3
+#EXTINF:0,190. Chérie Sweet Home
+http://cdn.nrjaudio.fm/adwz1/fr/30289/aac_64.mp3
+#EXTINF:0,191. Chérie Pop
+http://cdn.nrjaudio.fm/adwz1/fr/30227/aac_64.mp3
+#EXTINF:0,192. Chérie Emotions
+http://cdn.nrjaudio.fm/adwz1/fr/30313/aac_64.mp3
+#EXTINF:0,193. Chérie Romantic
+http://cdn.nrjaudio.fm/adwz1/fr/30287/aac_64.mp3
+#EXTINF:0,194. Chérie Party
+http://cdn.nrjaudio.fm/adwz1/fr/30261/aac_64.mp3
+#EXTINF:0,195. Chérie A La Plage
+http://cdn.nrjaudio.fm/adwz1/fr/56617/aac_64.mp3
+#EXTINF:0,196. Chérie Eté
+http://cdn.nrjaudio.fm/adwz1/fr/56583/aac_64.mp3
+#EXTINF:0,197. Chérie Happy
+http://cdn.nrjaudio.fm/adwz1/fr/30331/aac_64.mp3
+#EXTINF:0,198. Chérie Latino
+http://cdn.nrjaudio.fm/adwz1/fr/30247/aac_64.mp3
+#EXTINF:0,199. Chérie Piano
+http://cdn.nrjaudio.fm/adwz1/fr/56427/aac_64.mp3
+#EXTINF:0,200. Chérie RNB Chic
+http://cdn.nrjaudio.fm/adwz1/fr/30275/aac_64.mp3
+#EXTINF:0,201. Chérie Jazzy
+http://cdn.nrjaudio.fm/adwz1/fr/30241/aac_64.mp3
+#EXTINF:0,202. Chérie Collector
+http://cdn.nrjaudio.fm/adwz1/fr/56408/aac_64.mp3
+#EXTINF:0,203. Chérie 80's
+http://cdn.nrjaudio.fm/adwz1/fr/30237/aac_64.mp3
+#EXTINF:0,204. Chérie 90's
+http://cdn.nrjaudio.fm/adwz1/fr/30239/aac_64.mp3
+#EXTINF:0,205. Chérie Running
+http://cdn.nrjaudio.fm/adwz1/fr/55648/aac_64.mp3
+#EXTINF:0,206. Chérie Fitness
+http://cdn.nrjaudio.fm/adwz1/fr/30283/aac_64.mp3
+#EXTINF:0,207. Chérie Céline Dion
+http://cdn.nrjaudio.fm/adwz1/fr/55507/aac_64.mp3
+#EXTINF:0,208. Chérie Jean-Jacques Goldman
+http://cdn.nrjaudio.fm/adwz1/fr/55562/aac_64.mp3
+#EXTINF:0,209. M Radio Tubes du Grenier
+http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3
+#EXTINF:0,210. M Radio Le Meilleur Du Grand Réveil
+http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
+#EXTINF:0,211. M Radio 100% Voyance
+http://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3
+#EXTINF:0,212. M Radio Dessin Animés
+http://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3
+#EXTINF:0,213. M Radio N°1 du Top 50
+http://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3
+#EXTINF:0,214. M Radio French Touch
+http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3
+#EXTINF:0,215. M Radio 100% Québec
+http://mfmwr-004.ice.infomaniak.ch/mfmwr-004.mp3
+#EXTINF:0,216. M Radio Nouveautés
+http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
+#EXTINF:0,217. M Radio 100% Johnny
+http://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3
+#EXTINF:0,218. M Radio 100% Live
+http://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
+#EXTINF:0,219. M Radio Yéyé
+http://mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3
+#EXTINF:0,220. M Radio Années 80 et 90
+http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3
+#EXTINF:0,221. M Radio 100% Enfoirés
+http://mfmwr-011.ice.infomaniak.ch/mfmwr-011.mp3
+#EXTINF:0,222. M Radio Nouvelle Scène
+http://mfmwr-012.ice.infomaniak.ch/mfmwr-012.mp3
+#EXTINF:0,223. M Radio Voix Féminines
+http://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
+#EXTINF:0,224. M Radio 100% Comédies Musicales
+http://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3
+#EXTINF:0,225. M Radio Duos
+http://mfmwr-015.ice.infomaniak.ch/mfmwr-015.mp3
+#EXTINF:0,226. M Radio 100% Goldman
+http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3
+#EXTINF:0,227. M Radio Séducteurs
+http://mfmwr-017.ice.infomaniak.ch/mfmwr-017.mp3
+#EXTINF:0,228. M Radio Francophonies
+http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3
+#EXTINF:0,229. M Radio Comptines
+http://mfmwr-019.ice.infomaniak.ch/mfmwr-019.mp3
+#EXTINF:0,230. M Radio Années 2000
+http://mfmwr-020.ice.infomaniak.ch/mfmwr-020.mp3
+#EXTINF:0,231. M Radio Génériques TV
+http://mfmwr-021.ice.infomaniak.ch/mfmwr-021.mp3
+#EXTINF:0,232. M Radio Culte Années 60 et 70
+http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
+#EXTINF:0,233. M Radio 100% Céline Dion
+http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
+#EXTINF:0,234. M Radio Voix du Sud
+http://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3
+#EXTINF:0,235. Radio Béton
+http://51.254.220.198:8000/stream.mp3
+#EXTINF:0,236. FB Provence
+https://direct.francebleu.fr/live/fbprovence-midfi.mp3
+#EXTINF:0,237. PulsRadio DANCE
+http://icecast.pulsradio.com/pulsHD.mp3
+#EXTINF:0,238. PulsRadio LOUNGE
+http://icecast.pulsradio.com/relaxHD.mp3
+#EXTINF:0,239. PulsRadio HITS
+http://icecast.pulsradio.com/hitpartyHD.mp3
+#EXTINF:0,240. PulsRadio 80
+http://icecast.pulsradio.com/magicradioHD.mp3
+#EXTINF:0,241. PulsRadio CLUB
+http://icecast.pulsradio.com/mxHD.mp3
+#EXTINF:0,242. PulsRadio TRANCE
+http://icecast.pulsradio.com/pulstranceHD.mp3
+#EXTINF:0,243. PulsRadio 2000
+http://icecast.pulsradio.com/puls00HD.mp3
+#EXTINF:0,244. PulsRadio 90
+http://icecast.pulsradio.com/puls90HD.mp3
+#EXTINF:0,245. Chante France
+http://stream1.chantefrance.com/Chante_France

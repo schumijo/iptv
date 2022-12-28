@@ -13,8 +13,7 @@ pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/p
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/pp.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="CanalJ.fr" tvg-chno="0" tvg-logo="",Canal J
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/canalj.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-chno="0" tvg-logo="",TiJi
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/tiji.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="UshuaiaTv.fr" tvg-chno="0" tvg-logo="",Ushuaia TV
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/ushuaiatv.m3u8 -c copy -f mpegts pipe:1
-
-#EXTINF:-1 tvg-id="Tiji.fr" tvg-chno="0" tvg-logo="",TiJi
-#pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/Sibprod/streams/main/files/TiJi/master.m3u8 -c copy -f mpegts pipe:1

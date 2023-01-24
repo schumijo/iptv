@@ -4,15 +4,15 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-name="BFM Business" tvg-language="French" tvg-country="FR",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-name="BFM Paris" tvg-language="French" tvg-country="FR",BFM Paris
-https://lyo2-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=00s1tgmpvbl6qfbhclug/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-name="BFM Lyon" tvg-language="French" tvg-country="FR",BFM Lyon
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-name="BFM Marseille" tvg-language="French" tvg-country="FR",BFM Marseille Provence
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-name="BFM Grand Lille" tvg-language="French" tvg-country="FR",BFM Grand Lille
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-name="BFM Grand Littoral" tvg-language="French" tvg-country="FR",BFM Grand Littoral
-https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-name="BFM Côte d'Azur" tvg-language="French" tvg-country="FR",BFM Nice Côte d'Azur
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-name="BFM Var" tvg-language="French" tvg-country="FR",BFM Toulon Var

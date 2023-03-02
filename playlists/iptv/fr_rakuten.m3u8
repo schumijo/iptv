@@ -31,6 +31,9 @@ https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeDigitalNetwork.fr" tvg-chno="27" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/8e222c30-3caa-462e-af2f-7ba343eca3aa-adn-1630324333.jpeg",Anime Digital Network
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="MotorsportTV.fr" tvg-chno="57" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e59dd606-a3b6-41d0-83f4-641ee29ab9bb-motosport-tv-1626341337.jpeg",Motorsport TV
+https://alchimie-motosport-tv-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LuxeTV.fr" tvg-chno="62" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1da83827-3469-466b-903b-2fd16f033c66-luxe-tv-1626341219.jpeg",Luxe TV
 https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 

@@ -3,3 +3,5 @@
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-chno="0" tvg-logo="",Equidia
 https://equidia-live2-p32-cdn.hexaglobe.net/19f04f3d81dea80da5df85997ee51867/63ac36a0/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_0.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-chno="0" tvg-logo="",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8

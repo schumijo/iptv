@@ -23,8 +23,8 @@ pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://ww
 #pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k6c3A07yUljlAzwkvtL
 ##EXTINF:-1 tvg-name="L'Equipe Live 2" tvg-language="French" tvg-country="FR",L'Equipe Live 2  => Player 2
 #pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k1ZUdcthDLhoYjgMfdf
-##EXTINF:-1 tvg-name="L'Equipe Live 9" tvg-language="French" tvg-country="FR",L'Equipe Live  => Player 9
-#pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k1y3Q3GC7w8flQry8S3
+#EXTINF:-1 tvg-name="L'Equipe Live 7" tvg-language="French" tvg-country="FR",L'Equipe Live 7
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k1y3Q3GC7w8flQry8S3
 ##EXTINF:-1 tvg-name="L'Equipe Live 12" tvg-language="French" tvg-country="FR",L'Equipe Live 12 => player 12
 #pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/k2Z9T8IhyLWvyPtITYJ
 ##EXTINF:-1 tvg-name="L'Equipe Live 13" tvg-language="French" tvg-country="FR",L'Equipe Live 13 => player 13

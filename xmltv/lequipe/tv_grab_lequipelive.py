@@ -7,23 +7,17 @@ from datetime import datetime
 from datetime import timedelta
 
 channels = {
-        "L'Équipe Live 2" : "LequipeLive2.fr",
-        "L'Équipe Live 3" : "LequipeLive3.fr",
-        "L'Équipe Live 4" : "LequipeLive4.fr",
-        "L'Équipe Live 5" : "LequipeLive5.fr",
-        "L'Équipe Live 6" : "LequipeLive6.fr",
-        "L'Équipe Live 7" : "LequipeLive7.fr",
-        "L'Équipe Live 8" : "LequipeLive8.fr",
-        "L'Équipe Live 9" : "LequipeLive9.fr",
-        "L'Équipe Live 10" : "LequipeLive10.fr",
-        "L'Équipe Live 12" : "LequipeLive12.fr",
-        "L'Équipe Live 13" : "LequipeLive13.fr",
-        "L'Équipe Live 14" : "LequipeLive14.fr",
-        "L'Équipe Live 15" : "LequipeLive15.fr"
+        "L'Équipe live 3"    : "LequipeLive3.fr",
+        "L'Équipe live 4"    : "LequipeLive4.fr",
+        "L'Équipe live 5"    : "LequipeLive5.fr",
+        "L'Équipe live 6"    : "LequipeLive6.fr",
+        "L'Équipe live 7"    : "LequipeLive7.fr",
+        "Journal du Golf TV" : "JournalduGolfTV.fr"
 }
 
 def get_lives():
         resp = urlquick.get("https://www.lequipe.fr/directs", max_age=-1)
+
         datas = re.compile(r'<article.+?<img.+?src="(.+?)".+?alt="(.+?)".+?<span class="ColeaderWidget__scheduledEvent".+?>\s+(\d+h\d?\d?)(?:\n.+?)+<p class="ColeaderWidget__subtitle".+?>(.+?)<\/p>').findall(resp.text)
         if len(datas) == 0:
             return 0
@@ -41,6 +35,7 @@ def build_xmltv(datas):
                 print('    <icon src=""/>')
                 print('  </channel>')
 
+        i = 0
         for data in datas:
             icon = data[0]
             channel = data[1]
@@ -48,6 +43,12 @@ def build_xmltv(datas):
             title = data[3]
 
             if channel == 'la chaine L\'Équipe':
+                continue
+
+            if channel == 'L\'Équipe live 1':
+                continue
+
+            if channel == 'L\'Équipe live 2':
                 continue
 
             hours = hour.split('h')
@@ -60,7 +61,19 @@ def build_xmltv(datas):
             time = datetime.strptime(start_time, '%Y%m%d%H%M%S') + timedelta(hours=4)
             end_time = time.strftime('%Y%m%d%H%M%S')
 
-            print('  <programme start="' + start_time + ' +0100" stop="' + end_time + ' +0100" channel="' + channels[channel] + '">')
+            x = i+1
+            while x < len(datas):
+                if datas[x][1] == channel:
+                    hours = datas[x][2].split('h')
+                    if hours[1] == '':
+                        hours[1] = 0
+                    hour = "%02d%02d00" % (int(hours[0]),int(hours[1]))
+                    time = datetime.now()
+                    end_time = time.strftime('%Y%m%d') + hour
+                    break
+                x = x+1
+
+            print('  <programme start="' + start_time + ' +0200" stop="' + end_time + ' +0200" channel="' + channels[channel] + '">')
             print('    <title lang="fr">' + title + '</title>')
             print('    <desc lang="fr">' + title + '</desc>')
             print('    <category lang="fr">Sport</category>')
@@ -70,6 +83,7 @@ def build_xmltv(datas):
             print('    </rating>')
             print('  </programme>')
 
+            i = i+1
         print('</tv>')
 
 

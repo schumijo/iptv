@@ -1,12 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-chno="1" tvg-logo="",TF1
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/tf1.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="M6.fr" tvg-chno="6" tvg-logo="",M6
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/m6.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="W9.fr" tvg-chno="9" tvg-logo="",W9
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/w9.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TMC.fr" tvg-chno="10" tvg-logo="",TMC
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/tmc.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TFX.fr" tvg-chno="11" tvg-logo="",TFX
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/tfx.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-chno="18" tvg-logo="",Gulli
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/gulli.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-chno="20" tvg-logo="",TF1 Series Films
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/tf1seriesfilms.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="6ter.fr" tvg-chno="22" tvg-logo="",6Ter
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/6ter.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="LCI.fr" tvg-chno="27" tvg-logo="",LCI
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/lci.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="Teva.fr" tvg-chno="0" tvg-logo="",Teva
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/teva.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-chno="0" tvg-logo="",Paris Premiere
@@ -17,3 +27,5 @@ pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/p
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/tiji.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="UshuaiaTv.fr" tvg-chno="0" tvg-logo="",Ushuaia TV
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/ushuaiatv.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-chno="0" tvg-logo="",Equidia
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/equidia.m3u8 -c copy -f mpegts pipe:1

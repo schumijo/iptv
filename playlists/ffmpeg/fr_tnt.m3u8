@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="M6.fr" tvg-chno="6" tvg-logo="",M6
-pipe:///usr/bin/ffmpeg -i https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/1b7883731a2a4c9daf16dde45a8162e9/dash_short_cenc10_m6_hdeindex.mpd -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/m6.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="W9.fr" tvg-chno="9" tvg-logo="",W9
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/w9.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-chno="18" tvg-logo="",Gulli

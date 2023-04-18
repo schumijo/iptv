@@ -7,3 +7,5 @@ pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/p
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/club_rtl.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="PlugRTL.fr" tvg-chno="0" tvg-logo="",Plug RTL
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/plug_rtl.m3u8 -c copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="RTLPlay.fr" tvg-chno="0" tvg-logo="",RTL Play
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/ffmpeg/rtl_play.m3u8 -c copy -f mpegts pipe:1

@@ -177,8 +177,50 @@ http://livetv.ktv.zone/131/play.m3u8
 http://livetv.ktv.zone/132/play.m3u8
 #EXTINF:0,131. Rai News
 http://livetv.ktv.zone/133/play.m3u8
-#EXTINF:0,191. Dorcel TV
-http://livetv.ktv.zone/191/play.m3u8
+#EXTINF:0,xxx. TiJi
+http://livetv.ktv.zone/175/play.m3u8
+#EXTINF:0,xxx. Canal J
+http://livetv.ktv.zone/176/play.m3u8
+#EXTINF:0,xxx. Al Jazeera
+http://livetv.ktv.zone/168/play.m3u8
+#EXTINF:0,xxx. BFM Business
+http://livetv.ktv.zone/166/play.m3u8
+#EXTINF:0,xxx. BIP TV
+http://livetv.ktv.zone/200/play.m3u8
+#EXTINF:0,xxx. i24 News
+http://livetv.ktv.zone/161/play.m3u8
+#EXTINF:0,xxx. Canal+
+http://livetv.ktv.zone/106/play.m3u8
+#EXTINF:0,xxx. CGTN
+http://livetv.ktv.zone/35/play.m3u8
+#EXTINF:0,xxx. CGTN Documentary
+http://livetv.ktv.zone/36/play.m3u8
+#EXTINF:0,xxx. Vox Up
+http://livetv.ktv.zone/54/play.m3u8
+#EXTINF:0,xxx. Super RTL
+http://livetv.ktv.zone/55/play.m3u8
+#EXTINF:0,xxx. SRF Zwei
+http://livetv.ktv.zone/136/play.m3u8
+#EXTINF:0,xxx. HSE Extra
+http://livetv.ktv.zone/72/play.m3u8
+#EXTINF:0,xxx. ZDF Info HD
+http://livetv.ktv.zone/174/play.m3u8
+#EXTINF:0,xxx. RTL
+http://livetv.ktv.zone/152/play.m3u8
+#EXTINF:0,xxx. Rai Yoyo
+http://livetv.ktv.zone/153/play.m3u8
+#EXTINF:0,xxx. Rai Premium
+http://livetv.ktv.zone/154/play.m3u8
+#EXTINF:0,xxx. Rai Storia
+http://livetv.ktv.zone/155/play.m3u8
+#EXTINF:0,xxx. Rai Gulp
+http://livetv.ktv.zone/156/play.m3u8
+#EXTINF:0,xxx. Rai Movie HD
+http://livetv.ktv.zone/157/play.m3u8
+#EXTINF:0,xxx. RSI La 2
+http://livetv.ktv.zone/137/play.m3u8
+#EXTINF:0,xxx. Rai Radio 2
+http://livetv.ktv.zone/158/play.m3u8
 #EXTINF:0,210. France 3
 http://livetv.ktv.zone/209/play.m3u8
 #EXTINF:0,211. France 3 Alpes

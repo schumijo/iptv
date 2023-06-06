@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MyComedy.fr" tvg-chno="15" tvg-logo="",MyComedy
+#EXTINF:-1 tvg-id="MyComedy.fr" tvg-chno="0" tvg-logo="",MyComedy
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x7zw8t0
-#EXTINF:-1 tvg-id="MyComedy.fr" tvg-chno="15" tvg-logo="",FranceTvSport
+#EXTINF:-1 tvg-id="MyComedy.fr" tvg-chno="0" tvg-logo="",FranceTvSport
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/sport/tous-les-directs/
+#EXTINF:-1 tvg-id="SqoolTV.fr" tvg-chno="0" tvg-logo="",Sqool TV
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=WUKzj8z-tpI

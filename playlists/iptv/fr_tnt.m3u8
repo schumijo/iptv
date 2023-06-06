@@ -35,3 +35,5 @@ https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-name="BFM Business" tvg-language="French" tvg-country="FR",Le Figaro TV Ile-De-France
 https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-name="20MinutesTVIDF" tvg-language="French" tvg-country="FR",20 Minutes TV Ile-De-France
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8

@@ -5,7 +5,6 @@ on:
     - cron: '0 */4 * * *'
   
   workflow_dispatch:
-  
 
 jobs:
   runscript:
@@ -17,7 +16,7 @@ jobs:
           git config --global user.name "equidia bot"
       
       - name: updating equidia
-        run: sh parser/equidia.sh
+        run: sh ${GITHUB_WORKSPACE}/parser/equidia.sh
         
       - name: git add
         run: |

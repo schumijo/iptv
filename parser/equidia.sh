@@ -1,7 +1,8 @@
 #!/bin/bash
 
-python3 parser/equidia.py equidia http://62.210.135.99:80 > playlists/equidia/equidia-live.m3u8
-python3 parser/equidia.py trot http://62.210.135.99:80 > playlists/equidia/equidia-racingtrot.m3u8
+python3 parser/equidia.py equidia > playlists/equidia/equidia-live.m3u8
+#python3 parser/equidia.py equidia http://62.210.135.99:80 > playlists/equidia/equidia-live.m3u8
+#python3 parser/equidia.py trot http://62.210.135.99:80 > playlists/equidia/equidia-racingtrot.m3u8
 #python3 parser/equidia.py galop http://62.210.135.99:80 > playlists/equidia/equidia-racinggalop.m3u8
 #python3 parser/equidia.py mag http://62.210.135.99:80 > playlists/equidia/equidia-racingmag.m3u8
 #python3 parser/equidia.py racing1 http://62.210.135.99:80 > playlists/equidia/equidia-racing1.m3u8

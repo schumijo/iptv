@@ -25,7 +25,7 @@ def grab(id):
         print(m3u)
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
+#print('#EXT-X-VERSION:3')
 s = requests.Session()
 
 if (sys.argv[1] == 'equidia'):

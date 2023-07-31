@@ -36,6 +36,16 @@ elif (sys.argv[1] == 'galop'):
     id = 'racinggalop'
 elif (sys.argv[1] == 'mag'):
     id = 'racingmag'
+elif (sys.argv[1] == 'racing1'):
+    id = 'racing1'
+elif (sys.argv[1] == 'racing2'):
+    id = 'racing2'
+elif (sys.argv[1] == 'racing3'):
+    id = 'racing3'
+elif (sys.argv[1] == 'racing4'):
+    id = 'racing4'
+elif (sys.argv[1] == 'racing5'):
+    id = 'racing5'
 else:
     sys.exit(1)
 

@@ -1,2 +1,12 @@
 #EXTM3U
-https://equidia-racing5-p29-cdn.hexaglobe.net/c06c4046bc783d7c68182392cb4c8fd6/64c8bfa2/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080
+https://equidia-racing5-p29-cdn.hexaglobe.net/4b8297740e08cbcae447d7aaf3c62c77/64c8d30c/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/eqdracing5_fre_0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720
+https://equidia-racing5-p29-cdn.hexaglobe.net/4b8297740e08cbcae447d7aaf3c62c77/64c8d30c/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/eqdracing5_fre_1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=1024x576
+https://equidia-racing5-p29-cdn.hexaglobe.net/4b8297740e08cbcae447d7aaf3c62c77/64c8d30c/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/eqdracing5_fre_2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=640x360
+https://equidia-racing5-p29-cdn.hexaglobe.net/4b8297740e08cbcae447d7aaf3c62c77/64c8d30c/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/eqdracing5_fre_3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144
+https://equidia-racing5-p29-cdn.hexaglobe.net/4b8297740e08cbcae447d7aaf3c62c77/64c8d30c/equidia/equidia-mobileapp-ios-1/eqdracing5pri_fre.smil/eqdracing5_fre_4.m3u8

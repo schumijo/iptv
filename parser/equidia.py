@@ -22,10 +22,22 @@ def grab(id):
     except Exception as e:
         m3u = na
     finally:
-        print(m3u)
+        # print(m3u)
+        print('#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080')
+        print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_0.m3u8"))
+        print('#EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720')
+        print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_1.m3u8"))
+        print('#EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=1024x576')
+        print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_2.m3u8"))
+        print('#EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=640x360')
+        print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_3.m3u8"))
+        print('#EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144')
+        print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_4.m3u8"))
+ 
+
 
 print('#EXTM3U')
-#print('#EXT-X-VERSION:3')
+print('#EXT-X-VERSION:3')
 s = requests.Session()
 
 if (sys.argv[1] == 'equidia'):

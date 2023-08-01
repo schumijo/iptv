@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-chno="1",Equidia
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="" tvg-chno="2",Equidia Racing Trot
-pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrop.m3u8 -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="" tvg-chno="3",Equidia Racing Galop
 pipe:///usr/bin/ffmpeg -i https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racinggalop.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 tvg-id="" tvg-chno="4",Equidia Racing Mag

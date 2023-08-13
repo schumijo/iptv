@@ -4,4 +4,4 @@ pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://ww
 #EXTINF:-1 tvg-id="MyComedy.fr" tvg-chno="0" tvg-logo="",FranceTvSport
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/sport/tous-les-directs/
 #EXTINF:-1 tvg-id="SqoolTV.fr" tvg-chno="0" tvg-logo="",Sqool TV
-pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=WUKzj8z-tpI
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=aJ9ppCYUR3Q

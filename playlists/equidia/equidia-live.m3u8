@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080
-https://equidia-live2-b31-cdn.hexaglobe.net/2693d5f2af1601a8f50d1a8596dbdde7/64db3472/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_0.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/69d816cba8e2aaad08c0fff3fcd3121e/64db6ea7/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_0.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720
-https://equidia-live2-b31-cdn.hexaglobe.net/2693d5f2af1601a8f50d1a8596dbdde7/64db3472/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_1.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/69d816cba8e2aaad08c0fff3fcd3121e/64db6ea7/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=1024x576
-https://equidia-live2-b31-cdn.hexaglobe.net/2693d5f2af1601a8f50d1a8596dbdde7/64db3472/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_2.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/69d816cba8e2aaad08c0fff3fcd3121e/64db6ea7/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_2.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=640x360
-https://equidia-live2-b31-cdn.hexaglobe.net/2693d5f2af1601a8f50d1a8596dbdde7/64db3472/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_3.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/69d816cba8e2aaad08c0fff3fcd3121e/64db6ea7/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_3.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144
-https://equidia-live2-b31-cdn.hexaglobe.net/2693d5f2af1601a8f50d1a8596dbdde7/64db3472/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_4.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/69d816cba8e2aaad08c0fff3fcd3121e/64db6ea7/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_4.m3u8

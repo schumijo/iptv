@@ -5,3 +5,21 @@ pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://ww
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.france.tv/sport/tous-les-directs/
 #EXTINF:-1 tvg-id="SqoolTV.fr" tvg-chno="0" tvg-logo="",Sqool TV
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=aJ9ppCYUR3Q
+#EXTINF:-1 tvg-name="B Smart" tvg-language="French" tvg-country="FR",B Smart
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x7tn4fp
+#EXTINF:-1 tvg-name="Euronews" tvg-language="French" tvg-country="FR",Euronews
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.youtube.com/c/euronewsfr/live
+#EXTINF:-1 tvg-name="LCP 100%" tvg-language="French" tvg-country="FR",LCP 100%
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/xgepjr
+#EXTINF:-1 tvg-name="Public Senat 24/24" tvg-language="French" tvg-country="FR",Public Senat 24/24
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/xkxbzc
+#EXTINF:-1 tvg-name="Tv Vendée" tvg-language="French" tvg-country="FR",Tv Vendée
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.twitch.tv/tvvendee
+#EXTINF:-1 tvg-name="Télénantes" tvg-language="French" tvg-country="FR",Télénantes
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x6fa0b6
+#EXTINF:-1 tvg-name="Maison et Travaux TV" tvg-language="French" tvg-country="FR",Maison et Travaux TV
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x85e5l8
+#EXTINF:-1 tvg-name="Top Santé TV" tvg-language="French" tvg-country="FR",Top Santé TV
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x89yjnn
+#EXTINF:-1 tvg-name="Tech&Co" tvg-language="French" tvg-country="FR",Tech&Co
+pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=tBogvOwzskg

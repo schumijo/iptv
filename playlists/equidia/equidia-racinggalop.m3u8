@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/4a263b293768b96bbde8ae0ae206ee2c/652113c3/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_0.m3u8
+https://equidia-racinggalop-p30-cdn.hexaglobe.net/a577eef31a2b2095568827d96bf6b628/65214e1b/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_0.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/4a263b293768b96bbde8ae0ae206ee2c/652113c3/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_1.m3u8
+https://equidia-racinggalop-p30-cdn.hexaglobe.net/a577eef31a2b2095568827d96bf6b628/65214e1b/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=1024x576
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/4a263b293768b96bbde8ae0ae206ee2c/652113c3/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_2.m3u8
+https://equidia-racinggalop-p30-cdn.hexaglobe.net/a577eef31a2b2095568827d96bf6b628/65214e1b/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_2.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=640x360
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/4a263b293768b96bbde8ae0ae206ee2c/652113c3/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_3.m3u8
+https://equidia-racinggalop-p30-cdn.hexaglobe.net/a577eef31a2b2095568827d96bf6b628/65214e1b/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_3.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/4a263b293768b96bbde8ae0ae206ee2c/652113c3/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_4.m3u8
+https://equidia-racinggalop-p30-cdn.hexaglobe.net/a577eef31a2b2095568827d96bf6b628/65214e1b/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil/eqdracinggalop_fre_4.m3u8

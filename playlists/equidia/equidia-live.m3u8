@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/7e6620b306c4f4c0d2c95be7a77d7f68/6530adaa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_0.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/7e6620b306c4f4c0d2c95be7a77d7f68/6530adaa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=1024x576
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/7e6620b306c4f4c0d2c95be7a77d7f68/6530adaa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_2.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=640x360
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/7e6620b306c4f4c0d2c95be7a77d7f68/6530adaa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_3.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
+https://equidia-live2-p30-cdn.hexaglobe.net/7e6620b306c4f4c0d2c95be7a77d7f68/6530adaa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/eqdlive2_fre_4.m3u8

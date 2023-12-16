@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="D1 Arkema 1" tvg-language="French" tvg-country="FR",D1 Arkema 1
+https://bcovlive-a.akamaihd.net/d6bc3a39dbf04cb498850a9d1b946212/eu-central-1/5980109321001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="D1 Arkema 2" tvg-language="French" tvg-country="FR",D1 Arkema 2
+https://bcovlive-a.akamaihd.net/9bee70e3c4814784ac32fad0146bae04/eu-west-1/5980109321001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="D1 Arkema 3" tvg-language="French" tvg-country="FR",D1 Arkema 3
+https://bcovlive-a.akamaihd.net/e5736e693e894c5084550aee4edfde6b/eu-west-1/5980109321001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="D1 Arkema 4" tvg-language="French" tvg-country="FR",D1 Arkema 4
+https://bcovlive-a.akamaihd.net/4369ecead9df467fbe268a67de13b883/eu-west-1/5980109321001/playlist_dvr.m3u8

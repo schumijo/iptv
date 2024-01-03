@@ -35,8 +35,6 @@ http://livetv.ktv.zone/18/play.m3u8
 http://livetv.ktv.zone/19/play.m3u8
 #EXTINF:0,18. Gulli
 http://livetv.ktv.zone/20/play.m3u8
-#EXTINF:0,19. France O
-http://livetv.ktv.zone/21/play.m3u8
 #EXTINF:0,20. TF1 Séries Films
 http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:0,21. L'Equipe 21
@@ -53,72 +51,22 @@ http://livetv.ktv.zone/27/play.m3u8
 http://livetv.ktv.zone/28/play.m3u8
 #EXTINF:0,27. Franceinfo
 http://livetv.ktv.zone/29/play.m3u8
-#EXTINF:0,28. Melody TV
-http://livetv.ktv.zone/30/play.m3u8
-#EXTINF:0,30. France 3 Alpes
-http://livetv.ktv.zone/32/play.m3u8
-#EXTINF:0,31. 8 Mont Blanc
-http://livetv.ktv.zone/33/play.m3u8
-#EXTINF:0,32. Mont Blanc Live
-http://livetv.ktv.zone/169/play.m3u8
 #EXTINF:0,50. CGTN Français
 http://livetv.ktv.zone/52/play.m3u8
-#EXTINF:0,51. Arirang World
-http://livetv.ktv.zone/53/play.m3u8
 #EXTINF:0,54. France 24
 http://livetv.ktv.zone/56/play.m3u8
 #EXTINF:0,55. France 24 (EN)
 http://livetv.ktv.zone/57/play.m3u8
-#EXTINF:0,56. RT
-http://livetv.ktv.zone/58/play.m3u8
-#EXTINF:0,57. CNN HD
-http://livetv.ktv.zone/59/play.m3u8
-#EXTINF:0,58. BBC World
-http://livetv.ktv.zone/60/play.m3u8
 #EXTINF:0,59. TV5 Monde Europe
 http://livetv.ktv.zone/61/play.m3u8
-#EXTINF:0,60. CNBC Europe
-http://livetv.ktv.zone/62/play.m3u8
-#EXTINF:0,61. Bloomberg
-http://livetv.ktv.zone/63/play.m3u8
 #EXTINF:0,62. Euronews FR
 http://livetv.ktv.zone/73/play.m3u8
-#EXTINF:0,63. Eurosport (GER)
-http://livetv.ktv.zone/65/play.m3u8
-#EXTINF:0,64. M6 Boutique & Co
-http://livetv.ktv.zone/66/play.m3u8
-#EXTINF:0,65. RTL II (AU)
-http://livetv.ktv.zone/67/play.m3u8
 #EXTINF:0,66. KIKA
 http://livetv.ktv.zone/68/play.m3u8
 #EXTINF:0,67. 3 SAT
 http://livetv.ktv.zone/69/play.m3u8
 #EXTINF:0,78. Telesur
 http://livetv.ktv.zone/80/play.m3u8
-#EXTINF:0,79. Galicia TV Europa
-http://livetv.ktv.zone/81/play.m3u8
-#EXTINF:0,80. AD Sport1
-http://livetv.ktv.zone/82/play.m3u8
-#EXTINF:0,81. Al Sharqiya
-http://livetv.ktv.zone/83/play.m3u8
-#EXTINF:0,82. Al Arabiya
-http://livetv.ktv.zone/84/play.m3u8
-#EXTINF:0,84. Sky News Arabia
-http://livetv.ktv.zone/86/play.m3u8
-#EXTINF:0,85. Dubai TV
-http://livetv.ktv.zone/87/play.m3u8
-#EXTINF:0,86. Dubai Sports
-http://livetv.ktv.zone/88/play.m3u8
-#EXTINF:0,87. Sama Dubai
-http://livetv.ktv.zone/89/play.m3u8
-#EXTINF:0,89. VOX (GER)
-http://livetv.ktv.zone/91/play.m3u8
-#EXTINF:0,90. Record Inter
-http://livetv.ktv.zone/92/play.m3u8
-#EXTINF:0,91. KTO
-http://livetv.ktv.zone/93/play.m3u8
-#EXTINF:0,97. ZDF
-http://livetv.ktv.zone/99/play.m3u8
 #EXTINF:0,101. TF1 avec sous-titres
 http://livetv.ktv.zone/103/play.m3u8
 #EXTINF:0,102. France 2 avec sous-titres
@@ -201,12 +149,8 @@ http://livetv.ktv.zone/54/play.m3u8
 http://livetv.ktv.zone/55/play.m3u8
 #EXTINF:0,xxx. SRF Zwei
 http://livetv.ktv.zone/136/play.m3u8
-#EXTINF:0,xxx. HSE Extra
-http://livetv.ktv.zone/72/play.m3u8
 #EXTINF:0,xxx. ZDF Info HD
 http://livetv.ktv.zone/174/play.m3u8
-#EXTINF:0,xxx. RTL
-http://livetv.ktv.zone/152/play.m3u8
 #EXTINF:0,xxx. Rai Yoyo
 http://livetv.ktv.zone/153/play.m3u8
 #EXTINF:0,xxx. Rai Premium
@@ -219,10 +163,6 @@ http://livetv.ktv.zone/156/play.m3u8
 http://livetv.ktv.zone/157/play.m3u8
 #EXTINF:0,xxx. RSI La 2
 http://livetv.ktv.zone/137/play.m3u8
-#EXTINF:0,xxx. Rai Radio 2
-http://livetv.ktv.zone/158/play.m3u8
-#EXTINF:0,210. France 3
-http://livetv.ktv.zone/209/play.m3u8
 #EXTINF:0,211. France 3 Alpes
 http://livetv.ktv.zone/210/play.m3u8
 #EXTINF:0,212. France 3 Alsace

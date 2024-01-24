@@ -23,3 +23,5 @@ pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://ww
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x89yjnn
 #EXTINF:-1 tvg-name="Tech&Co" tvg-language="French" tvg-country="FR",Tech&Co
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.youtube.com/watch?v=tBogvOwzskg
+#EXTINF:-1 tvg-id="TVVendee.fr" tvg-chno="0" tvg-logo="",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8

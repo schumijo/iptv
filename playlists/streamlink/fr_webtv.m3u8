@@ -15,8 +15,6 @@ pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://ww
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/xgepjr
 #EXTINF:-1 tvg-name="Public Senat 24/24" tvg-language="French" tvg-country="FR",Public Senat 24/24
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/xkxbzc
-#EXTINF:-1 tvg-name="Tv Vendée" tvg-language="French" tvg-country="FR",Tv Vendée
-pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.twitch.tv/tvvendee
 #EXTINF:-1 tvg-name="Télénantes" tvg-language="French" tvg-country="FR",Télénantes
 pipe:///usr/local/bin/streamlink --stdout --default-stream best --url https://www.dailymotion.com/video/x6fa0b6
 #EXTINF:-1 tvg-name="Maison et Travaux TV" tvg-language="French" tvg-country="FR",Maison et Travaux TV

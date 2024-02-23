@@ -21,9 +21,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
 
-##EXTINF:-1 tvg-name="CNews" tvg-language="French" tvg-country="FR",CNews
-#https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd.m3u8
+
 ##EXTINF:-1 tvg-name="Gulli" tvg-language="French" tvg-country="FR",Gulli
 #https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 ##EXTINF:-1 tvg-name="Gulli" tvg-language="French" tvg-country="FR",Gulli

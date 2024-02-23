@@ -17,29 +17,33 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png",TFX
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tfx.m3u
 #EXTINF:-1 tvg-chno="12" tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png",LCP 
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
-
-
-##EXTINF:-1 tvg-name="Gulli" tvg-language="French" tvg-country="FR",Gulli
-#https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
-##EXTINF:-1 tvg-name="Gulli" tvg-language="French" tvg-country="FR",Gulli
-#https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
-##EXTINF:-1 tvg-name="TF1 Series Films" tvg-language="French" tvg-country="FR",TF1 Series Films
-#https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
-##EXTINF:-1 tvg-name="Cherie 25" tvg-language="French" tvg-country="FR",Cherie 25
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/cstr/cstr.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png",TF1 SERIES FILMS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1sf.m3u
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
 #https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-##EXTINF:-1 tvg-name="LCI" tvg-language="French" tvg-country="FR",LCI
-#https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
-##EXTINF:-1 tvg-name="LCI" tvg-language="French" tvg-country="FR",LCI
-#https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m3u8
-##EXTINF:-1 tvg-name="BFM Business" tvg-language="French" tvg-country="FR",BFM Business
-#https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-##EXTINF:-1 tvg-name="BFM Business" tvg-language="French" tvg-country="FR",Le Figaro TV Ile-De-France
-#https://static.lefigaro.fr/secom/tnt.m3u8
-##EXTINF:-1 tvg-name="20MinutesTVIDF" tvg-language="French" tvg-country="FR",20 Minutes TV Ile-De-France
-#https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8

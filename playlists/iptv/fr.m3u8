@@ -61,7 +61,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-chno="176" tvgtvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",ÉQUIDIA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
+#EXTINF:-1 tvg-chno="178" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung

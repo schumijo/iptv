@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/cstr/cstr.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png",TF1 SERIES FILMS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1sf.m3u
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV

@@ -15,7 +15,7 @@ def grab():
     except Exception as e:
         m3u = na
     finally:
-        print(m3u)
+        print(m3u.text)
  
 s = requests.Session()
 

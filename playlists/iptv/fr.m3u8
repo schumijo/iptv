@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/tf1/tf1.m3u8
-#https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA4ODE0MTc5LCJnaWQiOiJhZmE0Mzc1YS03MzYzLTRlNTctOGZhNy1lMTYxNGM3NWYzMGEiLCJpYXQiOjE3MDg3OTk3NzksImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJhZmE0Mzc1YS03MzYzLTRlNTctOGZhNy1lMTYxNGM3NWYzMGEifQ.lTySxdhKIwheTMoKypDYkjfvZBPfCa-IrA1LNS85MBs/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3

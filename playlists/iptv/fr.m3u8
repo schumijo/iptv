@@ -15,6 +15,8 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/w9/w9.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png",TFX

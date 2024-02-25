@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
 https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA4ODE0MTc5LCJnaWQiOiJhZmE0Mzc1YS03MzYzLTRlNTctOGZhNy1lMTYxNGM3NWYzMGEiLCJpYXQiOjE3MDg3OTk3NzksImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJhZmE0Mzc1YS03MzYzLTRlNTctOGZhNy1lMTYxNGM3NWYzMGEifQ.lTySxdhKIwheTMoKypDYkjfvZBPfCa-IrA1LNS85MBs/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
+#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
+#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
 https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8

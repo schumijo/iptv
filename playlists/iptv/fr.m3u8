@@ -1,74 +1,74 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png",TF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-origin=http://callofliberty.fr/
 http://s2.callofliberty.fr/direct/TF1/master.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3
+#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png",FRANCE 3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
+#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png",CANAL+ EN CLAIR
 https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5
+#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png",FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE
+#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8
+#EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png",C8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png",W9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-origin=http://callofliberty.fr/
 http://s2.callofliberty.fr/direct/W9/index.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png",TMC
+#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png",TMC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png",TFX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-origin=http://callofliberty.fr/
 http://s2.callofliberty.fr/direct/TFX/master.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12
+#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png",LCP 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u
-#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4
+#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png",FRANCE 4
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV
+#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
+#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png",CNEWS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png",CSTAR
+#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png",CSTAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/cstr/cstr.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png",GULLI
+#EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png",GULLI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png",TF1 SERIES FILMS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-origin=http://callofliberty.fr/
 http://s2.callofliberty.fr/direct/TF1SERIESFILMS/master.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV
+#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png",L'ÉQUIPE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png",6TER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://callofliberty.fr/
 #EXTVLCOPT:http-origin=http://callofliberty.fr/
 http://s2.callofliberty.fr/direct/6ter/index.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png",RMC STORY
+#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://i.ibb.co/VS4xR2g/rmcdecou.png",RMC DÉCOUVERTE
+#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png",RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png",CHÉRIE 25
+#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png",CHÉRIE 25
 #https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
+#EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO
+#EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png",FRANCE INFO
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="ParisPremiere.fr" tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png",PARIS PREMIERE
+#EXTINF:-1 tvg-chno="28" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png",PARIS PREMIERE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/pp.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="Teva.fr" tvg-logo="https://i.ibb.co/4RKk092/teva.png",TÉVA
+#EXTINF:-1 tvg-chno="53" tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/teva-fr.png",TÉVA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8

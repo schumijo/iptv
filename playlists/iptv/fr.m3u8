@@ -242,5 +242,11 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
 #EXTINF:-1 tvg-chno="910" tvg-id="IDF1.fr" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
+#EXTINF:-1 tvg-chno="913" tvg-id="TV78.fr" tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png",TV 78
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-chno="914" tvg-id="Weo.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO TV
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
 #EXTINF:-1 tvg-chno="924" tvg-id="TVVendee.fr" tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDÉE
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
+#EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO PICARDIE
+https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8

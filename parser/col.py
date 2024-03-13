@@ -3,7 +3,7 @@ import requests
 import os
 import sys
 
-na = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
+na = 'https://github.com/BG47510/Zap/raw/main/assets/error.m3u8'
 def grab():
     headers={
         "Referer": "http://callofliberty.fr/",
@@ -19,4 +19,4 @@ def grab():
  
 s = requests.Session()
 
-grab()
+grab(sys.argv[1])

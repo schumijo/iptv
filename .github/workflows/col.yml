@@ -1,4 +1,4 @@
-name: tf1 action
+name: col action
 
 on:
   schedule:

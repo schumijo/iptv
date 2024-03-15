@@ -1,2 +1,2 @@
-HTTPSConnectionPool(host='www.dailymotion.com', port=443): Max retries exceeded with url: /player/metadata/video/k5VKYQn5hAE4vfry927?embedder=https://www.journaldugolf.fr (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x713ca93ceec0>: Failed to establish a new connection: [Errno 111] Connection refused')))
+'qualities'
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8

@@ -80,12 +80,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-chno="191" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-chno="192" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-chno="193" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 3
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
@@ -208,21 +202,27 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/bsmart.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
 https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
-#EXTINF:-1 tvg-chno="410" tvg-id="EquidiaRacingTrot.fr",EQUIDIA RACING TROT
+#EXTINF:-1 tvg-chno="411" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 3
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
+#EXTINF:-1 tvg-chno="418" tvg-id="EquidiaRacingTrot.fr",EQUIDIA RACING TROT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8
-#EXTINF:-1 tvg-chno="411" tvg-id="EquidiaRacingGalop.fr",EQUIDIA RACING GALOP
+#EXTINF:-1 tvg-chno="419" tvg-id="EquidiaRacingGalop.fr",EQUIDIA RACING GALOP
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racinggalop.m3u8
-#EXTINF:-1 tvg-chno="412" tvg-id="EquidiaRacingMag.fr",EQUIDIA RACING MAG
+#EXTINF:-1 tvg-chno="420" tvg-id="EquidiaRacingMag.fr",EQUIDIA RACING MAG
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingmag.m3u8
-#EXTINF:-1 tvg-chno="413" tvg-id="EquidiaRacing1.fr",EQUIDIA RACING 1
+#EXTINF:-1 tvg-chno="421" tvg-id="EquidiaRacing1.fr",EQUIDIA RACING 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8
-#EXTINF:-1 tvg-chno="414" tvg-id="EquidiaRacing2.fr",EQUIDIA RACING 2
+#EXTINF:-1 tvg-chno="422" tvg-id="EquidiaRacing2.fr",EQUIDIA RACING 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing2.m3u8
-#EXTINF:-1 tvg-chno="415" tvg-id="EquidiaRacing3.fr",EQUIDIA RACING 3
+#EXTINF:-1 tvg-chno="423" tvg-id="EquidiaRacing3.fr",EQUIDIA RACING 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing3.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-id="EquidiaRacing4.fr",EQUIDIA RACING 4
+#EXTINF:-1 tvg-chno="424" tvg-id="EquidiaRacing4.fr",EQUIDIA RACING 4
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing4.m3u8
-#EXTINF:-1 tvg-chno="417" tvg-id="EquidiaRacing5.fr",EQUIDIA RACING 5
+#EXTINF:-1 tvg-chno="425" tvg-id="EquidiaRacing5.fr",EQUIDIA RACING 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing5.m3u8
 #EXTINF:-1 tvg-chno="800" tvg-id="RTLTVI.be" tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8

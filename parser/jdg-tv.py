@@ -20,7 +20,7 @@ def grab():
         print(na)
         sys.exit(1)
     print('ok')
-    print(m3u)
+    print(m3u.text)
     try:
         m3u = s.get(m3u)
     except Exception as e:

@@ -17,6 +17,7 @@ def grab():
         m3u = s.get('https://www.dailymotion.com/player/metadata/video/k5VKYQn5hAE4vfry927?embedder=https://www.journaldugolf.fr', proxies=proxies)
     except Exception as e:
         m3u = na
+        print(e)
         print(na)
         sys.exit(1)
     print('ok')

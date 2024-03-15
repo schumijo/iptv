@@ -21,7 +21,7 @@ def grab():
         sys.exit(1)
 
     try:
-        m3u = s.get(m3u)
+        m3u = s.get(m3u, proxies=proxies)
     except Exception as e:
         m3u = na
     finally:

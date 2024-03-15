@@ -1,1 +1,2 @@
+HTTPSConnectionPool(host='www.dailymotion.com', port=443): Max retries exceeded with url: /player/metadata/video/k5VKYQn5hAE4vfry927?embedder=https://www.journaldugolf.fr (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 400 Bad Request')))
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8

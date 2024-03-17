@@ -18,26 +18,20 @@ def grab(id):
         "Referer": "https://fr.equidia.app/"
     }
     try:
-        m3u = s.get('https://api.equidia.fr/api/public/racing/equidia-mobileapp-ios-1/equidia-'+id, headers=headers, proxies=proxies).json()['primary']
+        playlist = s.get('https://api.equidia.fr/api/public/racing/equidia-mobileapp-ios-1/equidia-'+id, headers=headers, proxies=proxies).json()['pri>
+    except Exception as e:
+        playlist = na
+    finally:
+        print(playlist)
+
+    try:
+        m3u = s.get(playlist, proxies=proxies)
     except Exception as e:
         m3u = na
     finally:
-        print(m3u)
-        #print('#EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080')
-        #print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_0.m3u8"))
-        #print('#EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720')
-        #print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_1.m3u8"))
-        #print('#EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=1024x576')
-        #print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_2.m3u8"))
-        #print('#EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=640x360')
-        #print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_3.m3u8"))
-        #print('#EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144')
-        #print(m3u.replace("playlist.m3u8", "eqd" + id + "_fre_4.m3u8"))
- 
+        print(m3u.text)
+        print(m3u.text.replace("slot", playlist.replace("playlist.m3u8","") + "/slot"))
 
-
-#print('#EXTM3U')
-#print('#EXT-X-VERSION:3')
 s = requests.Session()
 
 if (sys.argv[1] == 'equidia'):

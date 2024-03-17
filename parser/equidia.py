@@ -18,7 +18,7 @@ def grab(id):
         "Referer": "https://fr.equidia.app/"
     }
     try:
-        playlist = s.get('https://api.equidia.fr/api/public/racing/equidia-mobileapp-ios-1/equidia-'+id, headers=headers, proxies=proxies).json()['pri>
+        playlist = s.get('https://api.equidia.fr/api/public/racing/equidia-mobileapp-ios-1/equidia-'+id, headers=headers, proxies=proxies).json()['primary']
     except Exception as e:
         playlist = na
     finally:

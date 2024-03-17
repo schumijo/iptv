@@ -27,7 +27,6 @@ def grab(id):
     except Exception as e:
         m3u = na
     finally:
-        print(m3u.text)
         print(m3u.text.replace("slot", playlist.replace("playlist.m3u8","") + "/slot"))
 
 s = requests.Session()

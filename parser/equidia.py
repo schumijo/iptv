@@ -21,8 +21,6 @@ def grab(id):
         playlist = s.get('https://api.equidia.fr/api/public/racing/equidia-mobileapp-ios-1/equidia-'+id, headers=headers, proxies=proxies).json()['primary']
     except Exception as e:
         playlist = na
-    finally:
-        print(playlist)
 
     try:
         m3u = s.get(playlist, proxies=proxies)

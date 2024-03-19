@@ -208,6 +208,14 @@ https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
+#EXTINF:-1 tvg-chno="414" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 4
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive4.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 5
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 6
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive6.m3u8
+#EXTINF:-1 tvg-chno="417" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 7
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
 #EXTINF:-1 tvg-chno="418" tvg-id="EquidiaRacingTrot.fr",EQUIDIA RACING TROT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8
 #EXTINF:-1 tvg-chno="419" tvg-id="EquidiaRacingGalop.fr",EQUIDIA RACING GALOP

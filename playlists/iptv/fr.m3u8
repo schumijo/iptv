@@ -80,6 +80,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="Museum.fr" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp",MUSEUM TV
+https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO

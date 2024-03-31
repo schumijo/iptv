@@ -13,7 +13,7 @@ def grab(url):
     try:
         m3u = s.get(url, headers=headers)
     except Exception as e:
-        m3u = na
+        return 0
     finally:
         print(m3u.text)
  

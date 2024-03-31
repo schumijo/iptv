@@ -1,4 +1,4 @@
-name: col action
+name: cstar action
 
 on:
   schedule:

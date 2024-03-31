@@ -13,7 +13,7 @@ if len(sys.argv) == 3:
 na = 'https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8'
 def grab(id):
     try:
-        m3u = s.get('https://www.dailymotion.com/player/metadata/video/' + id + '?embedder=https%3A%2F%2Fwww.lequipe.fr%2Ftv%2Fvideos%2Flive%2F'+ id, proxies=proxies).json()['qualities']['auto'][0]['url']
+        m3u = s.get('https://www.dailymotion.com/player/metadata/video/' + id, proxies=proxies).json()['qualities']['auto'][0]['url']
     except Exception as e:
         m3u = na
         print(na)

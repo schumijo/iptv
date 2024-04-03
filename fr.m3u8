@@ -257,7 +257,6 @@ https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO PICARDIE
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-chno="3001",NOTRE PLANETE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/notre-planete.m3u8
 #EXTINF:-1 tvg-chno="3002",LES RESTOS DU COEUR

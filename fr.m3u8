@@ -70,7 +70,7 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-chno="176" tvg-id="Equidia.fr" tvgtvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",ÉQUIDIA
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="TRACESportStars.fr" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
@@ -257,73 +257,73 @@ https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO PICARDIE
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
-#EXTINF:-1 tvg-chno="3001",NOTRE PLANETE
+#EXTINF:-1 tvg-chno="3001" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-notre-planete-5173e6-53cc27-0@3x.png",NOTRE PLANÈTE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/notre-planete.m3u8
-#EXTINF:-1 tvg-chno="3002",LES RESTOS DU COEUR
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-restos-du-coeur.m3u8
-#EXTINF:-1 tvg-chno="3003",LES ENFOIRES
+#EXTINF:-1 tvg-chno="3002" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",LES ENFOIRÉS 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-enfoires.m3u8
-#EXTINF:-1 tvg-chno="3004",PALMASHOW
+#EXTINF:-1 tvg-chno="3003" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-f8bbbe-0@3x.png",LES RESTOS DU CŒUR
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-restos-du-coeur.m3u8
+#EXTINF:-1 tvg-chno="3004" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bac96b-1b1dc5-0@3x.png",PALMASHOW TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/palmashow.m3u8
-#EXTINF:-1 tvg-chno="3005",TAKEN
+#EXTINF:-1 tvg-chno="3005" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-fast-taken-f26f13-74547f-0@3x.png",TAKEN TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/taken.m3u8
-#EXTINF:-1 tvg-chno="3006",NARUTO
+#EXTINF:-1 tvg-chno="3006" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-naruto-4dda81-03df71-0@3x.png",NARUTO TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/naruto.m3u8
-#EXTINF:-1 tvg-chno="3007",RIS POLICE SCIENTIFIQUE
+#EXTINF:-1 tvg-chno="3007" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-ris-police-scientifique-16db49-4d02b0-0@3x.png",RIS POLICE SCIENTIFIQUE TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/ris-police-scientifique.m3u8
-#EXTINF:-1 tvg-chno="3008",MAMANS AND CELEBRES
+#EXTINF:-1 tvg-chno="3008" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-mamans-et-celebres-b0e78f-a3c532-0@3x.png",MAMANS & CÉLÈBRES TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/mamans-and-celebres.m3u8
-#EXTINF:-1 tvg-chno="3009",SOUS LE SOLEIL
+#EXTINF:-1 tvg-chno="3009" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-960c76-d09a88-0@3x.png",SOUS LE SOLEIL
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/sous-le-soleil.m3u8
-#EXTINF:-1 tvg-chno="3010",10 COUPLES PARFAITS
+#EXTINF:-1 tvg-chno="3010" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-10-couples-parfaits-d7e9eb-155a96-0@3x.png",10 COUPLES PARFAITS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/10-couples-parfaits.m3u8
-#EXTINF:-1 tvg-chno="3011",INAZUMA ELEVEN
+#EXTINF:-1 tvg-chno="3011" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-inazuma-eleven-b7d76c-91d3d0-0@3x.png",INAZUMA ELEVEN TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/inazuma-eleven.m3u8
-#EXTINF:-1 tvg-chno="3012",NASHVILLE
+#EXTINF:-1 tvg-chno="3012" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream-nashville-489ef1-a17beb-0@3x.png",NASHVILLE TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/nashville.m3u8
-#EXTINF:-1 tvg-chno="3013",FOUDRE
+#EXTINF:-1 tvg-chno="3013" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-foudre-0decfb-740fbd-0@3x.png",FOUDRE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/foudre.m3u8
-#EXTINF:-1 tvg-chno="3014",POUR TOUJOURS PLUS UN JOUR
+#EXTINF:-1 tvg-chno="3014" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-fast-pour-toujours-plus-un-jour-e7cb1a-2677e2-0@3x.png",POUR TOUJOURS PLUS UN JOUR TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/pour-toujours-plus-un-jour.m3u8
-#EXTINF:-1 tvg-chno="3015",POLICE FICTION
+#EXTINF:-1 tvg-chno="3015" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-polar-fiction-v3-a0f8ac-e1d8d3-0@3x.png",POLAR FICTION TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/police-fiction.m3u8
-#EXTINF:-1 tvg-chno="3016",THRILLER FICTION
+#EXTINF:-1 tvg-chno="3016" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b3414a-036363-0@3x.png",THRILLER FICTION
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/thriller-fiction.m3u8
-#EXTINF:-1 tvg-chno="3017",COMEDIE FICTION
+#EXTINF:-1 tvg-chno="3017" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-c2c7de-ef601b-0@3x.png",COMÉDIE FICTION
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/comedie-fiction.m3u8
-#EXTINF:-1 tvg-chno="3018",SAGA DE LETE
+#EXTINF:-1 tvg-chno="3018" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-ec6841-1c98d8-0@3x.png",SAGA DE L'ÉTÉ TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/saga-de-lete.m3u8
-#EXTINF:-1 tvg-chno="3019",CHANTE
+#EXTINF:-1 tvg-chno="3019" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-371b4d-4d7da3-0@3x.png",CHANTE !
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/chante.m3u8
-#EXTINF:-1 tvg-chno="3020",SECONDE CHANCE
+#EXTINF:-1 tvg-chno="3020" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-eefe77-a94341-0@3x.png",SECONDE CHANCE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/seconde-chance.m3u8
-#EXTINF:-1 tvg-chno="3021",PAS DE CA ENTRE NOUS
+#EXTINF:-1 tvg-chno="3021" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-0d4110-5ff137-0@3x.png",PAS DE SECRET ENTRE NOUS
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/pas-de-ca-entre-nous.m3u8
-#EXTINF:-1 tvg-chno="3022",HARTLEY COEUR A VIF
+#EXTINF:-1 tvg-chno="3022" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-7d42f9-deacac-0@3x.png",HARTLEY, COEUR À VIF
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/hartley-coeur-a-vif.m3u8
-#EXTINF:-1 tvg-chno="3023",LE DESTIN DE LISA
+#EXTINF:-1 tvg-chno="3023" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-0459fa-580b38-0@3x.png",LE DESTIN DE LISA TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/le-destin-de-lisa.m3u8
-#EXTINF:-1 tvg-chno="3024",BORUTO NARUTO NEXT GENERATIO
+#EXTINF:-1 tvg-chno="3024" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boruto-44610c-3dd03d-0@3x.png",BORUTO: NARUTO NEXT GEN TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/boruto-naruto-next-generatio.m3u8
-#EXTINF:-1 tvg-chno="3025",STAR ACADEMY
+#EXTINF:-1 tvg-chno="3025" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-99432b-475c46-0@3x.png",STAR ACADEMY TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/star-academy.m3u8
-#EXTINF:-1 tvg-chno="3026",LA VILLA DES COEURS BRISES
+#EXTINF:-1 tvg-chno="3026" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bc533b-f33ff6-0@3x.png",LA VILLA DES CŒURS BRISÉS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/la-villa-des-coeurs-brises.m3u8
-#EXTINF:-1 tvg-chno="3027",LA BATAILLE DES COUPLES
+#EXTINF:-1 tvg-chno="3027" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-labatailled-2f6385-d0cf91-0@3x.png",LA BATAILLE DES COUPLES TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/la-bataille-des-couples.m3u8
-#EXTINF:-1 tvg-chno="3028",FRANCOIS LEMBROUILLE
+#EXTINF:-1 tvg-chno="3028" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-cameras-cachees-de-francois-damiens-515de2-b7e46f-0@3x.png",FRANÇOIS DAMIENS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/francois-lembrouille.m3u8
-#EXTINF:-1 tvg-chno="3029",LES INCONNUS
+#EXTINF:-1 tvg-chno="3029" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-les-inconnus-78e128-170478-0@3x.png",LES INCONNUS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-inconnus.m3u8
-#EXTINF:-1 tvg-chno="3030",DANSE AVEC LES STARS
+#EXTINF:-1 tvg-chno="3030" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-stream_dals-cef0f9-cb74d2-0@3x.png",DANSE AVEC LES STARS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/danse-avec-les-stars.m3u8
-#EXTINF:-1 tvg-chno="3031",LA BATAILLE DES CLANS
+#EXTINF:-1 tvg-chno="3031" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-la-bataille-des-clans-789f56-de9c38-0@3x.png",LA BATAILLE DES CLANS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/la-bataille-des-clans.m3u8
-#EXTINF:-1 tvg-chno="3032",LOLYWOOD
+#EXTINF:-1 tvg-chno="3032" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-165684-6d3792-0@3x.png",LOLYWOOD TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lolywood.m3u8
-#EXTINF:-1 tvg-chno="3033",USHUAIA FOR CHANGE
+#EXTINF:-1 tvg-chno="3033" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-4d1f7c-ec88f2-0@3x.png",USHUAIA FOR CHANGE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/ushuaia-for-change.m3u8
-#EXTINF:-1 tvg-chno="3034",BOULE ET BILL
+#EXTINF:-1 tvg-chno="3034" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boule-et-bill-a7e70a-68f2cc-0@3x.png",BOULE ET BILL TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/boule-et-bill.m3u8
-#EXTINF:-1 tvg-chno="3035",SUPER WINGS
+#EXTINF:-1 tvg-chno="3035" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-wings-312b9f-f8a07e-0@3x.png",SUPER WINGS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/super-wings.m3u8

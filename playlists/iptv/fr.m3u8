@@ -3,257 +3,257 @@
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png",FRANCE 3
+#EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="TNT",FRANCE 3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png",CANAL+ EN CLAIR
+#EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" group-title="TNT",CANAL+ EN CLAIR
 https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png",FRANCE 5
+#EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="TNT",FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png",M6
+#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="TNT",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png",ARTE
+#EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="TNT",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png",C8
+#EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="TNT",C8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png",W9
+#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="TNT",W9
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/col/w9.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png",TMC
+#EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" group-title="TNT",TMC
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
-#EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png",TFX
+#EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="TNT",TFX
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tfx.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png",NRJ 12
+#EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" group-title="TNT",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png",LCP 
+#EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" group-title="TNT",LCP 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png",FRANCE 4
+#EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="TNT",FRANCE 4
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png",BFM TV
+#EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="TNT",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png",CNEWS
+#EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="TNT",CNEWS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png",CSTAR
+#EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png" group-title="TNT",CSTAR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/cstar/cstar.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png",GULLI
+#EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" group-title="TNT",GULLI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png",TF1 SERIES FILMS
+#EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="TNT",TF1 SERIES FILMS
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1sf.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png",L'ÉQUIPE TV
+#EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" group-title="TNT",L'ÉQUIPE TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png",6TER
+#EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="TNT",6TER
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/col/6ter.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png",RMC STORY
+#EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="TNT",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png",RMC DÉCOUVERTE
+#EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="TNT",RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png",CHÉRIE 25
+#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png",LCI
+#EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="TNT",LCI
 https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/li.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png",FRANCE INFO
+#EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="TNT",FRANCE INFO
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png",PARIS PREMIERE
+#EXTINF:-1 tvg-chno="28" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" group-title="Mini Généraliste",PARIS PREMIERE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/pp.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png",INFOSPORT+
+#EXTINF:-1 tvg-chno="36" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
 http://212.102.60.80/Infosport/index.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/teva-fr.png",TÉVA
+#EXTINF:-1 tvg-chno="53" tvg-id="Teva.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/teva-fr.png" group-title="Premium",TÉVA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-id="TV5Monde.fr" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png",TV5MONDE FBSM
+#EXTINF:-1 tvg-chno="70" tvg-id="TV5Monde.fr" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="Premium",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE TV SÉRIES
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="Séries et Divertissements",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frsr.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://i.ibb.co/grBSqt4/novela.png",TELE NOVELA TV
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="Séries et Divertissements",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-id="Gong.fr" tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg",GONG
+#EXTINF:-1 tvg-chno="94" tvg-id="Gong.fr" tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg" group-title="Séries et Divertissements",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="WildSideTv.fr" tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV
+#EXTINF:-1 tvg-chno="136" tvg-id="WildSideTv.fr" tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg" group-title="Cinéma",WILD SIDE TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png",TIJI
+#EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="Equidia.fr" tvgtvg-logo="https://i.ibb.co/p0CLPqT/equidia.png",ÉQUIDIA
+#EXTINF:-1 tvg-chno="176" tvg-id="Equidia.fr" tvgtvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="Sport Thématique",ÉQUIDIA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-id="TRACESportStars.fr" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS STARS
+#EXTINF:-1 tvg-chno="178" tvg-id="TRACESportStars.fr" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="Sport Thématique",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
+#EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="Sport Thématique",MOTORVISION TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
-#EXTINF:-1 tvg-chno="187",JOURNAL DU GOLF TV
+#EXTINF:-1 tvg-chno="187" group-title="Sport Thématique",JOURNAL DU GOLF TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
-#EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
+#EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="Sport Thématique",SPORT EN FRANCE
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-chno="213" tvg-id="Museum.fr" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp",MUSEUM TV
+#EXTINF:-1 tvg-chno="213" tvg-id="Museum.fr" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="Découverte",MUSEUM TV
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
-#EXTINF:-1 tvg-chno="220" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png",L'ÉSPRIT SORCIER TV
+#EXTINF:-1 tvg-chno="220" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" group-title="Découverte",L'ÉSPRIT SORCIER TV
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
-#EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png",TECH&CO
+#EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="233" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png",ALLO CINÉ
+#EXTINF:-1 tvg-chno="233" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" group-title="Style de vie/Pratique",ALLO CINÉ
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 tvg-chno="238" tvg-id="MensUpTV.fr" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png",MEN'S UP TV
+#EXTINF:-1 tvg-chno="238" tvg-id="MensUpTV.fr" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png" group-title="Style de vie/Pratique",MEN'S UP TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
-#EXTINF:-1 tvg-chno="239" tvg-id="TopSanteTV.fr" tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png",TOP SANTÉ
+#EXTINF:-1 tvg-chno="239" tvg-id="TopSanteTV.fr" tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png" group-title="Style de vie/Pratique",TOP SANTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/topsante/topsante.m3u8
-#EXTINF:-1 tvg-chno="240" tvg-id="MaisonEtTravaux.fr" tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png",MAISON & TRAVAUX
+#EXTINF:-1 tvg-chno="240" tvg-id="MaisonEtTravaux.fr" tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png" group-title="Style de vie/Pratique",MAISON & TRAVAUX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/maisontrvx/maisontrvx.m3u8
-#EXTINF:-1 tvg-chno="241" tvg-id="FashionTV.fr" tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",FASHION TV
+#EXTINF:-1 tvg-chno="241" tvg-id="FashionTV.fr" tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png" group-title="Style de vie/Pratique",FASHION TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="243" tvg-id="MyZenTV.fr" tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN TV
+#EXTINF:-1 tvg-chno="243" tvg-id="MyZenTV.fr" tvg-logo="https://i.ibb.co/VvRpRty/myzen.png" group-title="Style de vie/Pratique",MY ZEN TV
 https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="245" tvg-id="KTO.fr" tvg-logo="https://i.ibb.co/883phd1/ktook.png",KTO
+#EXTINF:-1 tvg-chno="245" tvg-id="KTO.fr" tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="Style de vie/Pratique",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-chno="247" tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg",SQOOL TV
+#EXTINF:-1 tvg-chno="247" tvg-logo="https://i.ibb.co/HnSphLp/sqool.jpg" group-title="Style de vie/Pratique",SQOOL TV
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="Melody.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MÉLODY
+#EXTINF:-1 tvg-chno="262" tvg-id="Melody.fr" tvg-logo="https://i.ibb.co/BPzb19X/melody.png" group-title="Musique",MÉLODY
 https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
-#EXTINF:-1 tvg-chno="274" tvg-id="ClubbingTV.fr" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
+#EXTINF:-1 tvg-chno="274" tvg-id="ClubbingTV.fr" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Musique",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="284" tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
+#EXTINF:-1 tvg-chno="284" tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png" group-title="Musique",GÉNÉRATIONS TV
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-chno="285" tvg-id="TraceUrban.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
+#EXTINF:-1 tvg-chno="285" tvg-id="TraceUrban.fr" tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="Musique",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="294" tvg-id="TraceLatina.fr" tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png",TRACE LATINA
+#EXTINF:-1 tvg-chno="294" tvg-id="TraceLatina.fr" tvg-logo="https://i.ibb.co/vvhRkHZ/tracelatina.png" group-title="Musique",TRACE LATINA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-chno="295" tvg-id="BBlackAfrica.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png",BBLACK! AFRICA
+#EXTINF:-1 tvg-chno="295" tvg-id="BBlackAfrica.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Musique",BBLACK! AFRICA
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
-#EXTINF:-1 tvg-chno="296" tvg-id="BBlackCaribbean.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png",BBLACK! CARIBBEAN
+#EXTINF:-1 tvg-chno="296" tvg-id="BBlackCaribbean.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Musique",BBLACK! CARIBBEAN
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
-#EXTINF:-1 tvg-chno="297" tvg-id="BBlackClassik.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png",BBLACK! CLASSIK
+#EXTINF:-1 tvg-chno="297" tvg-id="BBlackClassik.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Musique",BBLACK! CLASSIK
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-id="France3Alpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 ALPES
+#EXTINF:-1 tvg-chno="302" tvg-id="France3Alpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
-#EXTINF:-1 tvg-chno="303" tvg-id="France3Alsace.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 ALSACE
+#EXTINF:-1 tvg-chno="303" tvg-id="France3Alsace.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 ALSACE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fals.m3u8
-#EXTINF:-1 tvg-chno="304" tvg-id="France3Aquitaine.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 AQUITAINE
+#EXTINF:-1 tvg-chno="304" tvg-id="France3Aquitaine.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 AQUITAINE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/faqt.m3u8
-#EXTINF:-1 tvg-chno="305" tvg-id="France3Auvergne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 AUVERGNE
+#EXTINF:-1 tvg-chno="305" tvg-id="France3Auvergne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 AUVERGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fauv.m3u8
-#EXTINF:-1 tvg-chno="306" tvg-id="France3BasseNormandie.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 BASSE NORMANDIE
+#EXTINF:-1 tvg-chno="306" tvg-id="France3BasseNormandie.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 BASSE NORMANDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbnr.m3u8
-#EXTINF:-1 tvg-chno="307" tvg-id="France3Bourgogne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 BOURGOGNE
+#EXTINF:-1 tvg-chno="307" tvg-id="France3Bourgogne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 BOURGOGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbog.m3u8
-#EXTINF:-1 tvg-chno="308" tvg-id="France3Bretagne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 BRETAGNE
+#EXTINF:-1 tvg-chno="308" tvg-id="France3Bretagne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 BRETAGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fbre.m3u8
-#EXTINF:-1 tvg-chno="309" tvg-id="France3Centre.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 CENTRE
+#EXTINF:-1 tvg-chno="309" tvg-id="France3Centre.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 CENTRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fctr.m3u8
-#EXTINF:-1 tvg-chno="310" tvg-id="France3ChampagneArdenne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 CHAMPAGNE
+#EXTINF:-1 tvg-chno="310" tvg-id="France3ChampagneArdenne.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 CHAMPAGNE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fchg.m3u8
-#EXTINF:-1 tvg-chno="311" tvg-id="France3CorseViaStella.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 CORSE
+#EXTINF:-1 tvg-chno="311" tvg-id="France3CorseViaStella.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 CORSE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fcrs.m3u8
-#EXTINF:-1 tvg-chno="312" tvg-id="France3CotedAzur.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 CÔTE D'AZUR
+#EXTINF:-1 tvg-chno="312" tvg-id="France3CotedAzur.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 CÔTE D'AZUR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpca.m3u8
-#EXTINF:-1 tvg-chno="313" tvg-id="France3FrancheComte.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 FRANCHE COMTÉ
+#EXTINF:-1 tvg-chno="313" tvg-id="France3FrancheComte.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 FRANCHE COMTÉ
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/ffrc.m3u8
-#EXTINF:-1 tvg-chno="314" tvg-id="France3HauteNormandie.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 HAUTE NORMANDIE
+#EXTINF:-1 tvg-chno="314" tvg-id="France3HauteNormandie.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 HAUTE NORMANDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fhnr.m3u8
-#EXTINF:-1 tvg-chno="315" tvg-id="France3Languedoc.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 LANGUEDOC
+#EXTINF:-1 tvg-chno="315" tvg-id="France3Languedoc.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 LANGUEDOC
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fldr.m3u8
-#EXTINF:-1 tvg-chno="316" tvg-id="France3Limousin.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 LIMOUSIN
+#EXTINF:-1 tvg-chno="316" tvg-id="France3Limousin.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 LIMOUSIN
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flms.m3u8
-#EXTINF:-1 tvg-chno="317" tvg-id="France3Lorraine.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 LORRAINE
+#EXTINF:-1 tvg-chno="317" tvg-id="France3Lorraine.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 LORRAINE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/flor.m3u8
-#EXTINF:-1 tvg-chno="318" tvg-id="France3MidiPyrenees.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 MIDI PYRÉNÉES
+#EXTINF:-1 tvg-chno="318" tvg-id="France3MidiPyrenees.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 MIDI PYRÉNÉES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fmpr.m3u8
-#EXTINF:-1 tvg-chno="319" tvg-id="France3NordPasDeCalais.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 NORD PAS DE CALAIS
+#EXTINF:-1 tvg-chno="319" tvg-id="France3NordPasDeCalais.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 NORD PAS DE CALAIS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdc.m3u8
-#EXTINF:-1 tvg-chno="320" tvg-id="France3ParisIdF.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 PARIS IDF
+#EXTINF:-1 tvg-chno="320" tvg-id="France3ParisIdF.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 PARIS IDF
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fidf.m3u8
-#EXTINF:-1 tvg-chno="321" tvg-id="France3PaysDeLaLoire.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 PAYS DE LOIRE
+#EXTINF:-1 tvg-chno="321" tvg-id="France3PaysDeLaLoire.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 PAYS DE LOIRE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpdl.m3u8
-#EXTINF:-1 tvg-chno="322" tvg-id="France3Picardie.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 PICARDIE
+#EXTINF:-1 tvg-chno="322" tvg-id="France3Picardie.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 PICARDIE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpcd.m3u8
-#EXTINF:-1 tvg-chno="323" tvg-id="France3PoitouCharentes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 POITOU CHARENTE
+#EXTINF:-1 tvg-chno="323" tvg-id="France3PoitouCharentes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 POITOU CHARENTE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpch.m3u8
-#EXTINF:-1 tvg-chno="324" tvg-id="France3ProvenceAlpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 PROVENCE ALPES
+#EXTINF:-1 tvg-chno="324" tvg-id="France3ProvenceAlpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 PROVENCE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fpra.m3u8
-#EXTINF:-1 tvg-chno="325" tvg-id="France3RhoneAlpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 RHÔNE ALPES
+#EXTINF:-1 tvg-chno="325" tvg-id="France3RhoneAlpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 RHÔNE ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
-#EXTINF:-1 tvg-chno="326" tvg-id="France3NouvelleAquitaine.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png",FRANCE 3 NOA
+#EXTINF:-1 tvg-chno="326" tvg-id="France3NouvelleAquitaine.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 NOA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fnoa.m3u8
-#EXTINF:-1 tvg-chno="327" tvg-id="BFMParis.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM PARIS
+#EXTINF:-1 tvg-chno="327" tvg-id="BFMParis.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM PARIS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="328" tvg-id="TeleLyonMetropole.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM LYON
+#EXTINF:-1 tvg-chno="328" tvg-id="TeleLyonMetropole.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM LYON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="329" tvg-id="BFMGrandLille.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND LILLE
+#EXTINF:-1 tvg-chno="329" tvg-id="BFMGrandLille.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM GRAND LILLE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="330" tvg-id="BFMGrandLittoral.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM GRAND LITTORAL
+#EXTINF:-1 tvg-chno="330" tvg-id="BFMGrandLittoral.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM GRAND LITTORAL
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="331" tvg-id="ProvenceAzur.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM MARSEILLE PROVENCE
+#EXTINF:-1 tvg-chno="331" tvg-id="ProvenceAzur.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM MARSEILLE PROVENCE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="332" tvg-id="AzurTV.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NICE COTE D'AZUR
+#EXTINF:-1 tvg-chno="332" tvg-id="AzurTV.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM NICE COTE D'AZUR
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="333" tvg-id="VarAzur.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM TOULON VAR
+#EXTINF:-1 tvg-chno="333" tvg-id="VarAzur.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM TOULON VAR
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="334" tvg-id="DiciTvAlpes.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM DICI ALPES DU SUD
+#EXTINF:-1 tvg-chno="334" tvg-id="DiciTvAlpes.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM DICI ALPES DU SUD
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="335" tvg-id="DiciTvProvence.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM DICI HAUTE PROVENCE
+#EXTINF:-1 tvg-chno="335" tvg-id="DiciTvProvence.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM DICI HAUTE PROVENCE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="336" tvg-id="Alsace20.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM ALSACE
+#EXTINF:-1 tvg-chno="336" tvg-id="Alsace20.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM ALSACE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="337" tvg-id="LaChaineNormande.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png",BFM NORMANDIE
+#EXTINF:-1 tvg-chno="337" tvg-id="LaChaineNormande.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM NORMANDIE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="339" tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png",BFM BUSINESS
+#EXTINF:-1 tvg-chno="339" tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="Infos et News",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="340" tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 FR
+#EXTINF:-1 tvg-chno="340" tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Infos et News",FRANCE 24 FR
 https://new.cache-stream.workers.dev/stream/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
-#EXTINF:-1 tvg-chno="343" tvg-id="LCP100.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",LCP-AN 24H
+#EXTINF:-1 tvg-chno="343" tvg-id="LCP100.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="Infos et News",LCP-AN 24H
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcp1.m3u8
-#EXTINF:-1 tvg-chno="344" tvg-id="PublicSenat2424.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png",PUBLIC-SÉNAT 24H
+#EXTINF:-1 tvg-chno="344" tvg-id="PublicSenat2424.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="Infos et News",PUBLIC-SÉNAT 24H
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
-#EXTINF:-1 tvg-chno="345" tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",EURONEWS FR
+#EXTINF:-1 tvg-chno="345" tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Infos et News",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="349" tvg-id="BSmart.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png",B SMART
+#EXTINF:-1 tvg-chno="349" tvg-id="BSmart.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png" group-title="Infos et News",B SMART
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/bsmart.m3u8
-#EXTINF:-1 tvg-chno="350" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV
+#EXTINF:-1 tvg-chno="350" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="Infos et News",LE MÉDIA TV
 https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
-#EXTINF:-1 tvg-chno="411" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1
+#EXTINF:-1 tvg-chno="411" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-chno="412" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2
+#EXTINF:-1 tvg-chno="412" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
-#EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 3
+#EXTINF:-1 tvg-chno="413" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
-#EXTINF:-1 tvg-chno="414" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 4
+#EXTINF:-1 tvg-chno="414" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 4
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive4.m3u8
-#EXTINF:-1 tvg-chno="415" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 5
+#EXTINF:-1 tvg-chno="415" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 6
+#EXTINF:-1 tvg-chno="416" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 6
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive6.m3u8
-#EXTINF:-1 tvg-chno="417" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 7
+#EXTINF:-1 tvg-chno="417" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 7
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
-#EXTINF:-1 tvg-chno="418" tvg-id="EquidiaRacingTrot.fr",EQUIDIA RACING TROT
+#EXTINF:-1 tvg-chno="418" tvg-id="EquidiaRacingTrot.fr" group-title="Sport Multiplex",EQUIDIA RACING TROT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8
-#EXTINF:-1 tvg-chno="419" tvg-id="EquidiaRacingGalop.fr",EQUIDIA RACING GALOP
+#EXTINF:-1 tvg-chno="419" tvg-id="EquidiaRacingGalop.fr" group-title="Sport Multiplex",EQUIDIA RACING GALOP
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racinggalop.m3u8
-#EXTINF:-1 tvg-chno="420" tvg-id="EquidiaRacingMag.fr",EQUIDIA RACING MAG
+#EXTINF:-1 tvg-chno="420" tvg-id="EquidiaRacingMag.fr" group-title="Sport Multiplex",EQUIDIA RACING MAG
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingmag.m3u8
-#EXTINF:-1 tvg-chno="421" tvg-id="EquidiaRacing1.fr",EQUIDIA RACING 1
+#EXTINF:-1 tvg-chno="421" tvg-id="EquidiaRacing1.fr" group-title="Sport Multiplex",EQUIDIA RACING 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8
-#EXTINF:-1 tvg-chno="422" tvg-id="EquidiaRacing2.fr",EQUIDIA RACING 2
+#EXTINF:-1 tvg-chno="422" tvg-id="EquidiaRacing2.fr" group-title="Sport Multiplex",EQUIDIA RACING 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing2.m3u8
-#EXTINF:-1 tvg-chno="423" tvg-id="EquidiaRacing3.fr",EQUIDIA RACING 3
+#EXTINF:-1 tvg-chno="423" tvg-id="EquidiaRacing3.fr" group-title="Sport Multiplex",EQUIDIA RACING 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing3.m3u8
-#EXTINF:-1 tvg-chno="424" tvg-id="EquidiaRacing4.fr",EQUIDIA RACING 4
+#EXTINF:-1 tvg-chno="424" tvg-id="EquidiaRacing4.fr" group-title="Sport Multiplex",EQUIDIA RACING 4
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing4.m3u8
-#EXTINF:-1 tvg-chno="425" tvg-id="EquidiaRacing5.fr",EQUIDIA RACING 5
+#EXTINF:-1 tvg-chno="425" tvg-id="EquidiaRacing5.fr" group-title="Sport Multiplex",EQUIDIA RACING 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing5.m3u8
-#EXTINF:-1 tvg-chno="800" tvg-id="RTLTVI.be" tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
+#EXTINF:-1 tvg-chno="800" tvg-id="RTLTVI.be" tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png" group-title="Etrangère",RTL TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
-#EXTINF:-1 tvg-chno="801" tvg-id="ClubRTL.be" tvg-logo="https://i.ibb.co/WgNnchd/clubrtl.png",RTL CLUB
+#EXTINF:-1 tvg-chno="801" tvg-id="ClubRTL.be" tvg-logo="https://i.ibb.co/WgNnchd/clubrtl.png" group-title="Etrangère",RTL CLUB
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
-#EXTINF:-1 tvg-chno="802" tvg-id="PlugRTL.be" tvg-logo="https://i.ibb.co/wJ3YJGs/rtlplug.png",RTL PLUG
+#EXTINF:-1 tvg-chno="802" tvg-id="PlugRTL.be" tvg-logo="https://i.ibb.co/wJ3YJGs/rtlplug.png" group-title="Etrangère",RTL PLUG
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
-#EXTINF:-1 tvg-chno="803" tvg-id="BelRTLTV.be" tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
+#EXTINF:-1 tvg-chno="803" tvg-id="BelRTLTV.be" tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png" group-title="Etrangère",BEL RTL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/belrtl.m3u8
-#EXTINF:-1 tvg-chno="804" tvg-logo="https://i.ibb.co/h2bSSvv/rtlplay.png",RTL PLAY
+#EXTINF:-1 tvg-chno="804" tvg-logo="https://i.ibb.co/h2bSSvv/rtlplay.png" group-title="Etrangère",RTL PLAY
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtlplay.m3u8
-#EXTINF:-1 tvg-chno="904" tvg-id="ViaGrandParis.fr" tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF
+#EXTINF:-1 tvg-chno="904" tvg-id="ViaGrandParis.fr" tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="Locale",LE FIGARO IDF
 https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 tvg-chno="907" tvg-id="Telenantes.fr" tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg",TELE NANTES
+#EXTINF:-1 tvg-chno="907" tvg-id="Telenantes.fr" tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="Locale",TELE NANTES
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
-#EXTINF:-1 tvg-chno="910" tvg-id="IDF1.fr" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
+#EXTINF:-1 tvg-chno="910" tvg-id="IDF1.fr" tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png" group-title="Locale",20 MINUTES TV IDF
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:-1 tvg-chno="913" tvg-id="TV78.fr" tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png",TV 78
+#EXTINF:-1 tvg-chno="913" tvg-id="TV78.fr" tvg-logo="https://i.ibb.co/fdcDJWF/tv78.png" group-title="Locale",TV 78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-chno="914" tvg-id="Weo.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO TV
+#EXTINF:-1 tvg-chno="914" tvg-id="Weo.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="Locale",WÉO TV
 https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u8
-#EXTINF:-1 tvg-chno="924" tvg-id="TVVendee.fr" tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png",TV VENDÉE
+#EXTINF:-1 tvg-chno="924" tvg-id="TVVendee.fr" tvg-logo="https://i.ibb.co/xS8B1qS/tvvendee.png" group-title="Locale",TV VENDÉE
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
-#EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png",WÉO PICARDIE
+#EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="Locale",WÉO PICARDIE
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8

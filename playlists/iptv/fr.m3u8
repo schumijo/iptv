@@ -16,7 +16,7 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="TNT",C8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/c8.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="TNT",W9
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/col/w9.m3u8
+http://livetv.ktv.zone/11/play.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tmc-fr.png" group-title="TNT",TMC
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="TNT",TFX
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1sf.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" group-title="TNT",L'ÉQUIPE TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="6ter.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/6ter-fr.png" group-title="TNT",6TER
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/col/6ter.m3u8
+http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="Numero23.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-story-fr.png" group-title="TNT",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="TNT",RMC DÉCOUVERTE
@@ -243,6 +243,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/d
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/belrtl.m3u8
 #EXTINF:-1 tvg-chno="804" tvg-logo="https://i.ibb.co/h2bSSvv/rtlplay.png" group-title="Etrangère",RTL PLAY
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtlplay.m3u8
+#EXTINF:-1 tvg-chno="805" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" group-title="Etrangère",RTS 1
+http://livetv.ktv.zone/1/play.m3u8
+#EXTINF:-1 tvg-chno="806" tvg-id="RTSDeux.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-deux-ch.png" group-title="Etrangère",RTS 2
+http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-chno="904" tvg-id="ViaGrandParis.fr" tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="Locale",LE FIGARO IDF
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-chno="907" tvg-id="Telenantes.fr" tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="Locale",TELE NANTES

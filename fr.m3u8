@@ -265,10 +265,10 @@ https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
 #EXTINF:-1 tvg-chno="3001" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-notre-planete-5173e6-53cc27-0@3x.png",NOTRE PLANÈTE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/notre-planete.m3u8
-#EXTINF:-1 tvg-chno="3002" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",LES ENFOIRÉS 
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-enfoires.m3u8
-#EXTINF:-1 tvg-chno="3003" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-f8bbbe-0@3x.png",LES RESTOS DU CŒUR
+#EXTINF:-1 tvg-chno="3002" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-f8bbbe-0@3x.png",LES RESTOS DU CŒUR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-restos-du-coeur.m3u8
+#EXTINF:-1 tvg-chno="3003" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",LES ENFOIRÉS 
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-enfoires.m3u8
 #EXTINF:-1 tvg-chno="3004" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bac96b-1b1dc5-0@3x.png",PALMASHOW TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/palmashow.m3u8
 #EXTINF:-1 tvg-chno="3005" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-fast-taken-f26f13-74547f-0@3x.png",TAKEN TV

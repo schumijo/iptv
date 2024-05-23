@@ -635,6 +635,9 @@ https://i.mjh.nz/SamsungTVPlus/FRBA3300026BR.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA3300028VI" tvg-id="FRBA3300028VI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300028VI_20220323T075728SQUARE.png_20220323075731.png" tvg-chno="4616" group-title="Jeunesse" , Caillou
 https://i.mjh.nz/SamsungTVPlus/FRBA3300028VI.m3u8
 
+#EXTINF:-1 channel-id="samsung-FR700001VJ" tvg-id="FR700001VJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR700001VJ_20240521T042602SQUARE.png" tvg-chno="4617" group-title="Jeunesse" , Pocoyo
+https://i.mjh.nz/SamsungTVPlus/FR700001VJ.m3u8
+
 #EXTINF:-1 channel-id="samsung-FRBB4600001MQ" tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20221214T045103SQUARE.png_20221214045104.png" tvg-chno="4619" group-title="Jeunesse" , Jellytoon
 https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
 

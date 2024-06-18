@@ -130,6 +130,8 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-chno="297" tvg-id="BBlackClassik.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Musique",BBLACK! CLASSIK
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 tvg-chno="298" tvg-id="MadrasFMTV.fr" tvg-logo="https://i.ibb.co/BwD72ps/madras.png" group-title="Musique",MADRAS FM TV
+https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-chno="302" tvg-id="France3Alpes.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 ALPES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/falp.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-id="France3Alsace.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 ALSACE

@@ -463,7 +463,7 @@ https://i.mjh.nz/SamsungTVPlus/FRBA3300038I4.m3u8
 #EXTINF:-1 channel-id="samsung-FRBD41000051L" tvg-id="FRBD41000051L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000051L_20240402T134156SQUARE.png" tvg-chno="4143" group-title="Divertissement" , Wasabi
 https://i.mjh.nz/SamsungTVPlus/FRBD41000051L.m3u8
 
-#EXTINF:-1 channel-id="samsung-FR1400001VU" tvg-id="FR1400001VU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400001VU_20240611T061923SQUARE.png" tvg-chno="4144" group-title="Divertissement" , Beyblade
+#EXTINF:-1 channel-id="samsung-FR1400001VU" tvg-id="FR1400001VU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400001VU_20240625T051426SQUARE.png" tvg-chno="4144" group-title="Divertissement" , Beyblade
 https://i.mjh.nz/SamsungTVPlus/FR1400001VU.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBA3300019CI" tvg-id="FRBA3300019CI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300019CI_20220323T075800SQUARE.png_20220323075803.png" tvg-chno="4160" group-title="Séries TV" , Doctor Who
@@ -604,7 +604,7 @@ https://i.mjh.nz/SamsungTVPlus/FRBC3500002E4.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA3300063FP" tvg-id="FRBA3300063FP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20230614T005614SQUARE.png_20230614005614.png" tvg-chno="4408" group-title="Lifestyle" , Wellbeing TV
 https://i.mjh.nz/SamsungTVPlus/FRBA3300063FP.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBD800001FJ" tvg-id="FRBD800001FJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD800001FJ_20230308T021651SQUARE.png_20230308021652.png" tvg-chno="4410" group-title="Sport" , Le Tigre
+#EXTINF:-1 channel-id="samsung-FRBD800001FJ" tvg-id="FRBD800001FJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD800001FJ_20240625T051428SQUARE.png" tvg-chno="4410" group-title="Sport" , Le Tigre
 https://i.mjh.nz/SamsungTVPlus/FRBD800001FJ.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBD2600002CR" tvg-id="FRBD2600002CR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2600002CR_20230809T053916SQUARE.png_20230809053917.png" tvg-chno="4412" group-title="Lifestyle" , Maison & Travaux

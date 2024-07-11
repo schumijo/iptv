@@ -278,10 +278,10 @@ https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="Locale",WÉO PICARDIE
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
-#EXTINF:-1 tvg-chno="3001" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",LES ENFOIRÉS 
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-enfoires.m3u8
-#EXTINF:-1 tvg-chno="3002" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-779091-0@3x.png",LES RESTOS DU CŒUR
+#EXTINF:-1 tvg-chno="3001" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-779091-0@3x.png",LES RESTOS DU CŒUR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-restos-du-coeur.m3u8
+#EXTINF:-1 tvg-chno="3002" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",LES ENFOIRÉS 
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-enfoires.m3u8
 #EXTINF:-1 tvg-chno="3003" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bac96b-1b1dc5-0@3x.png",PALMASHOW TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/palmashow.m3u8
 #EXTINF:-1 tvg-chno="3004" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-fast-taken-f26f13-74547f-0@3x.png",TAKEN TV
@@ -340,9 +340,11 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/la-bataille
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lolywood.m3u8
 #EXTINF:-1 tvg-chno="3031" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-4d1f7c-ec88f2-0@3x.png",USHUAIA FOR CHANGE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/ushuaia-for-change.m3u8
-#EXTINF:-1 tvg-chno="3032" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boule-et-bill-a7e70a-68f2cc-0@3x.png",BOULE ET BILL TV
+#EXTINF:-1 tvg-chno="3032" tvg-logo="https://photos.tf1.fr/0/40/logo-programme-littleangel-576f98-a221e1-0@3x.png",LE MONDE DE LITTLE ANGEL
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/little-angel.m3u8
+#EXTINF:-1 tvg-chno="3033" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-boule-et-bill-a7e70a-68f2cc-0@3x.png",BOULE ET BILL TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/boule-et-bill.m3u8
-#EXTINF:-1 tvg-chno="3033" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-wings-312b9f-f8a07e-0@3x.png",SUPER WINGS TV
+#EXTINF:-1 tvg-chno="3034" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-wings-312b9f-f8a07e-0@3x.png",SUPER WINGS TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/super-wings.m3u8
 #EXTINF:-1 tvg-chno="4129" tvg-id="FR300011G9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300011G9_20240423T033345SQUARE.png" group-title="Sony One",Sony One Favoris
 https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
@@ -372,11 +374,11 @@ https://jmp2.uk/SamsungTVPlus/FRBA33000341O.m3u8
 #EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20240611T061926SQUARE.png" tvg-chno="4005" group-title="Nature" , Destination Nature
 https://jmp2.uk/SamsungTVPlus/FRBC4000001IO.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC4700004ZN" tvg-id="FRBC4700004ZN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700004ZN_20240709T044401SQUARE.png" tvg-chno="4006" group-title="Culture et Documentaires" , Les 30 histoires
-https://jmp2.uk/SamsungTVPlus/FRBC4700004ZN.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20240709T044356SQUARE.png" tvg-chno="4006" group-title="Sport" , L'Equipe Live 1
+https://jmp2.uk/SamsungTVPlus/FRBC4200004XH.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC4200005X2" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20240709T044359SQUARE.png" tvg-chno="4007" group-title="Sport" , L'Equipe Live 2
-https://jmp2.uk/SamsungTVPlus/FRBC4200005X2.m3u8
+#EXTINF:-1 channel-id="samsung-FR300007IY" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240709T044406SQUARE.png" tvg-chno="4007" group-title="Sport" , RMC TALK SPORT
+https://jmp2.uk/SamsungTVPlus/FR300007IY.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBD41000097I" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" tvg-chno="4008" group-title="Culture et Documentaires" , RMC Story
 https://jmp2.uk/SamsungTVPlus/FRBD41000097I.m3u8
@@ -546,6 +548,9 @@ https://jmp2.uk/SamsungTVPlus/FRBD410000436.m3u8
 #EXTINF:-1 channel-id="samsung-FRBD11000038N" tvg-id="FRBD11000038N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD11000038N_20231011T084907SQUARE.png_20231011084907.png" tvg-chno="4217" group-title="Culture et Documentaires" , L'effet papillon
 https://jmp2.uk/SamsungTVPlus/FRBD11000038N.m3u8
 
+#EXTINF:-1 channel-id="samsung-FRBC4700004ZN" tvg-id="FRBC4700004ZN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700004ZN_20240709T044401SQUARE.png" tvg-chno="4219" group-title="Culture et Documentaires" , Les 30 histoires
+https://jmp2.uk/SamsungTVPlus/FRBC4700004ZN.m3u8
+
 #EXTINF:-1 channel-id="samsung-FRBB49000033R" tvg-id="FRBB49000033R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20230426T015603SQUARE.png_20230426015603.png" tvg-chno="4221" group-title="Culture et Documentaires" , Homicide
 https://jmp2.uk/SamsungTVPlus/FRBB49000033R.m3u8
 
@@ -627,6 +632,9 @@ https://jmp2.uk/SamsungTVPlus/FRBA3300044VR.m3u8
 #EXTINF:-1 channel-id="samsung-FR300003ZB" tvg-id="FR300003ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png" tvg-chno="4479" group-title="Sports mécaniques" , RMC MECANIC
 https://jmp2.uk/SamsungTVPlus/FR300003ZB.m3u8
 
+#EXTINF:-1 channel-id="samsung-FR2400001TP" tvg-id="FR2400001TP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2400001TP_20240709T044410SQUARE.png" tvg-chno="4480" group-title="Sports mécaniques" , Top Gear
+https://jmp2.uk/SamsungTVPlus/FR2400001TP.m3u8
+
 #EXTINF:-1 channel-id="samsung-FRBD3600001BQ" tvg-id="FRBD3600001BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20231101T032831SQUARE.png_20231101032832.png" tvg-chno="4482" group-title="Sports mécaniques" , Drive TV
 https://jmp2.uk/SamsungTVPlus/FRBD3600001BQ.m3u8
 
@@ -636,11 +644,8 @@ https://jmp2.uk/SamsungTVPlus/FRBD3200001DV.m3u8
 #EXTINF:-1 channel-id="samsung-FRBD4100013LN" tvg-id="FRBD4100013LN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20231115T012253SQUARE.png_20231115012254.png" tvg-chno="4488" group-title="Sports mécaniques" , Motor Racing
 https://jmp2.uk/SamsungTVPlus/FRBD4100013LN.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20240709T044356SQUARE.png" tvg-chno="4501" group-title="Sport" , L'Equipe Live 1
-https://jmp2.uk/SamsungTVPlus/FRBC4200004XH.m3u8
-
-#EXTINF:-1 channel-id="samsung-FR300007IY" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240709T044406SQUARE.png" tvg-chno="4504" group-title="Sport" , RMC TALK SPORT
-https://jmp2.uk/SamsungTVPlus/FR300007IY.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC4200005X2" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20240709T044359SQUARE.png" tvg-chno="4502" group-title="Sport" , L'Equipe Live 2
+https://jmp2.uk/SamsungTVPlus/FRBC4200005X2.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBA3300037Y7" tvg-id="FRBA3300037Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20230712T021544SQUARE.png_20230712021544.png" tvg-chno="4506" group-title="Sport" , FIFA+
 https://jmp2.uk/SamsungTVPlus/FRBA3300037Y7.m3u8
@@ -650,6 +655,9 @@ https://jmp2.uk/SamsungTVPlus/FRBD2900001M3.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBA3300046W4" tvg-id="FRBA3300046W4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300046W4_20230111T032536SQUARE.png_20230111032537.png" tvg-chno="4607" group-title="Jeunesse" , Tortues Ninja
 https://jmp2.uk/SamsungTVPlus/FRBA3300046W4.m3u8
+
+#EXTINF:-1 channel-id="samsung-FR90000160" tvg-id="FR90000160" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20240709T044403SQUARE.png" tvg-chno="4610" group-title="Jeunesse" , Mr Bean Animated
+https://jmp2.uk/SamsungTVPlus/FR90000160.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBD5100002NL" tvg-id="FRBD5100002NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100002NL_20240611T061919SQUARE.png" tvg-chno="4613" group-title="Jeunesse" , SuperToons TV
 https://jmp2.uk/SamsungTVPlus/FRBD5100002NL.m3u8

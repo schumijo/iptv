@@ -275,10 +275,10 @@ https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://i.ibb.co/nMkybxK/weo1.png" group-title="Locale",WÉO PICARDIE
 https://lives.digiteka.com/stream/bbb843db-8540-4156-98a5-b7c85da54d8e/index.m3u8
-#EXTINF:-1 tvg-chno="3001" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-779091-0@3x.png",LES RESTOS DU CŒUR
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-restos-du-coeur.m3u8
-#EXTINF:-1 tvg-chno="3002" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",LES ENFOIRÉS 
+#EXTINF:-1 tvg-chno="3001" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-b6b3e2-34c903-0@3x.png",LES ENFOIRÉS 
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-enfoires.m3u8
+#EXTINF:-1 tvg-chno="3002" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-9ab8f5-08064c-779091-0@3x.png",LES RESTOS DU CŒUR
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-restos-du-coeur.m3u8
 #EXTINF:-1 tvg-chno="3003" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-bac96b-1b1dc5-0@3x.png",PALMASHOW TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/palmashow.m3u8
 #EXTINF:-1 tvg-chno="3004" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-fast-taken-f26f13-74547f-0@3x.png",TAKEN TV
@@ -368,13 +368,13 @@ https://jmp2.uk/SamsungTVPlus/FRBA1000005TW.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA33000341O" tvg-id="FRBA33000341O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000341O_20240507T094249SQUARE.png" tvg-chno="4004" group-title="Films" , Films Romantiques - Rakuten TV
 https://jmp2.uk/SamsungTVPlus/FRBA33000341O.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20240611T061926SQUARE.png" tvg-chno="4005" group-title="Nature" , Destination Nature
+#EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20240813T155959SQUARE.png" tvg-chno="4005" group-title="Nature" , Destination Nature
 https://jmp2.uk/SamsungTVPlus/FRBC4000001IO.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20240709T044356SQUARE.png" tvg-chno="4006" group-title="Sport" , L'Equipe Live 1
+#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20240813T160007SQUARE.png" tvg-chno="4006" group-title="Sport" , L'Equipe Live 1
 https://jmp2.uk/SamsungTVPlus/FRBC4200004XH.m3u8
 
-#EXTINF:-1 channel-id="samsung-FR300007IY" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240709T044406SQUARE.png" tvg-chno="4007" group-title="Sport" , RMC TALK SPORT
+#EXTINF:-1 channel-id="samsung-FR300007IY" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240813T160014SQUARE.png" tvg-chno="4007" group-title="Sport" , RMC TALK SPORT
 https://jmp2.uk/SamsungTVPlus/FR300007IY.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBD41000097I" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" tvg-chno="4008" group-title="Culture et Documentaires" , RMC Story
@@ -512,7 +512,7 @@ https://jmp2.uk/SamsungTVPlus/FRBC39000050N.m3u8
 #EXTINF:-1 channel-id="samsung-FR1100001V1" tvg-id="FR1100001V1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20240507T094257SQUARE.png" tvg-chno="4186" group-title="Séries TV" , Passion Bollywood
 https://jmp2.uk/SamsungTVPlus/FR1100001V1.m3u8
 
-#EXTINF:-1 channel-id="samsung-FR1400002XF" tvg-id="FR1400002XF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20240611T061929SQUARE.png" tvg-chno="4201" group-title="Culture et Documentaires" , Faites entrer l'accusé
+#EXTINF:-1 channel-id="samsung-FR1400002XF" tvg-id="FR1400002XF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20240813T160001SQUARE.png" tvg-chno="4201" group-title="Culture et Documentaires" , Faites entrer l'accusé
 https://jmp2.uk/SamsungTVPlus/FR1400002XF.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC3300008XK" tvg-id="FRBC3300008XK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300008XK_20240611T061944SQUARE.png" tvg-chno="4204" group-title="Divertissement" , Secret Story
@@ -674,7 +674,7 @@ https://jmp2.uk/SamsungTVPlus/FRBB4600001MQ.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA3300018I9" tvg-id="FRBA3300018I9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20230510T043929SQUARE.png_20230510043929.png" tvg-chno="4622" group-title="Jeunesse" , Xilam TV
 https://jmp2.uk/SamsungTVPlus/FRBA3300018I9.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBD2300002CM" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20230712T021549SQUARE.png_20230712021550.png" tvg-chno="4623" group-title="Jeunesse" , Les Lapins Crétins: Invasion
+#EXTINF:-1 channel-id="samsung-FRBD2300002CM" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20240813T160010SQUARE.png" tvg-chno="4623" group-title="Jeunesse" , Les Lapins Crétins: Invasion
 https://jmp2.uk/SamsungTVPlus/FRBD2300002CM.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRAJ3800010QO" tvg-id="FRAJ3800010QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20220323T075715SQUARE.png_20220323075718.png" tvg-chno="4625" group-title="Jeunesse" , Bob L'eponge
@@ -707,13 +707,13 @@ https://jmp2.uk/SamsungTVPlus/FRBA1500001G6.m3u8
 #EXTINF:-1 channel-id="samsung-FRBB1900001FA" tvg-id="FRBB1900001FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB1900001FA_20220323T075747SQUARE.png_20220323075750.png" tvg-chno="4731" group-title="Musique" , Clubbing TV
 https://jmp2.uk/SamsungTVPlus/FRBB1900001FA.m3u8
 
-#EXTINF:-1 channel-id="samsung-FR2500001BS" tvg-id="FR2500001BS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20240723T045107SQUARE.png" tvg-chno="4732" group-title="Musique" , Cool Summer Channel
+#EXTINF:-1 channel-id="samsung-FR2500001BS" tvg-id="FR2500001BS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2500001BS_20240813T155952SQUARE.png" tvg-chno="4732" group-title="Musique" , Cool Summer Channel
 https://jmp2.uk/SamsungTVPlus/FR2500001BS.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC900001LB" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" tvg-chno="4734" group-title="Musique" , Émotion
 https://jmp2.uk/SamsungTVPlus/FRBC900001LB.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC3000001GV" tvg-id="FRBC3000001GV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3000001GV_20230208T013122SQUARE.png_20230208013123.png" tvg-chno="4954" group-title="Films" , Ciné Prime
+#EXTINF:-1 channel-id="samsung-FRBC3000001GV" tvg-id="FRBC3000001GV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3000001GV_20240813T155955SQUARE.png" tvg-chno="4954" group-title="Films" , Ciné Prime
 https://jmp2.uk/SamsungTVPlus/FRBC3000001GV.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBD19000095S" tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20230614T005621SQUARE.png_20230614005622.png" tvg-chno="4956" group-title="Films" , Ciné Western

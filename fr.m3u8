@@ -368,14 +368,14 @@ https://jmp2.uk/SamsungTVPlus/FRBA1000005TW.m3u8
 #EXTINF:-1 channel-id="samsung-FRBA33000341O" tvg-id="FRBA33000341O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000341O_20240507T094249SQUARE.png" tvg-chno="4004" group-title="Films" , Films Romantiques - Rakuten TV
 https://jmp2.uk/SamsungTVPlus/FRBA33000341O.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20240813T155959SQUARE.png" tvg-chno="4005" group-title="Nature" , Destination Nature
-https://jmp2.uk/SamsungTVPlus/FRBC4000001IO.m3u8
+#EXTINF:-1 channel-id="samsung-FR1400002XF" tvg-id="FR1400002XF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20240813T160001SQUARE.png" tvg-chno="4005" group-title="Culture et Documentaires" , Faites entrer l'accusé
+https://jmp2.uk/SamsungTVPlus/FR1400002XF.m3u8
 
-#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20240813T160007SQUARE.png" tvg-chno="4006" group-title="Sport" , L'Equipe Live 1
-https://jmp2.uk/SamsungTVPlus/FRBC4200004XH.m3u8
+#EXTINF:-1 channel-id="samsung-FRBD2300002CM" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20240813T160010SQUARE.png" tvg-chno="4006" group-title="Jeunesse" , Les Lapins Crétins: Invasion
+https://jmp2.uk/SamsungTVPlus/FRBD2300002CM.m3u8
 
-#EXTINF:-1 channel-id="samsung-FR300007IY" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240813T160014SQUARE.png" tvg-chno="4007" group-title="Sport" , RMC TALK SPORT
-https://jmp2.uk/SamsungTVPlus/FR300007IY.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC3000001GV" tvg-id="FRBC3000001GV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3000001GV_20240813T155955SQUARE.png" tvg-chno="4007" group-title="Films" , Ciné Prime
+https://jmp2.uk/SamsungTVPlus/FRBC3000001GV.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBD41000097I" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" tvg-chno="4008" group-title="Culture et Documentaires" , RMC Story
 https://jmp2.uk/SamsungTVPlus/FRBD41000097I.m3u8
@@ -512,8 +512,8 @@ https://jmp2.uk/SamsungTVPlus/FRBC39000050N.m3u8
 #EXTINF:-1 channel-id="samsung-FR1100001V1" tvg-id="FR1100001V1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1100001V1_20240507T094257SQUARE.png" tvg-chno="4186" group-title="Séries TV" , Passion Bollywood
 https://jmp2.uk/SamsungTVPlus/FR1100001V1.m3u8
 
-#EXTINF:-1 channel-id="samsung-FR1400002XF" tvg-id="FR1400002XF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20240813T160001SQUARE.png" tvg-chno="4201" group-title="Culture et Documentaires" , Faites entrer l'accusé
-https://jmp2.uk/SamsungTVPlus/FR1400002XF.m3u8
+#EXTINF:-1 channel-id="samsung-FRBC3200002XI" tvg-id="FRBC3200002XI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3200002XI_20240813T160004SQUARE.png" tvg-chno="4201" group-title="Culture et Documentaires" , Faites entrer l'accusé (En évidence)
+https://jmp2.uk/SamsungTVPlus/FRBC3200002XI.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC3300008XK" tvg-id="FRBC3300008XK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300008XK_20240611T061944SQUARE.png" tvg-chno="4204" group-title="Divertissement" , Secret Story
 https://jmp2.uk/SamsungTVPlus/FRBC3300008XK.m3u8
@@ -562,6 +562,9 @@ https://jmp2.uk/SamsungTVPlus/FRAJ4500026AB.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC3900004DS" tvg-id="FRBC3900004DS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20240131T031208SQUARE.png_20240131031209.png" tvg-chno="4239" group-title="Culture et Documentaires" , Love the Planet
 https://jmp2.uk/SamsungTVPlus/FRBC3900004DS.m3u8
+
+#EXTINF:-1 channel-id="samsung-FRBC4000001IO" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20240813T155959SQUARE.png" tvg-chno="4250" group-title="Nature" , Destination Nature
+https://jmp2.uk/SamsungTVPlus/FRBC4000001IO.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBB4900002D4" tvg-id="FRBB4900002D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20240319T052331SQUARE.png" tvg-chno="4255" group-title="Nature" , NatureTime
 https://jmp2.uk/SamsungTVPlus/FRBB4900002D4.m3u8
@@ -641,8 +644,14 @@ https://jmp2.uk/SamsungTVPlus/FRBD3200001DV.m3u8
 #EXTINF:-1 channel-id="samsung-FRBD4100013LN" tvg-id="FRBD4100013LN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20231115T012253SQUARE.png_20231115012254.png" tvg-chno="4488" group-title="Sports mécaniques" , Motor Racing
 https://jmp2.uk/SamsungTVPlus/FRBD4100013LN.m3u8
 
+#EXTINF:-1 channel-id="samsung-FRBC4200004XH" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20240813T160007SQUARE.png" tvg-chno="4501" group-title="Sport" , L'Equipe Live 1
+https://jmp2.uk/SamsungTVPlus/FRBC4200004XH.m3u8
+
 #EXTINF:-1 channel-id="samsung-FRBC4200005X2" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20240709T044359SQUARE.png" tvg-chno="4502" group-title="Sport" , L'Equipe Live 2
 https://jmp2.uk/SamsungTVPlus/FRBC4200005X2.m3u8
+
+#EXTINF:-1 channel-id="samsung-FR300007IY" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240813T160014SQUARE.png" tvg-chno="4504" group-title="Sport" , RMC TALK SPORT
+https://jmp2.uk/SamsungTVPlus/FR300007IY.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBA3300037Y7" tvg-id="FRBA3300037Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20230712T021544SQUARE.png_20230712021544.png" tvg-chno="4506" group-title="Sport" , FIFA+
 https://jmp2.uk/SamsungTVPlus/FRBA3300037Y7.m3u8
@@ -673,9 +682,6 @@ https://jmp2.uk/SamsungTVPlus/FRBB4600001MQ.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBA3300018I9" tvg-id="FRBA3300018I9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20230510T043929SQUARE.png_20230510043929.png" tvg-chno="4622" group-title="Jeunesse" , Xilam TV
 https://jmp2.uk/SamsungTVPlus/FRBA3300018I9.m3u8
-
-#EXTINF:-1 channel-id="samsung-FRBD2300002CM" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20240813T160010SQUARE.png" tvg-chno="4623" group-title="Jeunesse" , Les Lapins Crétins: Invasion
-https://jmp2.uk/SamsungTVPlus/FRBD2300002CM.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRAJ3800010QO" tvg-id="FRAJ3800010QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20220323T075715SQUARE.png_20220323075718.png" tvg-chno="4625" group-title="Jeunesse" , Bob L'eponge
 https://jmp2.uk/SamsungTVPlus/FRAJ3800010QO.m3u8
@@ -712,9 +718,6 @@ https://jmp2.uk/SamsungTVPlus/FR2500001BS.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBC900001LB" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" tvg-chno="4734" group-title="Musique" , Émotion
 https://jmp2.uk/SamsungTVPlus/FRBC900001LB.m3u8
-
-#EXTINF:-1 channel-id="samsung-FRBC3000001GV" tvg-id="FRBC3000001GV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3000001GV_20240813T155955SQUARE.png" tvg-chno="4954" group-title="Films" , Ciné Prime
-https://jmp2.uk/SamsungTVPlus/FRBC3000001GV.m3u8
 
 #EXTINF:-1 channel-id="samsung-FRBD19000095S" tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20230614T005621SQUARE.png_20230614005622.png" tvg-chno="4956" group-title="Films" , Ciné Western
 https://jmp2.uk/SamsungTVPlus/FRBD19000095S.m3u8

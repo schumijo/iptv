@@ -63,7 +63,6 @@ http://212.102.60.80/Infosport/index.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/teva.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="TV5Monde.fr" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="Premium",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="76" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="Séries et Divertissements",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="Séries et Divertissements",TELE NOVELA TV
@@ -86,9 +85,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="TRACESportStars.fr" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="Sport Thématique",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="Sport Thématique",MOTORVISION TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-chno="187" group-title="Sport Thématique",JOURNAL DU GOLF TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/jdg-tv/jdg-tv.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="Sport Thématique",SPORT EN FRANCE
@@ -229,12 +227,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/pblsnt/pblsnt.m3u8
 #EXTINF:-1 tvg-chno="345" tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Infos et News",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="349" tvg-id="BSmart.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png" group-title="Infos et News",B SMART
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/bsmart.m3u8
-#EXTREM: KO !!!!
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="Infos et News",LE MÉDIA TV
-https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
 #EXTINF:-1 tvg-chno="412" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 2

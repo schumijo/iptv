@@ -2,17 +2,19 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" group-title="TNT",TF1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png" group-title="TNT",FRANCE 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="France3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-3-fr.png" group-title="TNT",FRANCE 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france3.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" group-title="TNT",CANAL+ EN CLAIR
 https://hls-m007-live-aka-canalplus.akamaized.net/live/disk/canalplusclair-hd/hls-v3-hd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="France5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-5-fr.png" group-title="TNT",FRANCE 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france5.m3u8
+#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="TNT",M6
 https://tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="Arte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/arte-fr.png" group-title="TNT",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="8" tvg-id="C8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c8-fr.png" group-title="TNT",C8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/c8.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="TNT",W9
@@ -22,20 +24,20 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="TNT",TFX
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tfx.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="NRJ12.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/nrj-12-fr.png" group-title="TNT",NRJ 12
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/nrj12.m3u8
-#https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" group-title="TNT",LCP 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="TNT",FRANCE 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="TNT",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="16" tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="TNT",CNEWS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/cnews.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png" group-title="TNT",CSTAR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/gulli-fr.png" group-title="TNT",GULLI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="TNT",TF1 SERIES FILMS
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1-series-films.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="LEquipe21.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lequipe-fr.png" group-title="TNT",L'ÉQUIPE TV
@@ -47,12 +49,11 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="TNT",RMC DÉCOUVERTE
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
-#https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="TNT",LCI
-https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/li.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="TNT",FRANCE INFO
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="ParisPremiere.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paris-premiere-fr.png" group-title="Mini Généraliste",PARIS PREMIERE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/pp.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+

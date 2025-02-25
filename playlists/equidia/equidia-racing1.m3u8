@@ -1,19 +1,19 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing1-p31-cdn.hexaglobe.net/cf7265d3d94063cdd11d9e21ce8184b4/67bcd363/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_audio_french.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racing1-b28-cdn.hexaglobe.net/1934d61e675d5fbe49697a675424d6c6/67bd1748/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_audio_french.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racing1-p31-cdn.hexaglobe.net/cf7265d3d94063cdd11d9e21ce8184b4/67bcd363/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_1080p.m3u8
+https://equidia-racing1-b28-cdn.hexaglobe.net/1934d61e675d5fbe49697a675424d6c6/67bd1748/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_1080p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720,AUDIO="group_aud"
-https://equidia-racing1-p31-cdn.hexaglobe.net/cf7265d3d94063cdd11d9e21ce8184b4/67bcd363/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_720p.m3u8
+https://equidia-racing1-b28-cdn.hexaglobe.net/1934d61e675d5fbe49697a675424d6c6/67bd1748/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_720p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=848x480,AUDIO="group_aud"
-https://equidia-racing1-p31-cdn.hexaglobe.net/cf7265d3d94063cdd11d9e21ce8184b4/67bcd363/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_480p.m3u8
+https://equidia-racing1-b28-cdn.hexaglobe.net/1934d61e675d5fbe49697a675424d6c6/67bd1748/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_480p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=432x240,AUDIO="group_aud"
-https://equidia-racing1-p31-cdn.hexaglobe.net/cf7265d3d94063cdd11d9e21ce8184b4/67bcd363/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_240p.m3u8
+https://equidia-racing1-b28-cdn.hexaglobe.net/1934d61e675d5fbe49697a675424d6c6/67bd1748/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_240p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144,AUDIO="group_aud"
-https://equidia-racing1-p31-cdn.hexaglobe.net/cf7265d3d94063cdd11d9e21ce8184b4/67bcd363/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_144p.m3u8
+https://equidia-racing1-b28-cdn.hexaglobe.net/1934d61e675d5fbe49697a675424d6c6/67bd1748/equidia/equidia-mobileapp-ios-1/eqdracing1pri_fre.smil//slot01_144p.m3u8
 
 

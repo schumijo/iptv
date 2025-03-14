@@ -59,31 +59,27 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="TPMP.fr" group-title="Chaines évènementielles",TPMP
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/tpmp.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
-http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="TV5Monde.fr" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="Premium",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
-#EXTINF:-1 tvg-chno="77" group-title="Séries et Divertissements",OHO - REALITY CLUB (18H-0H)
-https://live.production.oho.video/out/v1/d1a6785d-f897-405b-8131-78318563ac95/channel/cmaf/index.m3u8
 #EXTREM: KO !!!!
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="Séries et Divertissements",FRANCE TV SÉRIES
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="Séries et Divertissements",FRANCE TV SÉRIES
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="Séries et Divertissements",TELE NOVELA TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="75" group-title="Séries et Divertissements",Série Max
+https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20240319T052346SQUARE.png" group-title="Séries et Divertissements",RMC WOW
+https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20240319T052339SQUARE.png" group-title="Séries et Divertissements",RMC MYSTERE
+https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="FRBD4800001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20240319T052416SQUARE.png" group-title="Séries et Divertissements",RMC J'IRAI DORMIR CHEZ VOUS
+https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
 #EXTINF:-1 tvg-chno="91" group-title="Séries et Divertissements",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
-#EXTINF:-1 tvg-chno="92" group-title="Séries et Divertissements",Novela Channel
-https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
-#EXTINF:-1 tvg-chno="93" group-title="Séries et Divertissements",Série Max
-https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-id="Gong.fr" tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg" group-title="Séries et Divertissements",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20240319T052346SQUARE.png" group-title="Séries et Divertissements",RMC WOW
-https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20240319T052339SQUARE.png" group-title="Séries et Divertissements",RMC MYSTERE
-https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="FRBD4800001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20240319T052416SQUARE.png" group-title="Séries et Divertissements",RMC J'IRAI DORMIR CHEZ VOUS
-https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="Séries et Divertissements",TELE NOVELA TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="98" group-title="Séries et Divertissements",Novela Channel
+https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-chno="125" tvg-id="FRBB39000020C" tvg-logo="https://static.wixstatic.com/media/6ba705_4a8e930e0e1e4231b059e29e951d15ad~mv2.png" group-title="Cinéma",CINE NANAR
 https://d2o63bkh2qz410.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/64953490-a5a5-4f44-a4fb-7bf3638dd24c/2.m3u8
 #EXTINF:-1 tvg-chno="126" tvg-id="FRBD19000095S" tvg-logo="https://static.wixstatic.com/media/6ba705_157c0663b69041e0a7c5b543e83f53e0~mv2.png" group-title="Cinéma",CINE WESTERN
@@ -119,6 +115,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-chno="173" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240709T044406SQUARE.png" group-title="Sport Thématique",RMC TALK SPORT
 https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
+#EXTINF:-1 tvg-chno="174" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
+http://212.102.60.80/Infosport/index.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="176" tvg-id="Equidia.fr" tvgtvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="Sport Thématique",ÉQUIDIA
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8

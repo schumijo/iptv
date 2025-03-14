@@ -61,18 +61,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
 #EXTINF:-1 tvg-chno="75" group-title="Séries et Divertissements",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20240319T052346SQUARE.png" group-title="Séries et Divertissements",RMC WOW
-https://d18uxd7zigjv4y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hynzl7bz38ht6/index.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20240319T052339SQUARE.png" group-title="Séries et Divertissements",RMC MYSTERE
-https://d3w0weunrynif9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-30cqeaahzofvb/index.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-id="FRBD4800001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20240319T052416SQUARE.png" group-title="Séries et Divertissements",RMC J'IRAI DORMIR CHEZ VOUS
-https://dwsx9zc2hxqhl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k0j7zahecxb3y/index.m3u8
 #EXTINF:-1 tvg-chno="91" group-title="Séries et Divertissements",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-id="Gong.fr" tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg" group-title="Séries et Divertissements",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="Séries et Divertissements",TELE NOVELA TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="98" group-title="Séries et Divertissements",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
 #EXTINF:-1 tvg-chno="125" tvg-id="FRBB39000020C" tvg-logo="https://static.wixstatic.com/media/6ba705_4a8e930e0e1e4231b059e29e951d15ad~mv2.png" group-title="Cinéma",CINE NANAR
@@ -85,10 +77,8 @@ https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls
 https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="FRBB4600002K5" tvg-log="https://static.wixstatic.com/media/6ba705_7aaafdef307149ee8290018a1a80aa96~mv2.png" group-title="Cinéma",SCREAM'IN
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-chno="135" group-title="Cinéma",Ciné Max 
+#EXTINF:-1 tvg-chno="138" group-title="Cinéma",Ciné Max 
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="WildSideTv.fr" tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg" group-title="Cinéma",WILD SIDE TV
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
@@ -108,8 +98,6 @@ https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=l8PMl7tUDIE.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcp1.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-id="PublicSenat2424.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="Infos et News",PUBLIC-SÉNAT 24H
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="FR300007IY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300007IY_20240709T044406SQUARE.png" group-title="Sport Thématique",RMC TALK SPORT
-https://d21wdmv2hqydbt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n239v7ne7hack/index.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
 http://212.102.60.80/Infosport/index.m3u8
 #EXTREM: KO !!!!
@@ -117,8 +105,6 @@ http://212.102.60.80/Infosport/index.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="TRACESportStars.fr" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="Sport Thématique",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-id="FR300003ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png" group-title="Sport Thématique",RMC MECANIC
-https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="Sport Thématique",MOTORVISION TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-chno="187" group-title="Sport Thématique",JOURNAL DU GOLF TV
@@ -131,16 +117,8 @@ https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hl
 https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
 #EXTINF:-1 tvg-chno="222" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
-#EXTINF:-1 tvg-chno="223" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgcarre1000BFMGrandsreportages.jpg" group-title="Découverte",BFM GRAND REPORTAGES
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="224" tvg-id="FR30000271" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20240319T052348SQUARE.png" group-title="Découverte",RMC ALERTE SECOURS
-https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
-#EXTINF:-1 tvg-chno="225" tvg-id="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20240214T035739SQUARE.png_20240214035740.png" group-title="Découverte",RMC 100% DOCS
-https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="233" tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" group-title="Style de vie/Pratique",ALLO CINÉ
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="238" tvg-id="MensUpTV.fr" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png" group-title="Style de vie/Pratique",MEN'S UP TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
@@ -307,12 +285,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="804" tvg-logo="https://i.ibb.co/h2bSSvv/rtlplay.png" group-title="Etrangère",RTL PLAY
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtlplay.m3u8
-#EXTREM: KO !!!!
-#EXTINF:-1 tvg-chno="805" tvg-id="RTSUn.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-un-ch.png" group-title="Etrangère",RTS 1
-http://livetv.ktv.zone/1/play.m3u8
-#EXTREM: KO !!!!
-#EXTINF:-1 tvg-chno="806" tvg-id="RTSDeux.ch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rts-deux-ch.png" group-title="Etrangère",RTS 2
-http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-chno="904" tvg-id="ViaGrandParis.fr" tvg-logo="https://i.ibb.co/hcPj99k/fgro.png" group-title="Locale",LE FIGARO IDF
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-chno="907" tvg-id="Telenantes.fr" tvg-logo="https://i.ibb.co/3y88kpg/telenantes.jpg" group-title="Locale",TELE NANTES

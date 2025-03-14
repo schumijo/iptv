@@ -100,9 +100,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
 http://212.102.60.80/Infosport/index.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="176" tvg-id="Equidia.fr" tvgtvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="Sport Thématique",ÉQUIDIA
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live2.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="TRACESportStars.fr" tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png" group-title="Sport Thématique",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png" group-title="Sport Thématique",MOTORVISION TV
@@ -247,30 +246,28 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipeli
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
 #EXTINF:-1 tvg-chno="418" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="420" tvg-id="EquidiaRacingTrot.fr" group-title="Sport Multiplex",EQUIDIA RACING TROT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="421" tvg-id="EquidiaRacingGalop.fr" group-title="Sport Multiplex",EQUIDIA RACING GALOP
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racinggalop.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="422" tvg-id="EquidiaRacingMag.fr" group-title="Sport Multiplex",EQUIDIA RACING MAG
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingmag.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="423" tvg-id="EquidiaRacing1.fr" group-title="Sport Multiplex",EQUIDIA RACING 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing1.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="424" tvg-id="EquidiaRacing2.fr" group-title="Sport Multiplex",EQUIDIA RACING 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing2.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="425" tvg-id="EquidiaRacing3.fr" group-title="Sport Multiplex",EQUIDIA RACING 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing3.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="426" tvg-id="EquidiaRacing4.fr" group-title="Sport Multiplex",EQUIDIA RACING 4
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing4.m3u8
-#EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="427" tvg-id="EquidiaRacing5.fr" group-title="Sport Multiplex",EQUIDIA RACING 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing5.m3u8
+#EXTINF:-1 tvg-chno="428" tvg-id="EquidiaRacing6.fr" group-title="Sport Multiplex",EQUIDIA RACING 6
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing6.m3u8
+#EXTINF:-1 tvg-chno="429" tvg-id="EquidiaRacing7.fr" group-title="Sport Multiplex",EQUIDIA RACING 7
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing7.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-id="EquidiaRacing8.fr" group-title="Sport Multiplex",EQUIDIA RACING 8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing8.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="800" tvg-id="RTLTVI.be" tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png" group-title="Etrangère",RTL TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8

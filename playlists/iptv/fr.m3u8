@@ -50,7 +50,7 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="TNT",FRANCE INFO
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="TPMP.fr" group-title="Chaines évènementielles",TPMP
+#EXTINF:-1 tvg-chno="31" tvg-id="TPMP.fr" group-title="Chaines évènementielles",TPMP
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/tpmp.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
 http://212.102.60.80/Infosport/index.m3u8

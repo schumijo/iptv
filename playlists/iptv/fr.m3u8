@@ -52,8 +52,6 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="TNT",FRANCE INFO
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="TPMP.fr" group-title="Chaines évènementielles",TPMP
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/tpmp.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="TV5Monde.fr" tvg-logo="https://i.ibb.co/pQ7kLNY/tv5fbs.png" group-title="Premium",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTREM: KO !!!!
@@ -205,8 +203,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frha.m3u8
 #EXTINF:-1 tvg-chno="326" tvg-id="France3NouvelleAquitaine.fr" tvg-logo="https://i.ibb.co/C0KCQtV/fr3region.png" group-title="Régionale",FRANCE 3 NOA
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fnoa.m3u8
-#EXTINF:-1 tvg-chno="327" tvg-id="BFMParis.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM PARIS
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="328" tvg-id="TeleLyonMetropole.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM LYON
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="329" tvg-id="BFMGrandLille.fr" tvg-logo="https://i.ibb.co/mzhSFNV/bfmregions.png" group-title="Régionale",BFM GRAND LILLE

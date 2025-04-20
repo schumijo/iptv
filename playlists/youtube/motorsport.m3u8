@@ -1,0 +1,45 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="English" tvg-logo="https://www.24hseries.com/assets/img/header/24hseries-logo-white.png" tvg-id="5001", Creventic Motorsports TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745175725/ei/TfAEaNPQF5n6xN8P8I2c4QE/ip/31.36.200.237/id/qYPg3laPl9g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51436285/txs/51436280%2C51436281%2C51436282%2C51436283%2C51436284%2C51436285%2C51436286%2C51436287/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMIl8GEfwtTpkavQMjQDfBSHYEGEB57XrTDiGfTH9FTw8z5xu3FnzkxjKXdrSkdp87O-FGPqYFf/spc/_S3wKmjbgFmkrQ68Kd8zbANxFL2h9THJ0iYqxlRh85gMa-F-XKriyhEr5IIJ2IZBsZIX-74/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEXkv6mMsS9mVoFNzp4UTnZAetsXWbzpV-oNjoutbvf4CIQCMKBNSxBOTDNe3inyefdGM7ixj-Mxv4rsx5jRi3uOJiw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://www.europeanlemansseries.com/assets/img/logo_elms_header.0813b91f.svg" tvg-id="5002", European Le Mans Series
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="English" tvg-logo="https://www.lemanscup.com/assets/logo_lmc.png" tvg-id="5003", Le Mans Cup
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Français" tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_RMC_Sport_2018.svg" tvg-id="5004", RMCSport
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745175728/ei/UPAEaMDFDomB2roP-66buQU/ip/31.36.200.237/id/lxrAPG0MaCk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51379623/txs/51379623%2C51379624%2C51379625%2C51379626/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/bui/AccgBcO3Hq0SHSPnXE0-LJ76ZuRWLhIT4y20NupGgM9K-O5MYEyO_Fx3TNb6mU8HCSmvfuWwkvlzP-Cr/spc/_S3wKjYhSw1OWOKGEGokwH_q34zktba_4_yfM_hYck7-nrDjAn1gjGbJeM7fx-hse44/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYFy3eTsF7pPviVqmC7KM9RgA7DskVt4OmZkFKOd80vUCIQDePhJOBTi2aT6pg8z8e1oPeFu4yxqp5KMblafl5cn_lg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Français" tvg-logo="https://statics-ffftv.fff.fr/img/ffftv/logoFFFTV.svg" tvg-id="5005", FFF TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745175729/ei/UfAEaK6QIKGKvdIPjPOVuA4/ip/31.36.200.237/id/fhf36unWb3c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442271/txs/51442271%2C51442272%2C51442273%2C51442274%2C51442275/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMi8r8r6jYUhydJNSPmEIizNYNGS7U2HYawIPobEjhC-H_TAqn8SAyW1f5B8t7_QBtkmSm48J82/spc/_S3wKu1URs1HZwLNCUJPMbNNhEMop9sz56q9CXrEogsjNUvEmCfSFXHzsWZUJbvlPL8yWv8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIbkDf5dYKFiuYq1-RF3O-mwo2yUheUQ0F83i1L0Gd5tAiEAqdIZmGVHreS9ByLcKLV-O1kIgmQBNxdZ01d2Q7D2gek%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:F1_Academy.png" tvg-id="5006", F1 Academy
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/FIA_WEC_Logo_2019.svg/2560px-FIA_WEC_Logo_2019.svg.png" tvg-id="5007", FIA WEC
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="English" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/DTM_2024_logo.svg/1200px-DTM_2024_logo.svg.png" tvg-id="5008", DTM
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Multi" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nc2hKB2A0SqMzEgriiVnim9887K5engTUf0leZ21qU-is=s900-c-k-c0x00ffffff-no-rj" tvg-id="5009", GTWorld
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745175732/ei/VPAEaKOID97lxN8PypfOsAI/ip/31.36.200.237/id/NMM9Bp6b72E.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNBDkedS7l_6P-Z4gV4G8F3iq17toZdkce4Z-mtT_MndlF-og3vZQW78tBN_TWxldqWVqktAaG0/spc/_S3wKlO0UT8F9KNt2BZpyGyHyNcFXcewvUhCiyaLOv0UFCFrsBmZTZ4timhF0_pebw0wfVA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVmzGsk9QhnTenMy4TKi8lWVZa_PUjxG7dtXuCpeoRB8CIGO1WJMP5SwqkL26gVwrz5WJxxPWNby93Pdg9VmS3XAC/file/index.m3u8
+
+#EXTINF:-1 group-title="Français" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" tvg-id="5010", DAZN France
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5oBwn7p-FCTTDaAr3CAqwBy13TeRh4hbQg&s" tvg-id="5011", IMSA Official
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u

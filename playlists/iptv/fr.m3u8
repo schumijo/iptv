@@ -261,6 +261,8 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-r
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing7.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-id="EquidiaRacing8.fr" group-title="Sport Multiplex",EQUIDIA RACING 8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racing8.m3u8
+#EXTINF:-1 tvg-chno="431" group-title="Sport Multiplex",RMC SPORT (YOUTUBE)
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/youtube/rmcsport.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="800" tvg-id="RTLTVI.be" tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png" group-title="Etrangère",RTL TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8

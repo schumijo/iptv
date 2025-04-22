@@ -22,7 +22,7 @@ http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tmc.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tfx-fr.png" group-title="TNT",TFX
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tfx.m3u8
-#EXTREM: KO !!!!
+#EXTREM: KO PAS TNT !!!!
 #EXTINF:-1 tvg-chno="13" tvg-id="LaChaineParlementaire.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lcp-fr.png" group-title="TNT",LCP 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="France4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png" group-title="TNT",FRANCE 4

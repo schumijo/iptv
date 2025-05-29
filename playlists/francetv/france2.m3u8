@@ -1,18 +1,130 @@
-#EXTM3U
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-mp4a_96000_fra=1.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69",GROUP-ID="audio-AACL-96",LANGUAGE="fr",NAME="Francais",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-mp4a_96000_qaa=3.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69",GROUP-ID="audio-AACL-96",LANGUAGE="qaa",NAME="Version Originale",AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-mp4a_96000_qad_DESC=2.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69",GROUP-ID="audio-AACL-96",LANGUAGE="qad",NAME="Audio Description",AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.describes-video",CHANNELS="2"
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-dfxp_10000_fra_CAPT=11.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69",GROUP-ID="text",LANGUAGE="fr",NAME="Fran√ßais",DEFAULT=YES,AUTOSELECT=YES,CHARACTERISTICS="public.accessibility.describes-music-and-sound"
-#EXT-X-STREAM-INF:BANDWIDTH=255244,AVERAGE-BANDWIDTH=232039,CODECS="avc1.42801e,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-avc1_118000=9.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69
-#EXT-X-STREAM-INF:BANDWIDTH=584055,AVERAGE-BANDWIDTH=530959,CODECS="avc1.42801e,mp4a.40.2",RESOLUTION=384x216,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-avc1_400000=8.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69
-#EXT-X-STREAM-INF:BANDWIDTH=1225356,AVERAGE-BANDWIDTH=1113959,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-avc1_950000=7.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69
-#EXT-X-STREAM-INF:BANDWIDTH=1750055,AVERAGE-BANDWIDTH=1590959,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-avc1_1400000=6.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69
-#EXT-X-STREAM-INF:BANDWIDTH=3032655,AVERAGE-BANDWIDTH=2756959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-avc1_2500000=5.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69
-#EXT-X-STREAM-INF:BANDWIDTH=5947655,AVERAGE-BANDWIDTH=5406959,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio-AACL-96",SUBTITLES="text"
-https://simulcast-p.ftven.fr/ZXhwPTE3NDg0OTE1MDJ+YWNsPSUyZip+aG1hYz1hNTNlNzgwMjRhNzBiM2EyZmY4MWI2YTM2NWE0ODI1YzZlY2MxMWVmMTRmNDc5NjhhMTdkN2ZmNWFlYjU3NDg4/simulcast/France_2/hls_fr2/France_2-avc1_5000000=4.m3u8?hdnea=exp=1748470502~acl=%2f*~hmac=d7095428f3ac2b2b946b5d55282c63d9d39987b91f81c99e6ada92a8a5af6b69
+<!doctype html>
+<html class="no-js" lang="fr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>france.tv - Page d'erreur - 500</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<style>
+	html {
+		color: #222;
+		font-size: 1em;
+		line-height: 1.4;
+	}
+
+	body {
+		text-align: center;
+		background-color: #fff;
+		margin: 0;
+		padding: 0;
+		border: 0;
+	}
+
+	.browserupgrade {
+		margin: 0.2em 0;
+		background: #ccc;
+		color: #000;
+		padding: 0.2em 0;
+	}
+
+	.container {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+
+	.message {
+		/*border: 1px dashed #ccc;*/
+		border-top: 5px solid #ccc;
+		width: 40%;
+		padding: 40px 0;
+		margin: 0 auto;
+		background-color: #fff;
+	}
+
+	p {
+		display: block;
+		font: 25px/28px Arial,serif;
+		text-align: center;
+		margin: 20px 0;
+	}
+
+	strong {
+		font: bold 30px/33px Arial,serif;
+		
+	}
+
+	em {
+		font: 20px/23px Arial,serif;
+		font-style: italic;
+	}
+</style>
+</head>
+<body>
+
+<div class="container">
+	<a href="https://www.france.tv" target="_blank">
+	<svg>
+		<use xlink:href="#logo-ftv">
+			<svg id="logo-ftv" viewBox="0 0 433.8 75.1" width="100%" height="100%">
+				<path fill="#000000" d="M137.6 74.1V24.2h12.9v4c3.8-3.1 8.5-5 14.1-5 6.9 0 13.2 3.1 17.3 8 3.3 3.9 5.1 8.9 5.1 17.5v25.4h-13.4V47.6c0-6.2-2.4-12.1-10.5-12.1-5.8 0-12.1 3.3-12.1 13.4v25.2h-13.4zm105.9-10.2c-5.9 7.8-13.3 11.2-22.6 11.2-15.4 0-26.7-11.5-26.7-25.9 0-14.5 11.6-26 26.8-26 8.6 0 16.4 4 21 10l-9.5 8.3c-2.7-3.5-6.7-6-11.5-6-7.7 0-13.5 6.1-13.5 13.7 0 7.8 5.7 13.6 13.8 13.6 5.5 0 9.8-3.3 11.9-6.6l10.3 7.7zm50.8 2.2c-4.8 5.8-12.8 8.9-20.5 8.9-14.9 0-26.1-10.3-26.1-25.9 0-13.9 9.5-26 24.3-26 13.8 0 23.6 11.6 23.6 25.5 0 1.3-.1 3.2-.3 4.3h-34.4c.7 7 6.2 11.3 13.3 11.3 5.7 0 10.2-3.2 12.5-5.8l7.6 7.7zm-12.1-22.8c-.4-4.4-4.3-9.4-10.2-9.4-6.6 0-9.8 4.2-10.5 9.4h20.7zM70.7 23.1c-6.1 0-11.5 2.4-14.5 6.1v-5H43.4v49.9h13.4V45.6c0-5.6 4.7-10.1 12.1-10.1 1.9 0 4 .5 5.3.9v-13c-1-.1-2-.3-3.5-.3m305.6 50.3c-1.8.7-4.2 1.2-6.5 1.2-13.9 0-22.1-8.4-22.1-22V35.3H338V24h9.7V10.2H361V24h14v11.2h-14v18.5c0 4.6 1.2 8.9 9.7 8.9 1.9 0 3.9-.3 5.6-.7v11.5zM30.9 0c-6.8 0-12 2.5-15.5 5.9-3.6 3.4-5.4 8.2-5.4 16.2v2.1H0v11.3h10v38.6h13.4V35.5H38V24.2H23.4v-1.5c0-4.6.7-6.5 1.9-7.9 1.6-2 4.2-2.9 7.5-2.9 1.5 0 2.5 0 4.9.6V1c-3.1-.9-5.6-1-6.8-1m376 54.2L420 23.9h13.8l-22.3 49.6h-9.2l-22-49.6h13.8zm-292.4-30v4c-3.9-3.2-8.9-5-14.6-5-13.6 0-24.5 11.3-24.5 26 0 6.8 2.5 13 6.4 17.5 4.4 5.1 11.4 8.4 18.8 8.4 5 0 9.8-1.5 13.9-5v4h12.9V24.2h-12.9zm-13 38.2c-7.4 0-13.3-6-13.3-13.3 0-7.4 6-13.3 13.3-13.3 7.4 0 13.3 6 13.3 13.3.1 7.3-5.9 13.3-13.3 13.3m231.7-13.3c0 7.5-6.1 13.6-13.6 13.6S306 56.6 306 49.1s6.1-13.6 13.6-13.6c7.6 0 13.6 6.1 13.6 13.6"></path>
+			</svg>
+		</use>
+	</svg>
+	</a>
+	<div class="message">
+		<p><strong>Une erreur inattendue s'est produite.</strong></p>
+		<p>Veuillez réessayer plus tard.</p>
+		<p><em>(Nos équipes ont été informées)</em></p>
+	</div>
+</div>
+ 
+<!-- AT Internet -->
+<script type="text/javascript" src="//tag.aticdn.net/smarttag.js"></script>
+
+<script>
+var data = {"sites":[
+  {"domain":"www.francetvinfo.fr","site":"573502"},
+  {"domain":"france3-regions.francetvinfo.fr", "site":"572082"},
+  {"domain":"la1ere.francetvinfo.fr", "site":"475909"},
+  {"domain":"culturebox.francetvinfo.fr", "site":"515291"},
+  {"domain":"geopolis.francetvinfo.fr", "site":"508428"},
+  {"domain":"sport.francetvinfo.fr", "site":"508429"},
+  {"domain":"www.francetelevisions.fr", "site":"563159"},
+  {"domain":"www.france.tv", "site":"578442"},
+  {"domain":"www.zouzous.fr", "site":"569405"},
+  {"domain":"www.ludo.fr", "site":"549271"},
+  {"domain":"education.francetv.fr", "site":"513950"},
+  {"domain":"www.lesite.tv", "site":"576208"},
+  {"domain":"nouvelles-ecritures.francetv.fr", "site":"511613"},
+  {"domain":"studio-4.nouvelles-ecritures.francetv.fr", "site":"475906"},
+  {"domain":"irl.nouvelles-ecritures.francetv.fr", "site":"511613"}
+]};
+
+var xitiSite = 475910;
+var path = window.location.hostname;
+
+for (var $cpt = 0 ; $cpt < data.sites.length ; $cpt ++) {
+	if (path == data.sites[$cpt]['domain']) {
+		xitiSite = data.sites[$cpt]['site'];
+	}
+}
+
+var tag = new ATInternet.Tracker.Tag({
+	log: "logc238",
+	logSSL: "logs1238",
+	secure: false,
+	site: xitiSite,
+	domain: "xiti.com"
+});
+tag.page.set({name: 'erreur-exploit-500'});
+tag.dispatch();
+</script>
+<!-- End AT Internet -->
+
+</body>
+</html>

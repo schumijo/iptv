@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="CStar.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-star-fr.png" group-title="TNT",CSTAR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="t18.fr" group-title="TNT",T18
+#EXTINF:-1 tvg-chno="18" tvg-id="t18.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/t18-fr.png" group-title="TNT",T18
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/t18/t18.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-series-films-fr.png" group-title="TNT",TF1 SERIES FILMS
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/tf1-series-films.m3u8

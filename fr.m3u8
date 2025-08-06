@@ -81,22 +81,26 @@ https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTINF:-1 tvg-chno="161" group-title="Informations Françaises",BFM TV 2
+#EXTINF:-1 tvg-chno="160" group-title="Informations Françaises",BFM TV 2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="162" tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="Infos et News",BFM BUSINESS
+#EXTINF:-1 tvg-chno="161" tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="Informations Françaises",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="163" tvg-id="BSmart.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png" group-title="Infos et News",B SMART
+#EXTINF:-1 tvg-chno="162" group-title="Informations Françaises",BFM TV GRANDS REPORTAGES
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-chno="163" tvg-id="BSmart.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png" group-title="Informations Françaises",B SMART
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
-#EXTINF:-1 tvg-chno="164" tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Infos et News",EURONEWS FR
+#EXTINF:-1 tvg-chno="164" tvg-id="Euronews.fr" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Informations Françaises",EURONEWS FR
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="Infos et News",LE MÉDIA TV
+#EXTINF:-1 tvg-chno="165" tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg" group-title="Informations Françaises",LE MÉDIA TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Infos et News",FRANCE 24 FR
+#EXTINF:-1 tvg-chno="166" tvg-id="France24.fr" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Informations Françaises",FRANCE 24 FR
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france24.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="LCP100.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="Infos et News",LCP-AN 24H
+#EXTINF:-1 tvg-chno="167" tvg-id="LCP100.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="Informations Françaises",LCP-AN 24H
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/lcpan/lcp1.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-id="PublicSenat2424.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="Infos et News",PUBLIC-SÉNAT 24H
+#EXTINF:-1 tvg-chno="168" tvg-id="PublicSenat2424.fr" tvg-logo="https://i.ibb.co/PmmR72J/lcp.png" group-title="Informations Françaises",PUBLIC-SÉNAT 24H
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+#EXTINF:-1 tvg-chno="169" group-title="Informations Françaises",RMC TALK INFO
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-id="InfosportPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/infosport-plus-fr.png" group-title="Sport",INFOSPORT+
 http://212.102.60.80/Infosport/index.m3u8
 #EXTINF:-1 tvg-chno="176" tvg-id="Equidia.fr" tvgtvg-logo="https://i.ibb.co/p0CLPqT/equidia.png" group-title="Sport Thématique",ÉQUIDIA
@@ -113,10 +117,12 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" group-title="Découverte",L'ÉSPRIT SORCIER TV
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
-#EXTINF:-1 tvg-chno="222" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
+#EXTINF:-1 tvg-chno="225" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-chno="233" group-title="Style de vie/Pratique",RMC MECANIC
+https://jmp2.uk/sam-FR300003ZB.m3u8
 #EXTINF:-1 tvg-chno="238" tvg-id="MensUpTV.fr" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png" group-title="Style de vie/Pratique",MEN'S UP TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/mensuptv.m3u8
 #EXTINF:-1 tvg-chno="239" tvg-id="TopSanteTV.fr" tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png" group-title="Style de vie/Pratique",TOP SANTÉ

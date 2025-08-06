@@ -60,6 +60,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-chno="75" group-title="Séries et Divertissements",Série Max
 https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+#EXTINF:-1 tvg-chno="76" group-title="Séries et Divertissements",SONY ONE THE BLACKLIST
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-chno="91" group-title="Séries et Divertissements",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-id="Gong.fr" tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg" group-title="Séries et Divertissements",GONG
@@ -76,7 +78,17 @@ https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls
 https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="FRBB4600002K5" tvg-log="https://static.wixstatic.com/media/6ba705_7aaafdef307149ee8290018a1a80aa96~mv2.png" group-title="Cinéma",SCREAM'IN
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-chno="138" group-title="Cinéma",Ciné Max 
+#EXTINF:-1 tvg-chno="130" group-title="Cinéma",SONY ONE HITS ACTION
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="131" group-title="Cinéma",SONY ONE HITS COMEDIE
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="132" group-title="Cinéma",SONY ONE FAVORIS
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="133" group-title="Cinéma",SONY ONE SERIES COMEDIES
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="134" group-title="Cinéma",SONY ONE SERIES THRILLER
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="138" group-title="Cinéma",CINE MAX
 https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="Jeunesse",TIJI

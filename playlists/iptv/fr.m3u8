@@ -121,6 +121,8 @@ https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-chno="233" group-title="Style de vie/Pratique",RMC MECANIC
+https://jmp2.uk/sam-FR300003ZB.m3u8
 #EXTINF:-1 tvg-chno="238" tvg-id="MensUpTV.fr" tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png" group-title="Style de vie/Pratique",MEN'S UP TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/mensuptv.m3u8
 #EXTINF:-1 tvg-chno="239" tvg-id="TopSanteTV.fr" tvg-logo="https://i.ibb.co/TLPBT2L/topsante.png" group-title="Style de vie/Pratique",TOP SANTÉ

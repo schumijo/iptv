@@ -81,9 +81,9 @@ https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://i.ibb.co/vmk02Tc/tiji.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-#EXTINF:-1 tvg-chno="161" group-title="Informations Françaises",BFM TV 2
+#EXTINF:-1 tvg-chno="160" group-title="Informations Françaises",BFM TV 2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="162" tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="Infos et News",BFM BUSINESS
+#EXTINF:-1 tvg-chno="161" tvg-id="BFMBusiness.fr" tvg-logo="https://i.ibb.co/HDB0sdh/bfmbusiness.png" group-title="Infos et News",BFM BUSINESS
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="163" tvg-id="BSmart.fr" tvg-logo="https://i.ibb.co/Tm8bZHc/bsmart.png" group-title="Infos et News",B SMART
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
@@ -113,7 +113,7 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" group-title="Découverte",L'ÉSPRIT SORCIER TV
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
-#EXTINF:-1 tvg-chno="222" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
+#EXTINF:-1 tvg-chno="225" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END

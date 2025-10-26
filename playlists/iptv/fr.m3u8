@@ -47,7 +47,7 @@ https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="TNT",RMC DÉCOUVERTE
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/cherie-25-fr.png" group-title="TNT",CHÉRIE 25
+#EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-life-fr.png" group-title="TNT",RMC LIFE
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="Sports",EUROSPORT 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport1.m3u8
@@ -249,22 +249,32 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?st
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="337" tvg-id="LaChaineNormande.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMnormandiecoul.png" group-title="Régionale",BFM NORMANDIE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-chno="411" tvg-id="LEquipeLive1.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 1
+#EXTINF:-1 tvg-chno="401" tvg-id="LEquipeLive1.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 1
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
-#EXTINF:-1 tvg-chno="412" tvg-id="LEquipeLive2.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 2
+#EXTINF:-1 tvg-chno="402" tvg-id="LEquipeLive2.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
-#EXTINF:-1 tvg-chno="413" tvg-id="LEquipeLiveFoot.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE FOOT
+#EXTINF:-1 tvg-chno="403" tvg-id="LEquipeLiveFoot.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE FOOT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
-#EXTINF:-1 tvg-chno="414" tvg-id="LEquipeLive3.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 3
+#EXTINF:-1 tvg-chno="404" tvg-id="LEquipeLive3.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 3
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
-#EXTINF:-1 tvg-chno="415" tvg-id="LEquipeLive4.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 4
+#EXTINF:-1 tvg-chno="405" tvg-id="LEquipeLive4.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 4
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive4.m3u8
-#EXTINF:-1 tvg-chno="416" tvg-id="LEquipeLive5.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 5
+#EXTINF:-1 tvg-chno="406" tvg-id="LEquipeLive5.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 5
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive6.m3u8
-#EXTINF:-1 tvg-chno="417" tvg-id="LEquipeLive6.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 6
+#EXTINF:-1 tvg-chno="407" tvg-id="LEquipeLive6.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 6
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
-#EXTINF:-1 tvg-chno="418" tvg-id="LEquipeLive7.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 7
+#EXTINF:-1 tvg-chno="408" tvg-id="LEquipeLive7.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 7
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.m3u8
+#EXTINF:-1 tvg-chno="411" tvg-id="Eurosport3601.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-1.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-id="Eurosport3602.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-2.m3u8
+#EXTINF:-1 tvg-chno="414" tvg-id="Eurosport3604.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 4
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-4.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-id="Eurosport3605.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 5
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-5.m3u8
+#EXTINF:-1 tvg-chno="416" tvg-id="Eurosport3606.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 6
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport360-6.m3u8
 #EXTINF:-1 tvg-chno="420" tvg-id="EquidiaRacingTrot.fr" group-title="Sport Multiplex",EQUIDIA RACING TROT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-racingtrot.m3u8
 #EXTINF:-1 tvg-chno="421" tvg-id="EquidiaRacingGalop.fr" group-title="Sport Multiplex",EQUIDIA RACING GALOP

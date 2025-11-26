@@ -96,6 +96,8 @@ https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 #EXTINF:-1 tvg-chno="149" tvg-id="CanalJ.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-j-fr.png" group-title="Jeunesse",CANAL J
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 tvg-chno="159" tvg-logo="https://freebox.cdn.scw.iliad.fr/CNEWSPRIME_500_500_71081787c7.png" group-title="Informations Françaises",CNEWS PRIME
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews_prime.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-id="BFM2.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFM2coul.png" group-title="Informations Françaises",BFM TV 2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="161" tvg-id="BFMBusiness.fr" tvg-id="BFMBusiness.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-business-fr.png" group-title="Informations Françaises",BFM BUSINESS

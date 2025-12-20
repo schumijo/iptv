@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport
 #EXTINF:-1 tvg-chno="33" tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="Sports",EUROSPORT 2
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/eurosport2.m3u8
 #EXTINF:-1 tvg-chno="40" tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-fr.png" group-title="TNT",CANAL+ EN CLAIR
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/canalplus.m3u8
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-id="AB1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/ab1-fr.png" group-title="Premium",AB1
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="ParamountChannel.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paramount-channel-fr.png" group-title="Premium",PARAMOUNT NETWORK
@@ -77,8 +77,10 @@ https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-id="Gong.fr" tvg-logo="https://i.ibb.co/MMpFXQL/gong.jpg" group-title="Séries et Divertissements",GONG
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-chno="98" group-title="Séries et Divertissements",Novela Channel
+#EXTINF:-1 tvg-chno="98" group-title="Séries et Divertissements",NOVELA CHANNEL
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_POPCORN_emission_Logo_Reproduction_8ad41ad83b.png" group-title="Séries et Divertissements",POPCORN
+https://dyc8bdiow0oz1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/pcorn.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_5.png" group-title="Cinéma",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2.png" group-title="Cinéma",LG 1:FILM

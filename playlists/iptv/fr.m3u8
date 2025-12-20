@@ -48,7 +48,7 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="24" tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="TNT",RMC DÉCOUVERTE
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="Cherie25.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-life-fr.png" group-title="TNT",RMC LIFE
-https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="RTL9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rtl9-fr.png" group-title="Mini généralistes",RTL9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="Eurosport1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="Sports",EUROSPORT 1
@@ -79,6 +79,12 @@ https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-chno="98" group-title="Séries et Divertissements",Novela Channel
 https://video1.getstreamhosting.com:1936/8494/8494/playlist.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_5.png" group-title="Cinéma",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2.png" group-title="Cinéma",LG 1:FILM
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13954
+#EXTINF:-1 tvg-chno="110" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2.png" group-title="Cinéma",LG 1:FILM
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13954
 #EXTINF:-1 tvg-chno="123" tvg-id="TCM.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tcm-cinema-fr.png" group-title="Cinéma",TCM CINEMA
 https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
 #EXTINF:-1 tvg-chno="125" tvg-id="FRBB39000020C" tvg-logo="https://static.wixstatic.com/media/6ba705_4a8e930e0e1e4231b059e29e951d15ad~mv2.png" group-title="Cinéma",CINE NANAR
@@ -101,8 +107,6 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-id="FR3000125U" group-title="Cinéma",SONY ONE SERIES THRILLER
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-chno="139" group-title="Cinéma",LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
@@ -138,6 +142,8 @@ http://212.102.60.80/Infosport/index.m3u8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live2.m3u8
 #EXTINF:-1 tvg-chno="178" tvg-id="TRACESportStars.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-sport-stars-fr.png" group-title="Sport Thématique",TRACE SPORTS STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="179" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_logo_afterfoot_TV_fondblanc_83130699dd.png" group-title="Sport Thématique",AFTER FOOT TV
+https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-tv-fr.png" group-title="Sport Thématique",MOTORVISION TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-chno="187" group-title="Sport Thématique",JOURNAL DU GOLF TV
@@ -155,7 +161,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_logo_TECH_and_Co_fondblanc_freebox_1000x1000_dbcd77195a.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="233" tvg-id="RMCMecanic.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICcoul.png" group-title="Style de vie/Pratique",RMC MECANIC
-https://jmp2.uk/stvp-FR300003ZB
+https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ebepfdmg74kzh/RMC_MECANIC_FR.m3u8
 #EXTINF:-1 tvg-chno="238" tvg-id="MensUpTV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/238_176038a03a.png" group-title="Style de vie/Pratique",MEN'S UP TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/mensuptv.m3u8
 #EXTREM: KO !!!!

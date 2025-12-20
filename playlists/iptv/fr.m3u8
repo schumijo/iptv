@@ -101,6 +101,8 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-id="FR3000125U" group-title="Cinéma",SONY ONE SERIES THRILLER
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-chno="139" group-title="Cinéma",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782
 #EXTREM: KO !!!!
 #EXTINF:-1 tvg-chno="142" tvg-id="TIJI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tiji-fr.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
@@ -344,5 +346,3 @@ https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Logo_de_Weo_Picardie_2023_bbb78313de.png" group-title="Locale",WÉO PICARDIE
 https://live-weo.digiteka.com/1189023466/index.m3u8
-#EXTINF:-1 tvg-chno="999",LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782

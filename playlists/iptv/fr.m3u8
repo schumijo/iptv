@@ -344,3 +344,5 @@ https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u
 https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923.m3u8
 #EXTINF:-1 tvg-chno="941" tvg-id="WeoPicardie.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_Logo_de_Weo_Picardie_2023_bbb78313de.png" group-title="Locale",WÉO PICARDIE
 https://live-weo.digiteka.com/1189023466/index.m3u8
+#EXTINF:-1 tvg-chno="999",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782

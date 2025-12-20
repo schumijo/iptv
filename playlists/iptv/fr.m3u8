@@ -58,9 +58,9 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/canalpl
 #EXTINF:-1 tvg-chno="70" tvg-id="TV5Monde.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tv5-monde-fr.png" group-title="Premium",TV5MONDE FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-id="FranceTVSeries.fr" tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png" group-title="Séries et Divertissements",FRANCE TV SÉRIES
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
-#EXTINF:-1 tvg-chno="75" group-title="Séries et Divertissements",Série Max
-https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/series.m3u8
+##EXTINF:-1 tvg-chno="75" group-title="Séries et Divertissements",Série Max
+#https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="FR300010HD" group-title="Séries et Divertissements",SONY ONE THE BLACKLIST
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-id="FRBC3900003ZH" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/mgg-tv-fr.png" group-title="Séries et Divertissements",MGG E-SPORT
@@ -130,14 +130,14 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/sport-en-france-fr.png" group-title="Sport Thématique",SPORT EN FRANCE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
-#EXTINF:-1 tvg-chno="199" group-title="Sport Thématique",TENNIS CHANNEL
+#EXTINF:-1 tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="Sport Thématique",TENNIS CHANNEL
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/tennis-channel.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-id="Museum.fr" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="Découverte",MUSEUM TV
 https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-id="LEspritSorcier.fr" tvg-logo="https://i.ibb.co/yPsXSFf/esprsorc.png" group-title="Découverte",L'ÉSPRIT SORCIER TV
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
 #EXTINF:-1 tvg-chno="225" tvg-id="FranceTVDocs.fr" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://i.ibb.co/443jKxq/techco.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="233" tvg-id="RMCMecanic.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICcoul.png" group-title="Style de vie/Pratique",RMC MECANIC
@@ -160,6 +160,8 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
 #EXTINF:-1 tvg-chno="253" group-title="Style de vie/Pratique",MIEUX TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/mieux.m3u8
+#EXTINF:-1 tvg-chno="254" group-title="Style de vie/Pratique",INA
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
 #EXTINF:-1 tvg-chno="262" tvg-id="Melody.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/melody-fr.png" group-title="Musique",MÉLODY
 https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="274" tvg-id="ClubbingTV.fr" tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png" group-title="Musique",CLUBBING TV

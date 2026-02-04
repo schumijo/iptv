@@ -149,6 +149,8 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
 #EXTINF:-1 tvg-chno="182" tvg-id="MotorVisionTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/motorvision-tv-fr.png" group-title="Sport Thématique",MOTORVISION TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-chno="184" group-title="Sport Thématique",FRANCE TV SPORT
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
 #EXTINF:-1 tvg-chno="187" group-title="Sport Thématique",JOURNAL DU GOLF TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/sport-en-france-fr.png" group-title="Sport Thématique",SPORT EN FRANCE

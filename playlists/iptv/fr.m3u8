@@ -152,11 +152,11 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-chno="184" group-title="Sport Thématique",FRANCE TV SPORT
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3u8
 #EXTINF:-1 tvg-chno="187" group-title="Sport Thématique",JOURNAL DU GOLF TV
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/my-new-video-title-dm.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/sport-en-france-fr.png" group-title="Sport Thématique",SPORT EN FRANCE
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="Sport Thématique",TENNIS CHANNEL
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/tennis-channel.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/tennis-channel-dm.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-id="Museum.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/213_2a0a085d44.png" group-title="Découverte",MUSEUM TV
 https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-id="LEspritSorcier.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_220_Esprit_sorcier_alpha_orange_800x400_8e6009c26d.png" group-title="Découverte",L'ÉSPRIT SORCIER TV
@@ -277,19 +277,19 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end
 #EXTINF:-1 tvg-chno="337" tvg-id="LaChaineNormande.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300BFMnormandiecoul.png" group-title="Régionale",BFM NORMANDIE
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="401" tvg-id="LEquipeLive1.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 1
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 #EXTINF:-1 tvg-chno="402" tvg-id="LEquipeLive2.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 2
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
 #EXTINF:-1 tvg-chno="403" tvg-id="LEquipeLive3.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 3
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive3.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3-dm.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-id="LEquipeLive4.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 4
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive4.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-4-dm.m3u8
 #EXTINF:-1 tvg-chno="405" tvg-id="LEquipeLive5.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 5
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5-dm.m3u8
 #EXTINF:-1 tvg-chno="406" tvg-id="LEquipeLive6.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 6
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive6.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-6-dm.m3u8
 #EXTINF:-1 tvg-chno="407" tvg-id="LEquipeLive7.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 7
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive7.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7-dm.m3u8
 #EXTINF:-1 tvg-chno="408" tvg-id="LEquipeLive8.fr" tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sport Multiplex",L'ÉQUIPE LIVE 8
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive8.m3u8
 #EXTINF:-1 tvg-chno="411" tvg-id="Eurosport3601.fr" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FB/CHN43FB_635_20220110" group-title="Sport Multiplex",EUROSPORT360 1

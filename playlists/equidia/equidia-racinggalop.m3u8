@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racinggalop-p32-cdn.hexaglobe.net/b4f9a809e1c44596c6057e73ce7a52ff/69a8bbcc/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_audio_french.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-racinggalop-p31-cdn.hexaglobe.net/54a8de3ccb492005d372690884a0e858/69a8f40c/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_audio_french.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/b4f9a809e1c44596c6057e73ce7a52ff/69a8bbcc/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_1080p.m3u8
+https://equidia-racinggalop-p31-cdn.hexaglobe.net/54a8de3ccb492005d372690884a0e858/69a8f40c/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_1080p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720,AUDIO="group_aud"
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/b4f9a809e1c44596c6057e73ce7a52ff/69a8bbcc/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_720p.m3u8
+https://equidia-racinggalop-p31-cdn.hexaglobe.net/54a8de3ccb492005d372690884a0e858/69a8f40c/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_720p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=848x480,AUDIO="group_aud"
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/b4f9a809e1c44596c6057e73ce7a52ff/69a8bbcc/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_480p.m3u8
+https://equidia-racinggalop-p31-cdn.hexaglobe.net/54a8de3ccb492005d372690884a0e858/69a8f40c/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_480p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=432x240,AUDIO="group_aud"
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/b4f9a809e1c44596c6057e73ce7a52ff/69a8bbcc/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_240p.m3u8
+https://equidia-racinggalop-p31-cdn.hexaglobe.net/54a8de3ccb492005d372690884a0e858/69a8f40c/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_240p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144,AUDIO="group_aud"
-https://equidia-racinggalop-p32-cdn.hexaglobe.net/b4f9a809e1c44596c6057e73ce7a52ff/69a8bbcc/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_144p.m3u8
+https://equidia-racinggalop-p31-cdn.hexaglobe.net/54a8de3ccb492005d372690884a0e858/69a8f40c/equidia/equidia-mobileapp-ios-1/eqdracinggalop_fre.smil//slot11_144p.m3u8
 

@@ -195,6 +195,8 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-chno="285" tvg-id="TraceUrban.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-urban-fr.png" group-title="Musique",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="286" group-title="Musique",TRACE BRASIL
+https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-fr/CDN/master.m3u8
 #EXTINF:-1 tvg-chno="294" tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-latina-fr.png" group-title="Musique",TRACE LATINA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-chno="295" tvg-id="BBlackAfrica.fr" tvg-logo="https://i.ibb.co/JB18vMW/bblack.png" group-title="Musique",BBLACK! AFRICA

@@ -1,18 +1,18 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-live2-p31-cdn.hexaglobe.net/8c652284c4f8aff3755b2e96dd212a24/69fd0dba/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_audio_french.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",NAME="audio_0",DEFAULT=YES,LANGUAGE="fra",URI="https://equidia-live2-p31-cdn.hexaglobe.net/4f188fa4fee8e7f1b997879b926e922e/69fd45fa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_audio_french.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=2820400,RESOLUTION=1920x1080,AUDIO="group_aud"
-https://equidia-live2-p31-cdn.hexaglobe.net/8c652284c4f8aff3755b2e96dd212a24/69fd0dba/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_1080p.m3u8
+https://equidia-live2-p31-cdn.hexaglobe.net/4f188fa4fee8e7f1b997879b926e922e/69fd45fa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_1080p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2270400,RESOLUTION=1280x720,AUDIO="group_aud"
-https://equidia-live2-p31-cdn.hexaglobe.net/8c652284c4f8aff3755b2e96dd212a24/69fd0dba/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_720p.m3u8
+https://equidia-live2-p31-cdn.hexaglobe.net/4f188fa4fee8e7f1b997879b926e922e/69fd45fa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_720p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1390400,RESOLUTION=848x480,AUDIO="group_aud"
-https://equidia-live2-p31-cdn.hexaglobe.net/8c652284c4f8aff3755b2e96dd212a24/69fd0dba/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_480p.m3u8
+https://equidia-live2-p31-cdn.hexaglobe.net/4f188fa4fee8e7f1b997879b926e922e/69fd45fa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_480p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=730400,RESOLUTION=432x240,AUDIO="group_aud"
-https://equidia-live2-p31-cdn.hexaglobe.net/8c652284c4f8aff3755b2e96dd212a24/69fd0dba/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_240p.m3u8
+https://equidia-live2-p31-cdn.hexaglobe.net/4f188fa4fee8e7f1b997879b926e922e/69fd45fa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_240p.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=400400,RESOLUTION=256x144,AUDIO="group_aud"
-https://equidia-live2-p31-cdn.hexaglobe.net/8c652284c4f8aff3755b2e96dd212a24/69fd0dba/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_144p.m3u8
+https://equidia-live2-p31-cdn.hexaglobe.net/4f188fa4fee8e7f1b997879b926e922e/69fd45fa/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil//slot09_144p.m3u8
 

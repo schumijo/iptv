@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/sport.m3
 #EXTINF:-1 tvg-chno="187" group-title="Sport Thématique",JOURNAL DU GOLF TV
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/jdg-tv.m3u8
 #EXTINF:-1 tvg-chno="190" tvg-id="SportEnFrance.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/sport-en-france-fr.png" group-title="Sport Thématique",SPORT EN FRANCE
-https://cdndirector.dailymotion.com/cdn/live/video/x8sayn8.m3u8?sec=OczrgfJ8fxJ8C8ofq2fqhrkhACIr7JLLZ4ffQZCqHJujpYSnZTLuBIlsnXZVwwooQ-fxMRNVrh1VV8Bm5Z3Cnd7UK_PD6qcM7uwmsuk6gY0
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/sportenfrance.m3u8
 #EXTINF:-1 tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="Sport Thématique",TENNIS CHANNEL
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/tennis-channel.m3u8
 #EXTREM: KO !!!!

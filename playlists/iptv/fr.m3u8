@@ -153,6 +153,8 @@ https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hl
 https://edge17.vedge.infomaniak.com/livecast/ik:bazikafrica/manifest.m3u8
 #EXTINF:-1 tvg-chno="225" tvg-id="FranceTVDocs.fr" tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Découverte",FRANCE TV DOCS
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u8
+#EXTINF:-1 tvg-chno="226" group-title="Découverte",FRANCE TV MATERNELLES
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/maternelles.m3u8
 #EXTINF:-1 tvg-chno="231" tvg-id="01TV.fr" tvg-logo="https://freebox.cdn.scw.iliad.fr/medium_logo_TECH_and_Co_fondblanc_freebox_1000x1000_dbcd77195a.png" group-title="Style de vie/Pratique",TECH&CO
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="233" tvg-id="RMCMecanic.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCMECANICcoul.png" group-title="Style de vie/Pratique",RMC MECANIC
